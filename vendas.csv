@@ -1,0 +1,2001 @@
+data,cidade,categoria,produto,quantidade,forma_pagamento,avaliacao,total
+2025-01-01 00:00:00.000000,Petrolina,Porção,Refrigerante,1,Pix,3.1,40.9
+2025-01-01 04:22:12.666333,Garanhuns,Sanduíche,Sanduíche Natural,3,Pix,2.2,158.61
+2025-01-01 08:44:25.332666,Caruaru,Pizza,X-Bacon,3,Cartão de débito,2.7,36.46
+2025-01-01 13:06:37.998999,Garanhuns,Hambúrguer,Água,1,Dinheiro,2.2,48.46
+2025-01-01 17:28:50.665332,Garanhuns,Bebida,Batata Frita,4,Dinheiro,2.1,134.55
+2025-01-01 21:51:03.331665,Olinda,Bebida,Água,2,Dinheiro,1.7,74.67
+2025-01-02 02:13:15.997998,Caruaru,Hambúrguer,Refrigerante,3,Cartão de crédito,2.5,126.01
+2025-01-02 06:35:28.664332,Caruaru,Hambúrguer,Pizza de Frango,2,Cartão de débito,2.0,111.95
+2025-01-02 10:57:41.330665,Caruaru,Pizza,X-Bacon,5,Pix,3.7,54.75
+2025-01-02 15:19:53.996998,Garanhuns,Sanduíche,Sanduíche Natural,1,Pix,3.7,9.53
+2025-01-02 19:42:06.663331,Petrolina,Bebida,X-Bacon,4,Cartão de débito,3.0,69.08
+2025-01-03 00:04:19.329664,Caruaru,Pizza,X-Bacon,5,Pix,4.1,296.48
+2025-01-03 04:26:31.995997,Garanhuns,Sanduíche,Batata Frita,5,Pix,4.4,225.92
+2025-01-03 08:48:44.662331,Olinda,Pizza,Água,5,Cartão de débito,3.3,199.81
+2025-01-03 13:10:57.328664,Petrolina,Bebida,Suco,1,Pix,3.5,10.45
+2025-01-03 17:33:09.994997,Olinda,Hambúrguer,Pizza de Frango,3,Dinheiro,2.1,161.14
+2025-01-03 21:55:22.661330,Petrolina,Hambúrguer,Batata Frita,1,Cartão de crédito,4.6,50.26
+2025-01-04 02:17:35.327663,Garanhuns,Sanduíche,Coxinha,3,Cartão de débito,,127.71
+2025-01-04 06:39:47.993996,Recife,Porção,Batata Frita,5,Cartão de crédito,2.4,128.17
+2025-01-04 11:02:00.660330,Petrolina,Sanduíche,Refrigerante,5,Pix,3.9,58.33
+2025-01-04 15:24:13.326663,Olinda,Porção,Pizza de Frango,4,Pix,1.3,152.65
+2025-01-04 19:46:25.992996,Garanhuns,Pizza,X-Sertão,3,Dinheiro,1.7,136.27
+2025-01-05 00:08:38.659329,Petrolina,Pizza,Coxinha,5,Cartão de débito,,64.5
+2025-01-05 04:30:51.325662,Recife,Bebida,Pizza de Calabresa,2,Pix,3.2,81.91
+2025-01-05 08:53:03.991995,Recife,Porção,Batata Frita,4,Cartão de débito,4.0,91.56
+2025-01-05 13:15:16.658329,Caruaru,Bebida,X-Bacon,1,Cartão de débito,4.3,47.74
+2025-01-05 17:37:29.324662,Caruaru,Hambúrguer,Suco,4,Cartão de débito,1.5,144.24
+2025-01-05 21:59:41.990995,Olinda,Porção,X-Sertão,2,Cartão de débito,,29.42
+2025-01-06 02:21:54.657328,Petrolina,Sanduíche,Batata Frita,3,Cartão de débito,3.8,106.14
+2025-01-06 06:44:07.323661,Petrolina,Hambúrguer,Batata Frita,1,Cartão de crédito,2.2,28.58
+2025-01-06 11:06:19.989994,Caruaru,Hambúrguer,Sanduíche Natural,1,Dinheiro,3.5,17.38
+2025-01-06 15:28:32.656328,Petrolina,Sanduíche,Sanduíche Natural,3,Cartão de débito,1.6,155.28
+2025-01-06 19:50:45.322661,Petrolina,Hambúrguer,X-Sertão,4,Cartão de crédito,2.9,34.29
+2025-01-07 00:12:57.988994,Recife,Porção,Água,5,Pix,3.0,121.15
+2025-01-07 04:35:10.655327,Caruaru,Bebida,Sanduíche Natural,4,Cartão de débito,3.3,34.62
+2025-01-07 08:57:23.321660,Garanhuns,Hambúrguer,X-Bacon,2,Pix,3.1,25.98
+2025-01-07 13:19:35.987993,Caruaru,Porção,Coxinha,5,Cartão de débito,3.0,117.25
+2025-01-07 17:41:48.654327,Garanhuns,Pizza,Pizza de Calabresa,4,Cartão de crédito,2.3,43.29
+2025-01-07 22:04:01.320660,Recife,Porção,Pizza de Frango,3,Cartão de crédito,1.3,117.07
+2025-01-08 02:26:13.986993,Olinda,Bebida,Pizza de Calabresa,2,Cartão de crédito,1.4,25.03
+2025-01-08 06:48:26.653326,Petrolina,Porção,Pizza de Calabresa,2,Dinheiro,2.7,88.98
+2025-01-08 11:10:39.319659,Recife,Sanduíche,Pizza de Frango,2,Pix,2.4,21.47
+2025-01-08 15:32:51.985992,Petrolina,Bebida,Sanduíche Natural,5,Dinheiro,3.1,55.42
+2025-01-08 19:55:04.652326,Olinda,Pizza,X-Sertão,1,Cartão de débito,2.2,23.88
+2025-01-09 00:17:17.318659,Olinda,Sanduíche,Pizza de Frango,5,Pix,3.8,273.11
+2025-01-09 04:39:29.984992,Recife,Porção,Refrigerante,4,Cartão de crédito,4.5,165.41
+2025-01-09 09:01:42.651325,Olinda,Bebida,Água,1,Pix,2.2,48.05
+2025-01-09 13:23:55.317658,Garanhuns,Pizza,Coxinha,4,Cartão de crédito,1.8,61.44
+2025-01-09 17:46:07.983991,Olinda,Sanduíche,Suco,1,Dinheiro,1.5,51.37
+2025-01-09 22:08:20.650325,Petrolina,Pizza,Sanduíche Natural,5,Dinheiro,3.5,42.12
+2025-01-10 02:30:33.316658,Petrolina,Porção,Água,2,Cartão de crédito,2.8,38.16
+2025-01-10 06:52:45.982991,Petrolina,Pizza,Pizza de Frango,3,Cartão de crédito,1.8,120.11
+2025-01-10 11:14:58.649324,Petrolina,Hambúrguer,Refrigerante,2,Cartão de débito,3.6,55.03
+2025-01-10 15:37:11.315657,Garanhuns,Sanduíche,Suco,5,Dinheiro,1.6,295.89
+2025-01-10 19:59:23.981990,Caruaru,Pizza,Coxinha,1,Dinheiro,3.2,9.58
+2025-01-11 00:21:36.648324,Recife,Porção,Coxinha,2,Cartão de débito,3.1,119.85
+2025-01-11 04:43:49.314657,Petrolina,Porção,Sanduíche Natural,5,Dinheiro,3.9,202.14
+2025-01-11 09:06:01.980990,Olinda,Pizza,Pizza de Frango,4,Cartão de crédito,1.2,148.21
+2025-01-11 13:28:14.647323,Petrolina,Porção,Água,3,Pix,4.6,33.28
+2025-01-11 17:50:27.313656,Olinda,Bebida,X-Sertão,2,Pix,3.8,44.43
+2025-01-11 22:12:39.979989,Olinda,Bebida,Água,1,Dinheiro,1.9,56.08
+2025-01-12 02:34:52.646323,Petrolina,Bebida,Água,4,Cartão de débito,1.7,105.68
+2025-01-12 06:57:05.312656,Garanhuns,Hambúrguer,Coxinha,5,Cartão de crédito,2.7,212.03
+2025-01-12 11:19:17.978989,Olinda,Pizza,X-Sertão,3,Pix,4.3,179.92
+2025-01-12 15:41:30.645322,Olinda,Hambúrguer,X-Sertão,1,Cartão de crédito,4.4,21.68
+2025-01-12 20:03:43.311655,Petrolina,Porção,Sanduíche Natural,5,Dinheiro,3.1,189.78
+2025-01-13 00:25:55.977988,Olinda,Hambúrguer,Suco,5,Dinheiro,4.4,221.07
+2025-01-13 04:48:08.644322,Olinda,Porção,Batata Frita,2,Pix,1.0,33.12
+2025-01-13 09:10:21.310655,Petrolina,Porção,Pizza de Calabresa,2,Dinheiro,1.1,31.46
+2025-01-13 13:32:33.976988,Petrolina,Sanduíche,Pizza de Calabresa,1,Cartão de débito,4.6,31.73
+2025-01-13 17:54:46.643321,Recife,Bebida,Coxinha,5,Dinheiro,4.1,140.31
+2025-01-13 22:16:59.309654,Garanhuns,Porção,Batata Frita,2,Dinheiro,2.8,90.28
+2025-01-14 02:39:11.975987,Garanhuns,Sanduíche,Suco,3,Dinheiro,4.0,34.84
+2025-01-14 07:01:24.642321,Olinda,Bebida,Batata Frita,3,Cartão de crédito,4.8,175.66
+2025-01-14 11:23:37.308654,Garanhuns,Porção,Sanduíche Natural,5,Cartão de crédito,4.1,43.71
+2025-01-14 15:45:49.974987,Olinda,Porção,Água,2,Pix,,78.54
+2025-01-14 20:08:02.641320,Recife,Hambúrguer,Coxinha,1,Pix,4.0,37.26
+2025-01-15 00:30:15.307653,Petrolina,Hambúrguer,X-Sertão,1,Pix,1.7,15.01
+2025-01-15 04:52:27.973986,Petrolina,Bebida,Coxinha,1,Dinheiro,4.3,15.85
+2025-01-15 09:14:40.640320,Petrolina,Porção,Pizza de Calabresa,3,Cartão de crédito,1.8,147.66
+2025-01-15 13:36:53.306653,Garanhuns,Pizza,Suco,2,Cartão de débito,4.6,108.31
+2025-01-15 17:59:05.972986,Recife,Hambúrguer,Batata Frita,2,Dinheiro,2.8,45.43
+2025-01-15 22:21:18.639319,Garanhuns,Bebida,Suco,3,Dinheiro,3.7,92.32
+2025-01-16 02:43:31.305652,Garanhuns,Porção,Sanduíche Natural,1,Dinheiro,3.0,26.46
+2025-01-16 07:05:43.971985,Recife,Porção,Coxinha,1,Cartão de débito,1.4,11.77
+2025-01-16 11:27:56.638319,Recife,Pizza,Pizza de Frango,5,Pix,2.2,215.03
+2025-01-16 15:50:09.304652,Recife,Bebida,Coxinha,4,Cartão de débito,4.9,203.64
+2025-01-16 20:12:21.970985,Recife,Porção,X-Sertão,2,Pix,4.8,47.71
+2025-01-17 00:34:34.637318,Petrolina,Hambúrguer,Coxinha,2,Cartão de débito,2.3,118.98
+2025-01-17 04:56:47.303651,Caruaru,Pizza,Refrigerante,2,Cartão de crédito,5.0,23.89
+2025-01-17 09:18:59.969984,Caruaru,Bebida,Sanduíche Natural,4,Dinheiro,4.4,169.65
+2025-01-17 13:41:12.636318,Recife,Pizza,X-Bacon,5,Dinheiro,3.4,156.54
+2025-01-17 18:03:25.302651,Caruaru,Hambúrguer,Sanduíche Natural,4,Dinheiro,1.2,124.89
+2025-01-17 22:25:37.968984,Caruaru,Bebida,Batata Frita,1,Pix,4.6,31.8
+2025-01-18 02:47:50.635317,Recife,Pizza,X-Bacon,1,Cartão de débito,3.2,21.45
+2025-01-18 07:10:03.301650,Caruaru,Sanduíche,Batata Frita,2,Cartão de crédito,4.5,90.42
+2025-01-18 11:32:15.967983,Garanhuns,Hambúrguer,Batata Frita,3,Cartão de débito,4.3,136.57
+2025-01-18 15:54:28.634317,Olinda,Hambúrguer,X-Sertão,2,Dinheiro,,45.37
+2025-01-18 20:16:41.300650,Olinda,Hambúrguer,X-Sertão,3,Cartão de crédito,3.8,154.31
+2025-01-19 00:38:53.966983,Recife,Sanduíche,Água,4,Cartão de crédito,2.2,97.9
+2025-01-19 05:01:06.633316,Petrolina,Sanduíche,Pizza de Calabresa,1,Dinheiro,2.3,45.7
+2025-01-19 09:23:19.299649,Recife,Porção,Água,3,Cartão de débito,2.2,42.88
+2025-01-19 13:45:31.965982,Petrolina,Pizza,Água,4,Dinheiro,1.1,67.09
+2025-01-19 18:07:44.632316,Olinda,Porção,Pizza de Calabresa,1,Cartão de débito,,24.42
+2025-01-19 22:29:57.298649,Recife,Pizza,Pizza de Frango,3,Cartão de crédito,3.8,116.64
+2025-01-20 02:52:09.964982,Garanhuns,Sanduíche,X-Bacon,2,Cartão de crédito,4.4,83.13
+2025-01-20 07:14:22.631315,Caruaru,Sanduíche,Suco,2,Dinheiro,1.6,57.22
+2025-01-20 11:36:35.297648,Petrolina,Porção,Água,2,Cartão de crédito,3.2,24.1
+2025-01-20 15:58:47.963981,Caruaru,Bebida,Coxinha,4,Pix,1.0,109.72
+2025-01-20 20:21:00.630315,Caruaru,Porção,Coxinha,2,Cartão de crédito,1.4,87.63
+2025-01-21 00:43:13.296648,Recife,Pizza,Batata Frita,5,Pix,1.2,214.46
+2025-01-21 05:05:25.962981,Caruaru,Porção,Pizza de Calabresa,1,Cartão de crédito,3.9,16.33
+2025-01-21 09:27:38.629314,Garanhuns,Hambúrguer,Batata Frita,4,Dinheiro,1.3,33.62
+2025-01-21 13:49:51.295647,Caruaru,Pizza,Refrigerante,2,Dinheiro,3.9,94.31
+2025-01-21 18:12:03.961980,Recife,Pizza,Refrigerante,1,Pix,2.0,13.53
+2025-01-21 22:34:16.628314,Garanhuns,Bebida,Suco,3,Dinheiro,4.5,36.85
+2025-01-22 02:56:29.294647,Olinda,Sanduíche,X-Sertão,2,Cartão de crédito,4.3,16.28
+2025-01-22 07:18:41.960980,Caruaru,Pizza,X-Sertão,1,Cartão de crédito,4.8,30.5
+2025-01-22 11:40:54.627313,Recife,Sanduíche,Pizza de Calabresa,5,Dinheiro,4.5,170.85
+2025-01-22 16:03:07.293646,Olinda,Porção,Pizza de Calabresa,3,Cartão de crédito,4.7,123.48
+2025-01-22 20:25:19.959979,Olinda,Hambúrguer,Água,5,Cartão de débito,4.4,116.98
+2025-01-23 00:47:32.626313,Petrolina,Bebida,Refrigerante,1,Cartão de débito,3.8,44.94
+2025-01-23 05:09:45.292646,Garanhuns,Sanduíche,Água,5,Cartão de crédito,1.7,84.03
+2025-01-23 09:31:57.958979,Caruaru,Pizza,X-Sertão,1,Dinheiro,,51.26
+2025-01-23 13:54:10.625312,Recife,Sanduíche,X-Bacon,1,Pix,1.9,37.74
+2025-01-23 18:16:23.291645,Petrolina,Pizza,X-Bacon,5,Dinheiro,3.4,191.81
+2025-01-23 22:38:35.957978,Garanhuns,Sanduíche,Pizza de Calabresa,1,Pix,3.0,18.91
+2025-01-24 03:00:48.624312,Petrolina,Pizza,Batata Frita,2,Dinheiro,4.5,23.71
+2025-01-24 07:23:01.290645,Garanhuns,Porção,X-Sertão,1,Cartão de crédito,4.8,32.17
+2025-01-24 11:45:13.956978,Garanhuns,Pizza,X-Bacon,4,Cartão de débito,2.6,160.05
+2025-01-24 16:07:26.623311,Caruaru,Pizza,X-Sertão,1,Dinheiro,3.0,12.94
+2025-01-24 20:29:39.289644,Garanhuns,Hambúrguer,Sanduíche Natural,4,Pix,4.9,229.71
+2025-01-25 00:51:51.955977,Petrolina,Pizza,Coxinha,1,Cartão de débito,2.1,58.98
+2025-01-25 05:14:04.622311,Garanhuns,Hambúrguer,Refrigerante,1,Pix,4.2,36.36
+2025-01-25 09:36:17.288644,Caruaru,Bebida,Água,5,Cartão de crédito,1.9,287.02
+2025-01-25 13:58:29.954977,Caruaru,Hambúrguer,X-Sertão,2,Cartão de débito,3.7,34.66
+2025-01-25 18:20:42.621310,Petrolina,Porção,Coxinha,2,Pix,2.0,18.64
+2025-01-25 22:42:55.287643,Olinda,Hambúrguer,Sanduíche Natural,3,Dinheiro,4.5,30.15
+2025-01-26 03:05:07.953976,Olinda,Bebida,Água,5,Cartão de crédito,3.2,192.75
+2025-01-26 07:27:20.620310,Garanhuns,Porção,X-Sertão,5,Cartão de crédito,1.7,56.03
+2025-01-26 11:49:33.286643,Recife,Sanduíche,Pizza de Calabresa,2,Cartão de crédito,1.9,115.69
+2025-01-26 16:11:45.952976,Garanhuns,Sanduíche,Coxinha,5,Dinheiro,3.0,76.9
+2025-01-26 20:33:58.619309,Petrolina,Hambúrguer,Água,2,Dinheiro,4.8,47.69
+2025-01-27 00:56:11.285642,Petrolina,Hambúrguer,X-Sertão,5,Cartão de débito,4.1,253.85
+2025-01-27 05:18:23.951975,Petrolina,Bebida,Coxinha,1,Dinheiro,3.0,19.37
+2025-01-27 09:40:36.618309,Petrolina,Bebida,Sanduíche Natural,2,Cartão de débito,2.4,41.27
+2025-01-27 14:02:49.284642,Petrolina,Pizza,X-Sertão,2,Cartão de crédito,3.2,82.8
+2025-01-27 18:25:01.950975,Caruaru,Bebida,X-Sertão,4,Cartão de débito,4.0,89.43
+2025-01-27 22:47:14.617308,Olinda,Pizza,X-Sertão,5,Pix,4.1,96.54
+2025-01-28 03:09:27.283641,Petrolina,Porção,Suco,5,Cartão de crédito,2.3,106.09
+2025-01-28 07:31:39.949974,Recife,Hambúrguer,Pizza de Calabresa,2,Cartão de crédito,3.9,67.03
+2025-01-28 11:53:52.616308,Recife,Porção,Sanduíche Natural,1,Cartão de débito,3.6,58.24
+2025-01-28 16:16:05.282641,Recife,Bebida,Água,1,Cartão de crédito,4.8,51.28
+2025-01-28 20:38:17.948974,Recife,Porção,Suco,1,Dinheiro,4.7,22.8
+2025-01-29 01:00:30.615307,Caruaru,Porção,Batata Frita,5,Pix,4.2,134.48
+2025-01-29 05:22:43.281640,Recife,Porção,Suco,4,Cartão de débito,3.9,128.62
+2025-01-29 09:44:55.947973,Petrolina,Bebida,Refrigerante,2,Cartão de débito,2.1,117.81
+2025-01-29 14:07:08.614307,Garanhuns,Porção,Refrigerante,3,Cartão de crédito,4.4,50.89
+2025-01-29 18:29:21.280640,Recife,Pizza,X-Sertão,4,Dinheiro,2.7,106.36
+2025-01-29 22:51:33.946973,Caruaru,Bebida,Suco,3,Cartão de crédito,2.1,137.79
+2025-01-30 03:13:46.613306,Caruaru,Porção,Batata Frita,4,Cartão de crédito,2.5,232.5
+2025-01-30 07:35:59.279639,Recife,Bebida,Suco,1,Cartão de débito,4.3,16.1
+2025-01-30 11:58:11.945972,Garanhuns,Sanduíche,Pizza de Calabresa,5,Cartão de crédito,,99.12
+2025-01-30 16:20:24.612306,Recife,Pizza,Pizza de Calabresa,3,Pix,2.8,59.21
+2025-01-30 20:42:37.278639,Caruaru,Porção,Batata Frita,4,Cartão de crédito,3.0,36.35
+2025-01-31 01:04:49.944972,Olinda,Sanduíche,Suco,5,Cartão de crédito,1.1,197.07
+2025-01-31 05:27:02.611305,Petrolina,Sanduíche,Coxinha,3,Cartão de débito,1.8,128.63
+2025-01-31 09:49:15.277638,Caruaru,Bebida,Pizza de Calabresa,2,Cartão de crédito,4.3,78.66
+2025-01-31 14:11:27.943971,Recife,Sanduíche,Pizza de Calabresa,4,Dinheiro,4.3,46.84
+2025-01-31 18:33:40.610305,Petrolina,Pizza,X-Bacon,2,Cartão de débito,2.2,23.2
+2025-01-31 22:55:53.276638,Recife,Pizza,Suco,1,Cartão de crédito,4.5,18.94
+2025-02-01 03:18:05.942971,Recife,Hambúrguer,Pizza de Calabresa,2,Pix,4.1,46.19
+2025-02-01 07:40:18.609304,Olinda,Pizza,Sanduíche Natural,2,Pix,2.7,97.8
+2025-02-01 12:02:31.275637,Petrolina,Sanduíche,Suco,4,Cartão de débito,4.0,65.15
+2025-02-01 16:24:43.941970,Petrolina,Pizza,Refrigerante,1,Cartão de débito,4.8,10.29
+2025-02-01 20:46:56.608304,Olinda,Bebida,X-Bacon,2,Cartão de crédito,,56.97
+2025-02-02 01:09:09.274637,Caruaru,Hambúrguer,Pizza de Calabresa,5,Dinheiro,2.0,148.26
+2025-02-02 05:31:21.940970,Recife,Sanduíche,X-Bacon,3,Cartão de crédito,4.8,94.34
+2025-02-02 09:53:34.607303,Garanhuns,Hambúrguer,Refrigerante,2,Pix,3.4,102.0
+2025-02-02 14:15:47.273636,Recife,Sanduíche,Batata Frita,1,Dinheiro,1.4,13.1
+2025-02-02 18:37:59.939969,Recife,Bebida,Batata Frita,2,Dinheiro,3.3,89.21
+2025-02-02 23:00:12.606303,Caruaru,Hambúrguer,Suco,3,Dinheiro,3.0,76.72
+2025-02-03 03:22:25.272636,Recife,Porção,Refrigerante,1,Cartão de crédito,4.4,24.12
+2025-02-03 07:44:37.938969,Olinda,Sanduíche,Pizza de Frango,4,Pix,3.1,225.97
+2025-02-03 12:06:50.605302,Olinda,Porção,Pizza de Frango,1,Cartão de débito,2.0,20.92
+2025-02-03 16:29:03.271635,Petrolina,Hambúrguer,Suco,4,Cartão de crédito,3.7,165.65
+2025-02-03 20:51:15.937968,Garanhuns,Porção,X-Sertão,1,Cartão de débito,3.2,22.31
+2025-02-04 01:13:28.604302,Recife,Porção,X-Bacon,3,Dinheiro,1.9,103.11
+2025-02-04 05:35:41.270635,Recife,Hambúrguer,X-Bacon,3,Dinheiro,3.3,146.66
+2025-02-04 09:57:53.936968,Caruaru,Bebida,Batata Frita,1,Cartão de crédito,4.3,53.85
+2025-02-04 14:20:06.603301,Olinda,Porção,Pizza de Frango,2,Pix,1.1,103.22
+2025-02-04 18:42:19.269634,Garanhuns,Porção,Água,3,Dinheiro,3.5,114.82
+2025-02-04 23:04:31.935967,Petrolina,Bebida,Pizza de Calabresa,4,Cartão de débito,2.4,83.75
+2025-02-05 03:26:44.602301,Olinda,Porção,Pizza de Calabresa,4,Cartão de débito,2.2,169.54
+2025-02-05 07:48:57.268634,Petrolina,Porção,Pizza de Calabresa,5,Cartão de crédito,2.6,224.58
+2025-02-05 12:11:09.934967,Caruaru,Porção,Batata Frita,4,Cartão de débito,2.4,34.22
+2025-02-05 16:33:22.601300,Caruaru,Pizza,Refrigerante,5,Pix,4.3,154.19
+2025-02-05 20:55:35.267633,Recife,Bebida,Coxinha,1,Dinheiro,2.1,51.85
+2025-02-06 01:17:47.933966,Garanhuns,Porção,Pizza de Frango,1,Cartão de débito,,33.46
+2025-02-06 05:40:00.600300,Petrolina,Bebida,Pizza de Frango,1,Cartão de débito,1.4,24.19
+2025-02-06 10:02:13.266633,Olinda,Sanduíche,Água,2,Dinheiro,4.8,106.67
+2025-02-06 14:24:25.932966,Caruaru,Sanduíche,X-Bacon,2,Cartão de crédito,3.5,32.21
+2025-02-06 18:46:38.599299,Recife,Porção,X-Sertão,5,Cartão de débito,3.8,93.68
+2025-02-06 23:08:51.265632,Recife,Bebida,Suco,4,Cartão de crédito,2.2,174.97
+2025-02-07 03:31:03.931965,Petrolina,Bebida,X-Bacon,4,Cartão de crédito,2.6,105.31
+2025-02-07 07:53:16.598299,Caruaru,Bebida,Refrigerante,1,Cartão de débito,1.9,45.08
+2025-02-07 12:15:29.264632,Garanhuns,Pizza,Suco,3,Pix,4.7,48.6
+2025-02-07 16:37:41.930965,Caruaru,Sanduíche,Pizza de Frango,2,Cartão de crédito,3.0,42.24
+2025-02-07 20:59:54.597298,Petrolina,Bebida,Refrigerante,2,Cartão de débito,3.5,32.29
+2025-02-08 01:22:07.263631,Petrolina,Bebida,Suco,1,Cartão de crédito,3.9,57.55
+2025-02-08 05:44:19.929964,Caruaru,Pizza,Água,2,Dinheiro,2.5,58.16
+2025-02-08 10:06:32.596298,Petrolina,Pizza,Água,1,Pix,3.9,25.54
+2025-02-08 14:28:45.262631,Caruaru,Bebida,Sanduíche Natural,5,Pix,3.7,43.69
+2025-02-08 18:50:57.928964,Olinda,Hambúrguer,Coxinha,4,Dinheiro,,63.91
+2025-02-08 23:13:10.595297,Caruaru,Bebida,Água,3,Dinheiro,3.0,89.7
+2025-02-09 03:35:23.261630,Caruaru,Bebida,Pizza de Frango,4,Cartão de crédito,2.5,46.25
+2025-02-09 07:57:35.927963,Petrolina,Pizza,X-Sertão,4,Dinheiro,1.9,138.23
+2025-02-09 12:19:48.594297,Petrolina,Pizza,Pizza de Calabresa,5,Pix,4.3,158.3
+2025-02-09 16:42:01.260630,Recife,Bebida,Sanduíche Natural,2,Dinheiro,3.4,95.79
+2025-02-09 21:04:13.926963,Recife,Bebida,Pizza de Calabresa,3,Cartão de débito,2.8,126.93
+2025-02-10 01:26:26.593296,Olinda,Bebida,Coxinha,2,Cartão de débito,4.8,62.38
+2025-02-10 05:48:39.259629,Recife,Pizza,Suco,4,Cartão de crédito,1.2,78.73
+2025-02-10 10:10:51.925962,Caruaru,Bebida,Batata Frita,1,Pix,4.4,45.8
+2025-02-10 14:33:04.592296,Petrolina,Bebida,Água,4,Cartão de débito,5.0,179.24
+2025-02-10 18:55:17.258629,Recife,Porção,X-Sertão,2,Dinheiro,4.5,31.94
+2025-02-10 23:17:29.924962,Recife,Hambúrguer,Coxinha,4,Cartão de débito,4.2,222.27
+2025-02-11 03:39:42.591295,Olinda,Sanduíche,Pizza de Calabresa,1,Cartão de débito,2.5,11.35
+2025-02-11 08:01:55.257628,Olinda,Hambúrguer,Sanduíche Natural,5,Cartão de crédito,1.9,54.31
+2025-02-11 12:24:07.923961,Caruaru,Porção,Água,2,Dinheiro,3.9,35.48
+2025-02-11 16:46:20.590295,Petrolina,Sanduíche,Pizza de Frango,4,Dinheiro,2.2,221.17
+2025-02-11 21:08:33.256628,Olinda,Bebida,Água,2,Dinheiro,1.7,70.08
+2025-02-12 01:30:45.922961,Recife,Porção,Sanduíche Natural,5,Cartão de crédito,4.1,244.86
+2025-02-12 05:52:58.589294,Petrolina,Bebida,Sanduíche Natural,4,Dinheiro,,79.39
+2025-02-12 10:15:11.255627,Petrolina,Pizza,Batata Frita,4,Dinheiro,4.7,133.97
+2025-02-12 14:37:23.921960,Recife,Porção,Água,2,Cartão de débito,4.4,53.26
+2025-02-12 18:59:36.588294,Olinda,Pizza,Água,2,Cartão de débito,4.4,102.09
+2025-02-12 23:21:49.254627,Recife,Porção,Batata Frita,1,Dinheiro,4.1,9.18
+2025-02-13 03:44:01.920960,Petrolina,Porção,Refrigerante,5,Pix,4.5,103.4
+2025-02-13 08:06:14.587293,Garanhuns,Pizza,Refrigerante,1,Pix,4.2,15.93
+2025-02-13 12:28:27.253626,Garanhuns,Sanduíche,Suco,4,Dinheiro,3.4,210.71
+2025-02-13 16:50:39.919959,Caruaru,Hambúrguer,Refrigerante,2,Pix,2.2,64.62
+2025-02-13 21:12:52.586293,Recife,Bebida,X-Bacon,4,Cartão de crédito,4.6,116.08
+2025-02-14 01:35:05.252626,Recife,Porção,Água,4,Cartão de débito,4.4,125.49
+2025-02-14 05:57:17.918959,Caruaru,Bebida,X-Sertão,3,Cartão de crédito,2.9,175.62
+2025-02-14 10:19:30.585292,Caruaru,Pizza,Água,3,Cartão de débito,1.2,156.64
+2025-02-14 14:41:43.251625,Caruaru,Bebida,X-Bacon,4,Pix,3.6,178.92
+2025-02-14 19:03:55.917958,Petrolina,Pizza,X-Bacon,2,Pix,1.2,46.21
+2025-02-14 23:26:08.584292,Recife,Bebida,Pizza de Calabresa,4,Dinheiro,4.7,66.36
+2025-02-15 03:48:21.250625,Petrolina,Hambúrguer,Água,3,Pix,4.8,167.74
+2025-02-15 08:10:33.916958,Caruaru,Hambúrguer,Coxinha,2,Pix,1.8,60.0
+2025-02-15 12:32:46.583291,Recife,Hambúrguer,X-Bacon,4,Dinheiro,3.7,89.98
+2025-02-15 16:54:59.249624,Petrolina,Hambúrguer,X-Sertão,5,Dinheiro,1.4,162.44
+2025-02-15 21:17:11.915957,Petrolina,Hambúrguer,Batata Frita,5,Cartão de débito,3.9,278.64
+2025-02-16 01:39:24.582291,Caruaru,Hambúrguer,Suco,4,Pix,2.4,112.51
+2025-02-16 06:01:37.248624,Recife,Pizza,Pizza de Calabresa,2,Cartão de débito,3.7,74.51
+2025-02-16 10:23:49.914957,Caruaru,Porção,Batata Frita,4,Cartão de débito,,199.02
+2025-02-16 14:46:02.581290,Recife,Bebida,Pizza de Calabresa,4,Cartão de crédito,1.6,120.84
+2025-02-16 19:08:15.247623,Garanhuns,Hambúrguer,X-Sertão,3,Pix,2.6,60.43
+2025-02-16 23:30:27.913956,Olinda,Pizza,Sanduíche Natural,5,Pix,1.5,298.58
+2025-02-17 03:52:40.580290,Olinda,Pizza,Água,3,Cartão de crédito,3.3,173.23
+2025-02-17 08:14:53.246623,Olinda,Pizza,Pizza de Frango,3,Cartão de débito,,155.58
+2025-02-17 12:37:05.912956,Caruaru,Porção,Coxinha,4,Pix,3.1,175.18
+2025-02-17 16:59:18.579289,Garanhuns,Bebida,Batata Frita,3,Cartão de débito,4.5,70.0
+2025-02-17 21:21:31.245622,Recife,Porção,Água,5,Cartão de crédito,4.4,277.49
+2025-02-18 01:43:43.911955,Petrolina,Sanduíche,Coxinha,3,Dinheiro,4.5,66.99
+2025-02-18 06:05:56.578289,Recife,Pizza,Sanduíche Natural,5,Cartão de débito,4.7,248.21
+2025-02-18 10:28:09.244622,Petrolina,Sanduíche,Pizza de Frango,3,Pix,1.4,167.25
+2025-02-18 14:50:21.910955,Recife,Hambúrguer,Coxinha,5,Dinheiro,1.5,196.78
+2025-02-18 19:12:34.577288,Garanhuns,Hambúrguer,Coxinha,3,Cartão de débito,3.2,149.28
+2025-02-18 23:34:47.243621,Petrolina,Porção,Batata Frita,3,Cartão de débito,4.6,147.5
+2025-02-19 03:56:59.909954,Caruaru,Bebida,Refrigerante,2,Dinheiro,4.9,36.09
+2025-02-19 08:19:12.576288,Recife,Sanduíche,Pizza de Frango,5,Dinheiro,1.2,213.66
+2025-02-19 12:41:25.242621,Recife,Bebida,Água,5,Dinheiro,2.4,64.3
+2025-02-19 17:03:37.908954,Petrolina,Porção,Sanduíche Natural,5,Pix,1.9,172.04
+2025-02-19 21:25:50.575287,Caruaru,Hambúrguer,Pizza de Frango,1,Pix,4.0,16.44
+2025-02-20 01:48:03.241620,Caruaru,Bebida,X-Sertão,3,Cartão de débito,3.6,88.95
+2025-02-20 06:10:15.907953,Garanhuns,Bebida,Refrigerante,5,Cartão de débito,1.5,256.58
+2025-02-20 10:32:28.574287,Caruaru,Hambúrguer,X-Sertão,1,Cartão de crédito,2.9,59.33
+2025-02-20 14:54:41.240620,Caruaru,Sanduíche,Sanduíche Natural,2,Pix,3.7,49.07
+2025-02-20 19:16:53.906953,Caruaru,Hambúrguer,Batata Frita,5,Cartão de débito,4.1,178.31
+2025-02-20 23:39:06.573286,Olinda,Bebida,Batata Frita,5,Dinheiro,,172.94
+2025-02-21 04:01:19.239619,Garanhuns,Sanduíche,Sanduíche Natural,1,Dinheiro,4.6,57.63
+2025-02-21 08:23:31.905952,Recife,Sanduíche,Pizza de Calabresa,3,Pix,3.3,98.66
+2025-02-21 12:45:44.572286,Petrolina,Hambúrguer,Sanduíche Natural,2,Dinheiro,4.2,88.71
+2025-02-21 17:07:57.238619,Recife,Bebida,Refrigerante,5,Cartão de crédito,4.2,279.67
+2025-02-21 21:30:09.904952,Garanhuns,Porção,X-Bacon,3,Cartão de débito,,82.25
+2025-02-22 01:52:22.571285,Petrolina,Bebida,Batata Frita,2,Cartão de débito,1.4,109.82
+2025-02-22 06:14:35.237618,Garanhuns,Pizza,Suco,4,Cartão de débito,3.9,222.83
+2025-02-22 10:36:47.903951,Caruaru,Porção,Refrigerante,4,Pix,1.6,225.58
+2025-02-22 14:59:00.570285,Petrolina,Sanduíche,Refrigerante,2,Dinheiro,4.4,44.13
+2025-02-22 19:21:13.236618,Caruaru,Porção,Refrigerante,1,Cartão de crédito,3.9,28.82
+2025-02-22 23:43:25.902951,Recife,Sanduíche,Coxinha,2,Pix,4.4,106.52
+2025-02-23 04:05:38.569284,Recife,Sanduíche,Refrigerante,2,Cartão de débito,2.2,53.35
+2025-02-23 08:27:51.235617,Petrolina,Porção,Batata Frita,1,Cartão de crédito,2.3,39.21
+2025-02-23 12:50:03.901950,Petrolina,Sanduíche,X-Bacon,1,Cartão de débito,3.7,14.14
+2025-02-23 17:12:16.568284,Garanhuns,Sanduíche,X-Bacon,3,Cartão de débito,1.1,32.78
+2025-02-23 21:34:29.234617,Garanhuns,Pizza,Refrigerante,3,Pix,3.9,88.27
+2025-02-24 01:56:41.900950,Caruaru,Bebida,X-Sertão,1,Cartão de débito,4.3,38.1
+2025-02-24 06:18:54.567283,Petrolina,Bebida,Batata Frita,4,Cartão de crédito,2.7,113.68
+2025-02-24 10:41:07.233616,Recife,Pizza,Batata Frita,4,Cartão de débito,4.1,152.17
+2025-02-24 15:03:19.899949,Garanhuns,Porção,Pizza de Frango,2,Dinheiro,1.7,69.57
+2025-02-24 19:25:32.566283,Garanhuns,Hambúrguer,Água,5,Cartão de débito,2.3,218.28
+2025-02-24 23:47:45.232616,Recife,Hambúrguer,Pizza de Calabresa,2,Pix,4.9,83.55
+2025-02-25 04:09:57.898949,Garanhuns,Hambúrguer,Pizza de Calabresa,2,Cartão de crédito,4.9,60.12
+2025-02-25 08:32:10.565282,Caruaru,Pizza,X-Sertão,5,Pix,3.1,150.5
+2025-02-25 12:54:23.231615,Petrolina,Pizza,Pizza de Calabresa,1,Dinheiro,4.7,15.32
+2025-02-25 17:16:35.897948,Recife,Sanduíche,Pizza de Frango,4,Cartão de débito,3.1,138.75
+2025-02-25 21:38:48.564282,Petrolina,Hambúrguer,Sanduíche Natural,2,Pix,2.2,77.07
+2025-02-26 02:01:01.230615,Garanhuns,Porção,Pizza de Calabresa,5,Pix,2.1,163.89
+2025-02-26 06:23:13.896948,Garanhuns,Porção,Batata Frita,3,Pix,4.7,74.81
+2025-02-26 10:45:26.563281,Recife,Hambúrguer,Sanduíche Natural,2,Pix,1.7,91.05
+2025-02-26 15:07:39.229614,Caruaru,Hambúrguer,Pizza de Calabresa,4,Dinheiro,3.3,47.53
+2025-02-26 19:29:51.895947,Olinda,Hambúrguer,Batata Frita,1,Dinheiro,3.2,55.55
+2025-02-26 23:52:04.562281,Recife,Pizza,Batata Frita,2,Cartão de débito,4.0,18.15
+2025-02-27 04:14:17.228614,Olinda,Pizza,Refrigerante,2,Cartão de débito,3.0,116.08
+2025-02-27 08:36:29.894947,Olinda,Pizza,X-Bacon,5,Cartão de crédito,2.1,160.21
+2025-02-27 12:58:42.561280,Caruaru,Bebida,X-Sertão,3,Dinheiro,1.7,88.38
+2025-02-27 17:20:55.227613,Olinda,Porção,Pizza de Frango,3,Pix,3.5,64.01
+2025-02-27 21:43:07.893946,Olinda,Porção,Coxinha,1,Pix,3.9,8.52
+2025-02-28 02:05:20.560280,Caruaru,Sanduíche,Água,4,Cartão de crédito,3.3,89.16
+2025-02-28 06:27:33.226613,Olinda,Pizza,Pizza de Calabresa,1,Pix,4.0,13.69
+2025-02-28 10:49:45.892946,Olinda,Bebida,Pizza de Calabresa,2,Cartão de crédito,1.6,84.62
+2025-02-28 15:11:58.559279,Olinda,Bebida,Sanduíche Natural,2,Cartão de débito,4.5,49.18
+2025-02-28 19:34:11.225612,Recife,Porção,Sanduíche Natural,3,Dinheiro,3.3,143.68
+2025-02-28 23:56:23.891945,Recife,Pizza,Água,4,Cartão de crédito,1.5,75.04
+2025-03-01 04:18:36.558279,Recife,Sanduíche,Pizza de Calabresa,5,Pix,2.8,274.06
+2025-03-01 08:40:49.224612,Caruaru,Pizza,Suco,4,Cartão de crédito,4.4,140.78
+2025-03-01 13:03:01.890945,Garanhuns,Hambúrguer,Pizza de Frango,2,Cartão de débito,4.6,27.91
+2025-03-01 17:25:14.557278,Olinda,Pizza,Pizza de Calabresa,5,Pix,2.1,144.22
+2025-03-01 21:47:27.223611,Olinda,Hambúrguer,X-Bacon,4,Cartão de débito,3.8,75.01
+2025-03-02 02:09:39.889944,Caruaru,Hambúrguer,Água,4,Cartão de débito,1.4,73.53
+2025-03-02 06:31:52.556278,Olinda,Sanduíche,Suco,5,Cartão de crédito,1.1,171.66
+2025-03-02 10:54:05.222611,Recife,Porção,Pizza de Frango,2,Cartão de débito,3.2,85.88
+2025-03-02 15:16:17.888944,Garanhuns,Pizza,Pizza de Calabresa,4,Pix,,221.62
+2025-03-02 19:38:30.555277,Petrolina,Hambúrguer,Coxinha,5,Cartão de débito,4.2,170.56
+2025-03-03 00:00:43.221610,Olinda,Pizza,Refrigerante,2,Cartão de débito,2.4,116.45
+2025-03-03 04:22:55.887943,Recife,Porção,X-Bacon,5,Cartão de crédito,1.0,284.83
+2025-03-03 08:45:08.554277,Petrolina,Porção,Coxinha,5,Cartão de débito,2.9,264.92
+2025-03-03 13:07:21.220610,Garanhuns,Bebida,Sanduíche Natural,4,Dinheiro,1.1,136.0
+2025-03-03 17:29:33.886943,Petrolina,Porção,Sanduíche Natural,2,Cartão de crédito,1.4,30.65
+2025-03-03 21:51:46.553276,Recife,Sanduíche,Pizza de Calabresa,4,Cartão de crédito,2.3,77.32
+2025-03-04 02:13:59.219609,Petrolina,Hambúrguer,Sanduíche Natural,1,Pix,2.7,41.68
+2025-03-04 06:36:11.885942,Caruaru,Bebida,X-Bacon,1,Pix,2.1,29.93
+2025-03-04 10:58:24.552276,Petrolina,Sanduíche,Pizza de Frango,2,Pix,3.3,31.27
+2025-03-04 15:20:37.218609,Olinda,Pizza,Batata Frita,5,Pix,1.2,164.54
+2025-03-04 19:42:49.884942,Olinda,Hambúrguer,X-Sertão,4,Dinheiro,1.6,35.63
+2025-03-05 00:05:02.551275,Caruaru,Porção,Água,4,Cartão de crédito,3.8,184.65
+2025-03-05 04:27:15.217608,Recife,Hambúrguer,Pizza de Frango,2,Cartão de débito,1.6,23.65
+2025-03-05 08:49:27.883941,Olinda,Pizza,Batata Frita,2,Pix,3.6,81.43
+2025-03-05 13:11:40.550275,Garanhuns,Bebida,Suco,1,Pix,1.2,49.24
+2025-03-05 17:33:53.216608,Olinda,Bebida,X-Bacon,3,Pix,2.6,44.69
+2025-03-05 21:56:05.882941,Olinda,Bebida,Coxinha,2,Cartão de débito,1.7,69.94
+2025-03-06 02:18:18.549274,Recife,Porção,Batata Frita,3,Pix,1.4,145.53
+2025-03-06 06:40:31.215607,Petrolina,Sanduíche,X-Bacon,2,Cartão de débito,,43.11
+2025-03-06 11:02:43.881940,Olinda,Sanduíche,Refrigerante,5,Cartão de crédito,,82.36
+2025-03-06 15:24:56.548274,Caruaru,Hambúrguer,Coxinha,5,Cartão de crédito,1.2,127.57
+2025-03-06 19:47:09.214607,Petrolina,Porção,Sanduíche Natural,1,Cartão de crédito,2.7,36.84
+2025-03-07 00:09:21.880940,Garanhuns,Bebida,Sanduíche Natural,1,Dinheiro,3.8,37.91
+2025-03-07 04:31:34.547273,Recife,Bebida,Coxinha,3,Cartão de débito,2.9,44.42
+2025-03-07 08:53:47.213606,Garanhuns,Pizza,Suco,2,Pix,4.2,63.59
+2025-03-07 13:15:59.879939,Petrolina,Pizza,Suco,4,Pix,1.7,87.8
+2025-03-07 17:38:12.546273,Petrolina,Bebida,Suco,1,Pix,4.8,51.79
+2025-03-07 22:00:25.212606,Petrolina,Bebida,Batata Frita,4,Pix,2.5,97.22
+2025-03-08 02:22:37.878939,Garanhuns,Porção,Água,4,Dinheiro,2.4,206.45
+2025-03-08 06:44:50.545272,Petrolina,Sanduíche,Batata Frita,2,Pix,4.5,60.57
+2025-03-08 11:07:03.211605,Garanhuns,Pizza,Pizza de Calabresa,3,Dinheiro,3.3,137.35
+2025-03-08 15:29:15.877938,Petrolina,Sanduíche,X-Sertão,2,Cartão de débito,3.1,69.05
+2025-03-08 19:51:28.544272,Caruaru,Porção,Coxinha,1,Cartão de crédito,3.9,40.34
+2025-03-09 00:13:41.210605,Petrolina,Bebida,Pizza de Frango,4,Pix,3.3,114.23
+2025-03-09 04:35:53.876938,Garanhuns,Sanduíche,X-Sertão,2,Cartão de crédito,1.7,95.89
+2025-03-09 08:58:06.543271,Olinda,Bebida,Refrigerante,2,Cartão de débito,,60.22
+2025-03-09 13:20:19.209604,Petrolina,Bebida,Batata Frita,2,Cartão de débito,1.5,63.58
+2025-03-09 17:42:31.875937,Olinda,Hambúrguer,Batata Frita,1,Pix,4.2,34.92
+2025-03-09 22:04:44.542271,Caruaru,Sanduíche,X-Bacon,3,Cartão de débito,5.0,153.76
+2025-03-10 02:26:57.208604,Recife,Sanduíche,X-Sertão,2,Cartão de crédito,2.5,84.58
+2025-03-10 06:49:09.874937,Caruaru,Bebida,X-Bacon,1,Pix,2.8,26.16
+2025-03-10 11:11:22.541270,Petrolina,Porção,Pizza de Frango,4,Dinheiro,1.2,171.43
+2025-03-10 15:33:35.207603,Olinda,Hambúrguer,X-Bacon,5,Pix,1.1,207.03
+2025-03-10 19:55:47.873936,Olinda,Bebida,X-Sertão,1,Cartão de crédito,4.7,56.41
+2025-03-11 00:18:00.540270,Garanhuns,Pizza,Coxinha,5,Pix,1.5,258.77
+2025-03-11 04:40:13.206603,Olinda,Pizza,Refrigerante,2,Pix,2.8,83.33
+2025-03-11 09:02:25.872936,Garanhuns,Hambúrguer,Batata Frita,2,Cartão de crédito,4.3,51.52
+2025-03-11 13:24:38.539269,Recife,Porção,Pizza de Frango,1,Pix,4.6,48.54
+2025-03-11 17:46:51.205602,Petrolina,Bebida,Batata Frita,5,Pix,,189.55
+2025-03-11 22:09:03.871935,Garanhuns,Sanduíche,Pizza de Calabresa,2,Cartão de crédito,3.3,118.47
+2025-03-12 02:31:16.538269,Recife,Hambúrguer,Refrigerante,4,Cartão de débito,3.7,83.48
+2025-03-12 06:53:29.204602,Olinda,Porção,Água,3,Cartão de crédito,4.8,36.43
+2025-03-12 11:15:41.870935,Olinda,Sanduíche,X-Bacon,3,Pix,3.4,34.9
+2025-03-12 15:37:54.537268,Recife,Pizza,Sanduíche Natural,2,Dinheiro,3.2,82.56
+2025-03-12 20:00:07.203601,Olinda,Pizza,X-Sertão,5,Dinheiro,1.1,284.21
+2025-03-13 00:22:19.869934,Recife,Sanduíche,Batata Frita,2,Cartão de crédito,1.3,16.2
+2025-03-13 04:44:32.536268,Garanhuns,Hambúrguer,X-Bacon,5,Dinheiro,3.3,228.7
+2025-03-13 09:06:45.202601,Garanhuns,Pizza,Pizza de Frango,4,Pix,4.7,168.67
+2025-03-13 13:28:57.868934,Recife,Bebida,Batata Frita,5,Pix,4.5,230.4
+2025-03-13 17:51:10.535267,Garanhuns,Sanduíche,Água,2,Cartão de crédito,4.9,52.96
+2025-03-13 22:13:23.201600,Garanhuns,Sanduíche,Refrigerante,4,Pix,3.1,202.66
+2025-03-14 02:35:35.867933,Garanhuns,Pizza,Refrigerante,1,Cartão de débito,4.2,10.32
+2025-03-14 06:57:48.534267,Caruaru,Hambúrguer,Batata Frita,3,Pix,4.4,141.85
+2025-03-14 11:20:01.200600,Petrolina,Bebida,Pizza de Frango,2,Cartão de crédito,3.6,43.78
+2025-03-14 15:42:13.866933,Olinda,Hambúrguer,Refrigerante,2,Cartão de débito,2.4,65.59
+2025-03-14 20:04:26.533266,Caruaru,Porção,Refrigerante,2,Cartão de débito,2.9,101.55
+2025-03-15 00:26:39.199599,Garanhuns,Porção,Água,4,Dinheiro,4.4,88.44
+2025-03-15 04:48:51.865932,Recife,Pizza,X-Sertão,1,Pix,2.2,17.63
+2025-03-15 09:11:04.532266,Garanhuns,Pizza,Pizza de Frango,5,Cartão de crédito,4.7,217.14
+2025-03-15 13:33:17.198599,Petrolina,Pizza,Pizza de Frango,1,Dinheiro,1.9,35.74
+2025-03-15 17:55:29.864932,Garanhuns,Porção,Coxinha,4,Dinheiro,4.0,139.0
+2025-03-15 22:17:42.531265,Recife,Hambúrguer,Coxinha,2,Pix,,42.7
+2025-03-16 02:39:55.197598,Petrolina,Hambúrguer,Refrigerante,3,Pix,4.0,29.44
+2025-03-16 07:02:07.863931,Garanhuns,Pizza,Sanduíche Natural,2,Cartão de crédito,2.7,58.67
+2025-03-16 11:24:20.530265,Petrolina,Bebida,Coxinha,5,Dinheiro,4.7,67.71
+2025-03-16 15:46:33.196598,Olinda,Hambúrguer,Refrigerante,3,Cartão de crédito,3.5,165.33
+2025-03-16 20:08:45.862931,Olinda,Porção,Suco,2,Dinheiro,2.2,20.29
+2025-03-17 00:30:58.529264,Garanhuns,Sanduíche,Pizza de Calabresa,3,Dinheiro,3.6,91.34
+2025-03-17 04:53:11.195597,Petrolina,Sanduíche,Pizza de Calabresa,1,Dinheiro,2.1,10.72
+2025-03-17 09:15:23.861930,Recife,Sanduíche,Pizza de Frango,4,Pix,2.2,51.87
+2025-03-17 13:37:36.528264,Garanhuns,Bebida,Sanduíche Natural,2,Dinheiro,2.6,84.52
+2025-03-17 17:59:49.194597,Olinda,Pizza,Água,5,Dinheiro,4.4,208.25
+2025-03-17 22:22:01.860930,Olinda,Porção,X-Sertão,1,Dinheiro,3.0,9.72
+2025-03-18 02:44:14.527263,Garanhuns,Bebida,Coxinha,2,Cartão de débito,3.7,16.12
+2025-03-18 07:06:27.193596,Petrolina,Porção,Suco,1,Pix,2.6,12.1
+2025-03-18 11:28:39.859929,Olinda,Porção,Refrigerante,5,Cartão de débito,2.1,238.38
+2025-03-18 15:50:52.526263,Petrolina,Pizza,Sanduíche Natural,2,Pix,4.8,76.8
+2025-03-18 20:13:05.192596,Olinda,Sanduíche,Pizza de Frango,5,Cartão de crédito,3.4,49.91
+2025-03-19 00:35:17.858929,Olinda,Pizza,Coxinha,3,Cartão de débito,4.7,100.14
+2025-03-19 04:57:30.525262,Caruaru,Bebida,Sanduíche Natural,5,Cartão de crédito,1.8,225.13
+2025-03-19 09:19:43.191595,Olinda,Bebida,Coxinha,3,Dinheiro,1.6,159.56
+2025-03-19 13:41:55.857928,Recife,Bebida,X-Sertão,2,Cartão de crédito,4.4,113.14
+2025-03-19 18:04:08.524262,Garanhuns,Pizza,X-Sertão,3,Cartão de crédito,3.7,75.08
+2025-03-19 22:26:21.190595,Garanhuns,Porção,Água,2,Cartão de crédito,1.7,30.13
+2025-03-20 02:48:33.856928,Petrolina,Porção,Pizza de Calabresa,2,Cartão de crédito,2.1,40.64
+2025-03-20 07:10:46.523261,Olinda,Hambúrguer,X-Bacon,4,Pix,4.2,193.44
+2025-03-20 11:32:59.189594,Recife,Bebida,X-Bacon,2,Cartão de débito,2.8,117.03
+2025-03-20 15:55:11.855927,Petrolina,Porção,Coxinha,3,Pix,,96.76
+2025-03-20 20:17:24.522261,Caruaru,Hambúrguer,Água,4,Pix,2.3,95.51
+2025-03-21 00:39:37.188594,Petrolina,Porção,X-Bacon,4,Pix,2.5,121.27
+2025-03-21 05:01:49.854927,Petrolina,Bebida,Pizza de Frango,2,Cartão de crédito,,47.7
+2025-03-21 09:24:02.521260,Olinda,Sanduíche,X-Bacon,5,Pix,2.0,106.69
+2025-03-21 13:46:15.187593,Caruaru,Bebida,Batata Frita,5,Cartão de débito,3.0,194.38
+2025-03-21 18:08:27.853926,Petrolina,Pizza,Refrigerante,4,Pix,4.4,35.27
+2025-03-21 22:30:40.520260,Recife,Porção,Água,2,Dinheiro,2.0,42.99
+2025-03-22 02:52:53.186593,Recife,Porção,Pizza de Frango,5,Cartão de crédito,2.7,211.96
+2025-03-22 07:15:05.852926,Garanhuns,Pizza,Sanduíche Natural,2,Dinheiro,3.5,19.33
+2025-03-22 11:37:18.519259,Caruaru,Pizza,Pizza de Frango,2,Cartão de débito,2.9,24.65
+2025-03-22 15:59:31.185592,Caruaru,Sanduíche,Pizza de Calabresa,4,Cartão de débito,2.8,93.03
+2025-03-22 20:21:43.851925,Garanhuns,Porção,Sanduíche Natural,4,Cartão de débito,2.5,214.58
+2025-03-23 00:43:56.518259,Petrolina,Porção,Suco,1,Cartão de débito,3.3,47.77
+2025-03-23 05:06:09.184592,Caruaru,Sanduíche,Refrigerante,5,Pix,,45.76
+2025-03-23 09:28:21.850925,Recife,Hambúrguer,Refrigerante,5,Cartão de crédito,3.6,170.45
+2025-03-23 13:50:34.517258,Recife,Sanduíche,Refrigerante,5,Cartão de débito,1.3,111.42
+2025-03-23 18:12:47.183591,Olinda,Bebida,Refrigerante,3,Dinheiro,3.5,125.19
+2025-03-23 22:34:59.849924,Caruaru,Porção,Coxinha,2,Cartão de débito,,91.04
+2025-03-24 02:57:12.516258,Petrolina,Pizza,Refrigerante,4,Cartão de crédito,3.2,211.48
+2025-03-24 07:19:25.182591,Garanhuns,Bebida,Refrigerante,5,Dinheiro,3.9,163.61
+2025-03-24 11:41:37.848924,Garanhuns,Porção,Refrigerante,1,Dinheiro,3.2,59.71
+2025-03-24 16:03:50.515257,Petrolina,Sanduíche,Água,5,Dinheiro,4.4,294.8
+2025-03-24 20:26:03.181590,Olinda,Bebida,Coxinha,2,Pix,4.7,107.75
+2025-03-25 00:48:15.847923,Garanhuns,Porção,X-Sertão,2,Cartão de débito,1.7,75.79
+2025-03-25 05:10:28.514257,Caruaru,Hambúrguer,Pizza de Frango,4,Pix,2.7,114.79
+2025-03-25 09:32:41.180590,Olinda,Hambúrguer,Pizza de Frango,3,Dinheiro,2.6,80.84
+2025-03-25 13:54:53.846923,Caruaru,Pizza,Sanduíche Natural,4,Pix,2.6,34.52
+2025-03-25 18:17:06.513256,Recife,Porção,Água,5,Pix,,104.79
+2025-03-25 22:39:19.179589,Olinda,Hambúrguer,Batata Frita,1,Pix,4.3,45.38
+2025-03-26 03:01:31.845922,Garanhuns,Sanduíche,Pizza de Frango,4,Cartão de débito,1.1,157.56
+2025-03-26 07:23:44.512256,Olinda,Porção,X-Bacon,3,Dinheiro,3.1,166.96
+2025-03-26 11:45:57.178589,Olinda,Sanduíche,Batata Frita,4,Dinheiro,3.6,42.4
+2025-03-26 16:08:09.844922,Olinda,Sanduíche,Refrigerante,2,Cartão de débito,1.8,32.15
+2025-03-26 20:30:22.511255,Olinda,Hambúrguer,Refrigerante,5,Pix,4.6,245.2
+2025-03-27 00:52:35.177588,Caruaru,Porção,Coxinha,5,Pix,4.4,133.21
+2025-03-27 05:14:47.843921,Recife,Bebida,Batata Frita,5,Cartão de crédito,2.9,70.77
+2025-03-27 09:37:00.510255,Petrolina,Hambúrguer,X-Bacon,5,Cartão de crédito,2.6,299.08
+2025-03-27 13:59:13.176588,Olinda,Hambúrguer,Coxinha,5,Cartão de crédito,1.9,244.69
+2025-03-27 18:21:25.842921,Garanhuns,Porção,Sanduíche Natural,5,Cartão de débito,3.9,146.27
+2025-03-27 22:43:38.509254,Olinda,Porção,Batata Frita,1,Dinheiro,1.5,50.81
+2025-03-28 03:05:51.175587,Garanhuns,Sanduíche,Água,3,Cartão de crédito,3.7,130.17
+2025-03-28 07:28:03.841920,Caruaru,Porção,Refrigerante,5,Dinheiro,4.4,245.39
+2025-03-28 11:50:16.508254,Garanhuns,Sanduíche,Refrigerante,3,Dinheiro,1.9,151.17
+2025-03-28 16:12:29.174587,Petrolina,Hambúrguer,Pizza de Calabresa,5,Dinheiro,,62.03
+2025-03-28 20:34:41.840920,Recife,Pizza,Coxinha,4,Cartão de débito,1.1,161.58
+2025-03-29 00:56:54.507253,Garanhuns,Bebida,X-Sertão,5,Cartão de débito,4.7,41.76
+2025-03-29 05:19:07.173586,Garanhuns,Hambúrguer,X-Sertão,2,Cartão de débito,1.5,20.52
+2025-03-29 09:41:19.839919,Recife,Porção,Coxinha,1,Cartão de débito,3.6,55.01
+2025-03-29 14:03:32.506253,Petrolina,Bebida,Água,4,Cartão de crédito,2.0,141.73
+2025-03-29 18:25:45.172586,Olinda,Pizza,Suco,4,Pix,4.3,185.07
+2025-03-29 22:47:57.838919,Garanhuns,Pizza,Coxinha,2,Pix,3.0,103.2
+2025-03-30 03:10:10.505252,Recife,Sanduíche,Água,5,Pix,1.5,286.89
+2025-03-30 07:32:23.171585,Caruaru,Bebida,Sanduíche Natural,1,Cartão de crédito,3.3,53.21
+2025-03-30 11:54:35.837918,Recife,Sanduíche,Refrigerante,4,Pix,,132.53
+2025-03-30 16:16:48.504252,Caruaru,Hambúrguer,X-Bacon,1,Cartão de crédito,3.6,25.47
+2025-03-30 20:39:01.170585,Petrolina,Bebida,Suco,4,Cartão de crédito,4.5,64.13
+2025-03-31 01:01:13.836918,Olinda,Hambúrguer,Batata Frita,5,Cartão de crédito,2.6,144.08
+2025-03-31 05:23:26.503251,Recife,Sanduíche,Suco,4,Pix,2.2,108.23
+2025-03-31 09:45:39.169584,Garanhuns,Bebida,X-Bacon,4,Dinheiro,1.1,148.39
+2025-03-31 14:07:51.835917,Petrolina,Sanduíche,Pizza de Calabresa,3,Pix,3.3,127.82
+2025-03-31 18:30:04.502251,Recife,Bebida,Refrigerante,5,Pix,2.6,294.36
+2025-03-31 22:52:17.168584,Garanhuns,Sanduíche,X-Sertão,2,Cartão de débito,2.5,91.75
+2025-04-01 03:14:29.834917,Recife,Pizza,Água,2,Cartão de crédito,1.7,82.95
+2025-04-01 07:36:42.501250,Caruaru,Sanduíche,Coxinha,5,Dinheiro,2.7,127.12
+2025-04-01 11:58:55.167583,Recife,Pizza,Coxinha,2,Cartão de débito,4.9,19.59
+2025-04-01 16:21:07.833916,Recife,Sanduíche,X-Sertão,5,Dinheiro,2.2,114.91
+2025-04-01 20:43:20.500250,Recife,Bebida,Suco,2,Dinheiro,3.4,95.92
+2025-04-02 01:05:33.166583,Petrolina,Bebida,Refrigerante,3,Cartão de crédito,4.1,56.02
+2025-04-02 05:27:45.832916,Recife,Bebida,Pizza de Frango,2,Pix,4.0,90.07
+2025-04-02 09:49:58.499249,Garanhuns,Porção,Água,4,Cartão de crédito,2.3,152.59
+2025-04-02 14:12:11.165582,Caruaru,Hambúrguer,Sanduíche Natural,5,Cartão de crédito,3.4,84.68
+2025-04-02 18:34:23.831915,Caruaru,Bebida,X-Bacon,1,Cartão de débito,4.5,21.6
+2025-04-02 22:56:36.498249,Recife,Pizza,Suco,1,Cartão de crédito,1.1,33.81
+2025-04-03 03:18:49.164582,Petrolina,Bebida,Batata Frita,5,Pix,2.7,148.78
+2025-04-03 07:41:01.830915,Petrolina,Porção,Pizza de Calabresa,3,Dinheiro,1.9,145.46
+2025-04-03 12:03:14.497248,Garanhuns,Pizza,Coxinha,2,Cartão de crédito,2.6,92.38
+2025-04-03 16:25:27.163581,Recife,Porção,Suco,3,Dinheiro,2.7,113.63
+2025-04-03 20:47:39.829914,Caruaru,Pizza,Pizza de Calabresa,1,Cartão de crédito,4.0,50.76
+2025-04-04 01:09:52.496248,Petrolina,Sanduíche,X-Bacon,5,Dinheiro,1.4,186.29
+2025-04-04 05:32:05.162581,Recife,Hambúrguer,Coxinha,5,Cartão de crédito,3.1,290.74
+2025-04-04 09:54:17.828914,Petrolina,Hambúrguer,Coxinha,3,Cartão de débito,3.3,57.89
+2025-04-04 14:16:30.495247,Petrolina,Porção,Pizza de Frango,3,Dinheiro,3.0,135.4
+2025-04-04 18:38:43.161580,Caruaru,Hambúrguer,Suco,2,Cartão de crédito,3.9,54.47
+2025-04-04 23:00:55.827913,Olinda,Porção,Refrigerante,4,Cartão de crédito,2.5,90.02
+2025-04-05 03:23:08.494247,Garanhuns,Porção,X-Sertão,4,Cartão de débito,4.8,69.52
+2025-04-05 07:45:21.160580,Garanhuns,Porção,X-Sertão,2,Cartão de débito,2.9,73.46
+2025-04-05 12:07:33.826913,Caruaru,Hambúrguer,Sanduíche Natural,4,Cartão de débito,3.3,76.82
+2025-04-05 16:29:46.493246,Petrolina,Porção,Batata Frita,1,Dinheiro,4.3,18.42
+2025-04-05 20:51:59.159579,Recife,Hambúrguer,Pizza de Calabresa,4,Dinheiro,2.1,238.03
+2025-04-06 01:14:11.825912,Petrolina,Porção,Suco,2,Cartão de débito,1.3,99.38
+2025-04-06 05:36:24.492246,Caruaru,Bebida,Água,4,Pix,3.8,187.64
+2025-04-06 09:58:37.158579,Garanhuns,Porção,Batata Frita,5,Pix,2.9,246.46
+2025-04-06 14:20:49.824912,Petrolina,Pizza,Pizza de Frango,3,Cartão de crédito,4.6,175.15
+2025-04-06 18:43:02.491245,Garanhuns,Porção,Coxinha,1,Pix,4.9,37.81
+2025-04-06 23:05:15.157578,Recife,Sanduíche,Refrigerante,5,Cartão de crédito,2.6,97.26
+2025-04-07 03:27:27.823911,Garanhuns,Porção,Suco,5,Dinheiro,2.7,264.17
+2025-04-07 07:49:40.490245,Garanhuns,Pizza,Batata Frita,2,Dinheiro,2.6,93.24
+2025-04-07 12:11:53.156578,Olinda,Pizza,Batata Frita,3,Pix,,88.63
+2025-04-07 16:34:05.822911,Olinda,Hambúrguer,Refrigerante,3,Dinheiro,4.1,97.88
+2025-04-07 20:56:18.489244,Olinda,Bebida,Sanduíche Natural,1,Cartão de débito,4.0,29.39
+2025-04-08 01:18:31.155577,Garanhuns,Porção,Pizza de Calabresa,2,Cartão de débito,2.9,112.71
+2025-04-08 05:40:43.821910,Caruaru,Hambúrguer,Pizza de Calabresa,1,Pix,1.2,25.86
+2025-04-08 10:02:56.488244,Garanhuns,Bebida,Batata Frita,4,Pix,2.2,232.4
+2025-04-08 14:25:09.154577,Caruaru,Porção,X-Bacon,5,Cartão de crédito,2.2,276.67
+2025-04-08 18:47:21.820910,Caruaru,Sanduíche,Batata Frita,1,Dinheiro,4.2,40.79
+2025-04-08 23:09:34.487243,Olinda,Porção,Batata Frita,5,Cartão de crédito,1.4,190.75
+2025-04-09 03:31:47.153576,Petrolina,Pizza,Refrigerante,2,Cartão de crédito,,54.49
+2025-04-09 07:53:59.819909,Recife,Pizza,Coxinha,4,Cartão de débito,3.7,35.81
+2025-04-09 12:16:12.486243,Olinda,Sanduíche,Refrigerante,2,Cartão de débito,3.9,29.27
+2025-04-09 16:38:25.152576,Olinda,Hambúrguer,Suco,4,Cartão de débito,2.7,188.88
+2025-04-09 21:00:37.818909,Petrolina,Bebida,Batata Frita,4,Cartão de débito,3.7,130.08
+2025-04-10 01:22:50.485242,Recife,Porção,Pizza de Calabresa,5,Cartão de crédito,3.4,78.96
+2025-04-10 05:45:03.151575,Garanhuns,Pizza,Água,2,Cartão de débito,4.1,43.45
+2025-04-10 10:07:15.817908,Garanhuns,Hambúrguer,Pizza de Calabresa,2,Dinheiro,2.8,114.58
+2025-04-10 14:29:28.484242,Olinda,Sanduíche,X-Sertão,1,Cartão de débito,2.9,27.09
+2025-04-10 18:51:41.150575,Recife,Pizza,Sanduíche Natural,2,Cartão de débito,3.6,110.4
+2025-04-10 23:13:53.816908,Olinda,Sanduíche,Pizza de Frango,1,Cartão de débito,1.4,23.84
+2025-04-11 03:36:06.483241,Caruaru,Porção,Suco,3,Pix,,108.74
+2025-04-11 07:58:19.149574,Olinda,Bebida,Suco,3,Dinheiro,4.9,27.19
+2025-04-11 12:20:31.815907,Olinda,Pizza,Sanduíche Natural,3,Dinheiro,1.2,105.41
+2025-04-11 16:42:44.482241,Garanhuns,Pizza,Água,2,Cartão de crédito,2.3,82.24
+2025-04-11 21:04:57.148574,Garanhuns,Porção,Pizza de Frango,2,Cartão de crédito,2.3,40.37
+2025-04-12 01:27:09.814907,Garanhuns,Hambúrguer,Coxinha,1,Cartão de débito,3.5,38.1
+2025-04-12 05:49:22.481240,Caruaru,Bebida,Batata Frita,4,Pix,1.4,166.61
+2025-04-12 10:11:35.147573,Garanhuns,Pizza,Pizza de Frango,1,Cartão de crédito,3.5,43.72
+2025-04-12 14:33:47.813906,Recife,Bebida,Água,3,Cartão de crédito,1.4,145.12
+2025-04-12 18:56:00.480240,Petrolina,Pizza,X-Bacon,1,Cartão de débito,1.4,24.19
+2025-04-12 23:18:13.146573,Recife,Bebida,X-Sertão,4,Cartão de débito,3.9,150.1
+2025-04-13 03:40:25.812906,Recife,Sanduíche,Pizza de Frango,2,Cartão de crédito,2.3,118.08
+2025-04-13 08:02:38.479239,Garanhuns,Pizza,Pizza de Frango,1,Cartão de crédito,4.9,54.7
+2025-04-13 12:24:51.145572,Petrolina,Bebida,X-Sertão,3,Dinheiro,1.1,172.62
+2025-04-13 16:47:03.811905,Petrolina,Hambúrguer,Batata Frita,3,Pix,2.8,84.24
+2025-04-13 21:09:16.478239,Petrolina,Sanduíche,Pizza de Frango,2,Dinheiro,1.5,97.84
+2025-04-14 01:31:29.144572,Caruaru,Sanduíche,X-Sertão,1,Cartão de crédito,2.4,40.23
+2025-04-14 05:53:41.810905,Garanhuns,Hambúrguer,X-Sertão,4,Dinheiro,5.0,49.21
+2025-04-14 10:15:54.477238,Petrolina,Bebida,X-Sertão,2,Dinheiro,4.6,101.69
+2025-04-14 14:38:07.143571,Caruaru,Porção,Refrigerante,1,Cartão de crédito,1.2,43.21
+2025-04-14 19:00:19.809904,Olinda,Hambúrguer,Água,5,Cartão de débito,3.3,91.72
+2025-04-14 23:22:32.476238,Olinda,Bebida,Refrigerante,3,Cartão de crédito,3.6,36.44
+2025-04-15 03:44:45.142571,Caruaru,Hambúrguer,X-Bacon,4,Cartão de débito,1.8,206.1
+2025-04-15 08:06:57.808904,Caruaru,Hambúrguer,Coxinha,4,Cartão de crédito,1.6,48.41
+2025-04-15 12:29:10.475237,Garanhuns,Pizza,Refrigerante,4,Cartão de crédito,4.6,51.0
+2025-04-15 16:51:23.141570,Garanhuns,Bebida,Refrigerante,3,Cartão de crédito,4.9,90.68
+2025-04-15 21:13:35.807903,Olinda,Porção,Água,1,Pix,5.0,15.01
+2025-04-16 01:35:48.474237,Petrolina,Pizza,Coxinha,2,Cartão de débito,4.2,111.02
+2025-04-16 05:58:01.140570,Olinda,Hambúrguer,Sanduíche Natural,1,Pix,3.7,32.45
+2025-04-16 10:20:13.806903,Petrolina,Hambúrguer,X-Sertão,2,Cartão de crédito,2.4,75.19
+2025-04-16 14:42:26.473236,Petrolina,Hambúrguer,Suco,4,Dinheiro,1.7,225.05
+2025-04-16 19:04:39.139569,Garanhuns,Bebida,Coxinha,1,Pix,1.3,35.57
+2025-04-16 23:26:51.805902,Recife,Bebida,X-Bacon,4,Cartão de débito,,105.55
+2025-04-17 03:49:04.472236,Recife,Pizza,Batata Frita,5,Cartão de crédito,4.1,247.26
+2025-04-17 08:11:17.138569,Caruaru,Porção,X-Bacon,4,Pix,4.3,124.11
+2025-04-17 12:33:29.804902,Garanhuns,Pizza,X-Sertão,4,Dinheiro,4.7,98.24
+2025-04-17 16:55:42.471235,Petrolina,Sanduíche,Coxinha,2,Pix,4.5,91.22
+2025-04-17 21:17:55.137568,Recife,Hambúrguer,X-Bacon,5,Cartão de débito,5.0,248.42
+2025-04-18 01:40:07.803901,Petrolina,Hambúrguer,X-Bacon,4,Pix,2.0,196.68
+2025-04-18 06:02:20.470235,Recife,Hambúrguer,Sanduíche Natural,4,Dinheiro,4.1,235.36
+2025-04-18 10:24:33.136568,Recife,Pizza,Sanduíche Natural,5,Dinheiro,3.3,244.53
+2025-04-18 14:46:45.802901,Recife,Pizza,Coxinha,5,Cartão de débito,2.0,240.18
+2025-04-18 19:08:58.469234,Garanhuns,Hambúrguer,X-Sertão,1,Dinheiro,4.9,52.59
+2025-04-18 23:31:11.135567,Olinda,Pizza,Refrigerante,2,Cartão de crédito,4.6,16.02
+2025-04-19 03:53:23.801900,Petrolina,Bebida,Pizza de Calabresa,5,Dinheiro,1.5,134.23
+2025-04-19 08:15:36.468234,Garanhuns,Bebida,Pizza de Frango,5,Cartão de crédito,1.1,231.78
+2025-04-19 12:37:49.134567,Garanhuns,Pizza,Suco,3,Pix,3.8,117.56
+2025-04-19 17:00:01.800900,Garanhuns,Hambúrguer,Pizza de Frango,5,Cartão de crédito,3.4,86.17
+2025-04-19 21:22:14.467233,Garanhuns,Pizza,Água,2,Cartão de crédito,4.7,47.59
+2025-04-20 01:44:27.133566,Garanhuns,Pizza,Sanduíche Natural,4,Pix,1.9,102.05
+2025-04-20 06:06:39.799899,Caruaru,Pizza,Coxinha,4,Dinheiro,1.3,150.11
+2025-04-20 10:28:52.466233,Petrolina,Sanduíche,Pizza de Frango,4,Cartão de crédito,2.0,204.97
+2025-04-20 14:51:05.132566,Garanhuns,Bebida,X-Sertão,4,Dinheiro,,225.96
+2025-04-20 19:13:17.798899,Petrolina,Porção,Suco,3,Pix,1.1,141.01
+2025-04-20 23:35:30.465232,Caruaru,Porção,Pizza de Frango,5,Cartão de débito,4.7,259.17
+2025-04-21 03:57:43.131565,Caruaru,Sanduíche,Suco,4,Dinheiro,2.4,129.78
+2025-04-21 08:19:55.797898,Petrolina,Pizza,Batata Frita,1,Dinheiro,2.6,28.27
+2025-04-21 12:42:08.464232,Recife,Sanduíche,X-Sertão,4,Cartão de débito,1.1,113.68
+2025-04-21 17:04:21.130565,Olinda,Sanduíche,Pizza de Calabresa,5,Cartão de débito,2.1,200.17
+2025-04-21 21:26:33.796898,Recife,Hambúrguer,X-Bacon,4,Pix,4.2,57.84
+2025-04-22 01:48:46.463231,Recife,Bebida,Suco,3,Dinheiro,,114.4
+2025-04-22 06:10:59.129564,Recife,Porção,X-Sertão,2,Dinheiro,4.0,85.17
+2025-04-22 10:33:11.795897,Garanhuns,Pizza,Suco,2,Pix,2.8,61.65
+2025-04-22 14:55:24.462231,Caruaru,Porção,Suco,5,Dinheiro,2.2,287.82
+2025-04-22 19:17:37.128564,Recife,Porção,Refrigerante,2,Cartão de crédito,2.9,79.25
+2025-04-22 23:39:49.794897,Caruaru,Bebida,Refrigerante,2,Cartão de crédito,2.3,38.88
+2025-04-23 04:02:02.461230,Petrolina,Porção,X-Sertão,1,Cartão de crédito,4.4,32.92
+2025-04-23 08:24:15.127563,Olinda,Porção,Refrigerante,5,Dinheiro,2.2,215.61
+2025-04-23 12:46:27.793896,Petrolina,Sanduíche,Água,5,Cartão de crédito,3.6,124.14
+2025-04-23 17:08:40.460230,Petrolina,Bebida,Pizza de Calabresa,2,Cartão de crédito,1.5,24.28
+2025-04-23 21:30:53.126563,Garanhuns,Hambúrguer,Coxinha,2,Pix,3.7,76.68
+2025-04-24 01:53:05.792896,Olinda,Pizza,X-Sertão,2,Pix,4.7,114.58
+2025-04-24 06:15:18.459229,Petrolina,Porção,X-Sertão,3,Cartão de débito,3.4,99.67
+2025-04-24 10:37:31.125562,Petrolina,Pizza,Água,4,Cartão de débito,3.2,220.47
+2025-04-24 14:59:43.791895,Olinda,Hambúrguer,Sanduíche Natural,3,Cartão de débito,4.8,154.26
+2025-04-24 19:21:56.458229,Olinda,Pizza,Sanduíche Natural,5,Cartão de débito,3.5,78.33
+2025-04-24 23:44:09.124562,Petrolina,Hambúrguer,Refrigerante,1,Pix,2.0,44.82
+2025-04-25 04:06:21.790895,Olinda,Sanduíche,Coxinha,4,Pix,2.2,122.58
+2025-04-25 08:28:34.457228,Petrolina,Porção,Refrigerante,1,Pix,3.8,21.01
+2025-04-25 12:50:47.123561,Petrolina,Hambúrguer,Batata Frita,5,Cartão de crédito,3.9,218.6
+2025-04-25 17:12:59.789894,Garanhuns,Pizza,Batata Frita,5,Cartão de crédito,2.2,233.09
+2025-04-25 21:35:12.456228,Recife,Porção,X-Bacon,1,Cartão de débito,2.4,17.35
+2025-04-26 01:57:25.122561,Petrolina,Sanduíche,Batata Frita,1,Cartão de crédito,5.0,55.55
+2025-04-26 06:19:37.788894,Caruaru,Porção,Sanduíche Natural,1,Dinheiro,1.4,47.06
+2025-04-26 10:41:50.455227,Recife,Hambúrguer,Pizza de Calabresa,5,Pix,2.6,282.68
+2025-04-26 15:04:03.121560,Recife,Sanduíche,Batata Frita,2,Cartão de débito,1.2,48.98
+2025-04-26 19:26:15.787893,Recife,Pizza,Refrigerante,1,Cartão de débito,4.3,56.85
+2025-04-26 23:48:28.454227,Garanhuns,Sanduíche,Suco,4,Dinheiro,1.4,108.65
+2025-04-27 04:10:41.120560,Petrolina,Sanduíche,X-Sertão,5,Cartão de crédito,3.7,54.03
+2025-04-27 08:32:53.786893,Garanhuns,Bebida,Pizza de Calabresa,3,Cartão de débito,1.2,143.02
+2025-04-27 12:55:06.453226,Petrolina,Sanduíche,Pizza de Calabresa,3,Cartão de crédito,3.7,133.75
+2025-04-27 17:17:19.119559,Garanhuns,Sanduíche,Refrigerante,4,Cartão de crédito,4.4,156.37
+2025-04-27 21:39:31.785892,Garanhuns,Porção,X-Sertão,2,Dinheiro,2.6,66.95
+2025-04-28 02:01:44.452226,Caruaru,Pizza,Sanduíche Natural,1,Cartão de débito,3.1,9.67
+2025-04-28 06:23:57.118559,Garanhuns,Porção,Pizza de Calabresa,5,Cartão de crédito,2.6,202.4
+2025-04-28 10:46:09.784892,Olinda,Porção,X-Bacon,1,Cartão de crédito,2.2,29.68
+2025-04-28 15:08:22.451225,Caruaru,Hambúrguer,Refrigerante,5,Dinheiro,4.2,185.65
+2025-04-28 19:30:35.117558,Garanhuns,Porção,Pizza de Calabresa,3,Dinheiro,2.1,90.97
+2025-04-28 23:52:47.783891,Recife,Bebida,Coxinha,1,Cartão de crédito,3.9,58.23
+2025-04-29 04:15:00.450225,Olinda,Bebida,X-Sertão,4,Dinheiro,1.8,157.65
+2025-04-29 08:37:13.116558,Olinda,Hambúrguer,Batata Frita,2,Cartão de crédito,2.0,93.92
+2025-04-29 12:59:25.782891,Olinda,Pizza,Pizza de Calabresa,4,Cartão de débito,2.3,226.76
+2025-04-29 17:21:38.449224,Caruaru,Pizza,Refrigerante,2,Pix,3.4,77.53
+2025-04-29 21:43:51.115557,Garanhuns,Porção,Batata Frita,1,Dinheiro,2.8,8.63
+2025-04-30 02:06:03.781890,Garanhuns,Porção,X-Bacon,1,Pix,4.0,9.78
+2025-04-30 06:28:16.448224,Recife,Porção,Batata Frita,2,Cartão de crédito,1.9,89.04
+2025-04-30 10:50:29.114557,Recife,Pizza,Coxinha,3,Cartão de crédito,1.0,67.54
+2025-04-30 15:12:41.780890,Olinda,Sanduíche,Sanduíche Natural,5,Cartão de crédito,,190.64
+2025-04-30 19:34:54.447223,Recife,Bebida,Pizza de Calabresa,4,Pix,4.3,74.07
+2025-04-30 23:57:07.113556,Caruaru,Sanduíche,Pizza de Frango,4,Cartão de crédito,1.2,88.21
+2025-05-01 04:19:19.779889,Garanhuns,Sanduíche,Pizza de Frango,4,Dinheiro,3.4,136.97
+2025-05-01 08:41:32.446223,Olinda,Pizza,Batata Frita,1,Cartão de débito,2.5,58.73
+2025-05-01 13:03:45.112556,Recife,Sanduíche,Água,4,Cartão de débito,4.2,160.18
+2025-05-01 17:25:57.778889,Caruaru,Hambúrguer,X-Sertão,5,Dinheiro,4.5,283.4
+2025-05-01 21:48:10.445222,Caruaru,Porção,Pizza de Frango,5,Cartão de débito,4.4,289.44
+2025-05-02 02:10:23.111555,Recife,Hambúrguer,Água,2,Pix,4.1,37.64
+2025-05-02 06:32:35.777888,Garanhuns,Bebida,Pizza de Frango,1,Cartão de crédito,2.1,24.18
+2025-05-02 10:54:48.444222,Recife,Porção,Água,5,Cartão de crédito,4.2,240.2
+2025-05-02 15:17:01.110555,Olinda,Sanduíche,X-Sertão,3,Cartão de crédito,3.1,159.22
+2025-05-02 19:39:13.776888,Recife,Bebida,Suco,1,Pix,1.2,35.0
+2025-05-03 00:01:26.443221,Caruaru,Porção,Pizza de Frango,1,Pix,2.8,59.65
+2025-05-03 04:23:39.109554,Recife,Sanduíche,Coxinha,5,Pix,4.8,43.01
+2025-05-03 08:45:51.775887,Garanhuns,Hambúrguer,Pizza de Calabresa,3,Dinheiro,4.6,70.74
+2025-05-03 13:08:04.442221,Petrolina,Porção,Água,2,Pix,1.4,80.81
+2025-05-03 17:30:17.108554,Recife,Sanduíche,Pizza de Calabresa,5,Cartão de débito,4.0,162.02
+2025-05-03 21:52:29.774887,Garanhuns,Hambúrguer,Refrigerante,3,Dinheiro,,42.19
+2025-05-04 02:14:42.441220,Garanhuns,Bebida,Refrigerante,1,Dinheiro,2.1,27.12
+2025-05-04 06:36:55.107553,Caruaru,Bebida,X-Sertão,3,Dinheiro,2.9,27.97
+2025-05-04 10:59:07.773886,Garanhuns,Bebida,Água,1,Pix,3.8,41.42
+2025-05-04 15:21:20.440220,Garanhuns,Bebida,X-Bacon,5,Dinheiro,2.8,272.11
+2025-05-04 19:43:33.106553,Garanhuns,Pizza,Refrigerante,5,Pix,1.5,270.07
+2025-05-05 00:05:45.772886,Garanhuns,Porção,X-Sertão,4,Pix,3.8,177.51
+2025-05-05 04:27:58.439219,Olinda,Porção,Refrigerante,4,Dinheiro,4.6,128.88
+2025-05-05 08:50:11.105552,Olinda,Pizza,Refrigerante,4,Cartão de crédito,3.6,138.5
+2025-05-05 13:12:23.771885,Caruaru,Sanduíche,X-Bacon,5,Cartão de crédito,4.1,75.6
+2025-05-05 17:34:36.438219,Recife,Sanduíche,Pizza de Frango,2,Dinheiro,2.4,51.47
+2025-05-05 21:56:49.104552,Garanhuns,Bebida,Batata Frita,5,Cartão de crédito,1.7,88.81
+2025-05-06 02:19:01.770885,Recife,Hambúrguer,Suco,3,Cartão de débito,3.6,152.11
+2025-05-06 06:41:14.437218,Recife,Sanduíche,Refrigerante,5,Cartão de débito,2.3,277.84
+2025-05-06 11:03:27.103551,Caruaru,Hambúrguer,Refrigerante,5,Pix,4.4,179.6
+2025-05-06 15:25:39.769884,Garanhuns,Porção,Coxinha,1,Cartão de crédito,1.5,45.84
+2025-05-06 19:47:52.436218,Garanhuns,Hambúrguer,Suco,1,Cartão de débito,2.7,14.32
+2025-05-07 00:10:05.102551,Petrolina,Porção,X-Bacon,1,Dinheiro,2.6,39.64
+2025-05-07 04:32:17.768884,Recife,Pizza,Pizza de Calabresa,5,Cartão de crédito,4.8,222.73
+2025-05-07 08:54:30.435217,Recife,Pizza,Água,2,Cartão de débito,,63.09
+2025-05-07 13:16:43.101550,Olinda,Bebida,Refrigerante,3,Cartão de débito,1.0,61.95
+2025-05-07 17:38:55.767883,Petrolina,Sanduíche,Batata Frita,3,Dinheiro,2.0,160.87
+2025-05-07 22:01:08.434217,Olinda,Bebida,Água,2,Pix,4.3,93.26
+2025-05-08 02:23:21.100550,Olinda,Porção,Suco,2,Dinheiro,1.8,109.59
+2025-05-08 06:45:33.766883,Olinda,Bebida,Água,3,Pix,2.0,151.67
+2025-05-08 11:07:46.433216,Caruaru,Hambúrguer,Pizza de Frango,4,Cartão de débito,1.5,238.0
+2025-05-08 15:29:59.099549,Caruaru,Porção,Refrigerante,1,Pix,3.9,17.99
+2025-05-08 19:52:11.765882,Olinda,Pizza,Água,1,Cartão de débito,1.3,12.51
+2025-05-09 00:14:24.432216,Petrolina,Sanduíche,Pizza de Calabresa,3,Cartão de débito,2.3,76.57
+2025-05-09 04:36:37.098549,Recife,Porção,Pizza de Calabresa,2,Cartão de crédito,2.1,29.42
+2025-05-09 08:58:49.764882,Petrolina,Porção,Refrigerante,4,Pix,3.2,140.81
+2025-05-09 13:21:02.431215,Garanhuns,Hambúrguer,Sanduíche Natural,3,Pix,3.9,122.75
+2025-05-09 17:43:15.097548,Caruaru,Sanduíche,Pizza de Calabresa,1,Pix,3.1,38.07
+2025-05-09 22:05:27.763881,Recife,Pizza,Água,5,Dinheiro,4.7,107.4
+2025-05-10 02:27:40.430215,Recife,Porção,X-Sertão,2,Cartão de crédito,4.8,110.52
+2025-05-10 06:49:53.096548,Garanhuns,Porção,Pizza de Calabresa,5,Cartão de crédito,2.4,45.5
+2025-05-10 11:12:05.762881,Garanhuns,Hambúrguer,Suco,3,Cartão de crédito,4.1,78.29
+2025-05-10 15:34:18.429214,Olinda,Bebida,Sanduíche Natural,1,Dinheiro,4.0,45.39
+2025-05-10 19:56:31.095547,Caruaru,Pizza,Água,4,Pix,4.6,191.52
+2025-05-11 00:18:43.761880,Caruaru,Sanduíche,X-Bacon,5,Pix,2.8,148.19
+2025-05-11 04:40:56.428214,Petrolina,Porção,Coxinha,4,Pix,3.1,35.52
+2025-05-11 09:03:09.094547,Olinda,Porção,X-Bacon,1,Cartão de crédito,2.7,40.14
+2025-05-11 13:25:21.760880,Olinda,Pizza,Pizza de Frango,5,Cartão de crédito,4.4,56.4
+2025-05-11 17:47:34.427213,Olinda,Bebida,Coxinha,4,Cartão de débito,1.9,54.43
+2025-05-11 22:09:47.093546,Olinda,Porção,Pizza de Frango,4,Dinheiro,2.0,167.25
+2025-05-12 02:31:59.759879,Caruaru,Pizza,Coxinha,5,Dinheiro,2.5,121.25
+2025-05-12 06:54:12.426213,Caruaru,Hambúrguer,Coxinha,1,Cartão de crédito,1.9,26.1
+2025-05-12 11:16:25.092546,Olinda,Bebida,X-Sertão,4,Cartão de débito,3.2,133.26
+2025-05-12 15:38:37.758879,Petrolina,Sanduíche,Batata Frita,3,Pix,1.5,176.66
+2025-05-12 20:00:50.425212,Recife,Porção,Suco,5,Cartão de crédito,2.3,291.01
+2025-05-13 00:23:03.091545,Recife,Pizza,X-Bacon,2,Dinheiro,4.7,59.29
+2025-05-13 04:45:15.757878,Petrolina,Hambúrguer,Pizza de Calabresa,2,Dinheiro,2.6,43.61
+2025-05-13 09:07:28.424212,Olinda,Sanduíche,Água,1,Dinheiro,4.0,23.73
+2025-05-13 13:29:41.090545,Caruaru,Pizza,Sanduíche Natural,3,Pix,1.5,65.93
+2025-05-13 17:51:53.756878,Recife,Pizza,Suco,4,Dinheiro,2.0,142.71
+2025-05-13 22:14:06.423211,Garanhuns,Sanduíche,Pizza de Frango,2,Pix,4.2,79.11
+2025-05-14 02:36:19.089544,Garanhuns,Hambúrguer,X-Sertão,1,Pix,4.1,33.42
+2025-05-14 06:58:31.755877,Petrolina,Hambúrguer,Pizza de Frango,3,Pix,2.5,87.65
+2025-05-14 11:20:44.422211,Olinda,Bebida,Batata Frita,3,Cartão de crédito,4.8,56.96
+2025-05-14 15:42:57.088544,Recife,Porção,Sanduíche Natural,1,Pix,4.6,33.09
+2025-05-14 20:05:09.754877,Olinda,Sanduíche,X-Sertão,1,Cartão de débito,4.8,25.74
+2025-05-15 00:27:22.421210,Recife,Sanduíche,Pizza de Frango,4,Dinheiro,,144.65
+2025-05-15 04:49:35.087543,Petrolina,Sanduíche,Batata Frita,1,Cartão de crédito,1.8,43.11
+2025-05-15 09:11:47.753876,Petrolina,Hambúrguer,Água,4,Dinheiro,3.5,163.73
+2025-05-15 13:34:00.420210,Garanhuns,Porção,Água,4,Pix,3.7,128.2
+2025-05-15 17:56:13.086543,Olinda,Bebida,Pizza de Frango,5,Cartão de crédito,1.5,184.57
+2025-05-15 22:18:25.752876,Garanhuns,Pizza,Suco,3,Cartão de débito,4.1,68.44
+2025-05-16 02:40:38.419209,Olinda,Pizza,Sanduíche Natural,3,Pix,1.1,27.78
+2025-05-16 07:02:51.085542,Garanhuns,Sanduíche,Refrigerante,3,Dinheiro,2.9,121.5
+2025-05-16 11:25:03.751875,Caruaru,Porção,Suco,5,Cartão de débito,2.3,105.67
+2025-05-16 15:47:16.418209,Caruaru,Hambúrguer,Água,4,Pix,4.0,171.14
+2025-05-16 20:09:29.084542,Caruaru,Porção,Sanduíche Natural,4,Cartão de débito,2.3,187.38
+2025-05-17 00:31:41.750875,Caruaru,Porção,Batata Frita,1,Pix,4.3,55.63
+2025-05-17 04:53:54.417208,Recife,Hambúrguer,X-Sertão,5,Cartão de crédito,3.4,289.11
+2025-05-17 09:16:07.083541,Caruaru,Sanduíche,Coxinha,1,Pix,4.2,8.55
+2025-05-17 13:38:19.749874,Petrolina,Porção,Pizza de Frango,5,Cartão de crédito,5.0,297.5
+2025-05-17 18:00:32.416208,Petrolina,Pizza,X-Bacon,1,Pix,3.7,43.52
+2025-05-17 22:22:45.082541,Recife,Hambúrguer,Sanduíche Natural,2,Pix,4.9,82.93
+2025-05-18 02:44:57.748874,Caruaru,Bebida,Pizza de Calabresa,3,Dinheiro,1.1,26.37
+2025-05-18 07:07:10.415207,Caruaru,Sanduíche,Batata Frita,3,Cartão de débito,2.4,158.35
+2025-05-18 11:29:23.081540,Caruaru,Hambúrguer,Refrigerante,4,Cartão de débito,1.4,62.26
+2025-05-18 15:51:35.747873,Garanhuns,Bebida,Coxinha,2,Cartão de débito,2.0,103.08
+2025-05-18 20:13:48.414207,Olinda,Bebida,Pizza de Calabresa,3,Pix,4.4,26.43
+2025-05-19 00:36:01.080540,Garanhuns,Porção,Refrigerante,4,Pix,1.1,166.36
+2025-05-19 04:58:13.746873,Olinda,Porção,X-Bacon,2,Pix,3.1,61.22
+2025-05-19 09:20:26.413206,Caruaru,Porção,Água,3,Cartão de crédito,,55.32
+2025-05-19 13:42:39.079539,Caruaru,Hambúrguer,Suco,1,Cartão de crédito,3.2,13.59
+2025-05-19 18:04:51.745872,Garanhuns,Hambúrguer,Pizza de Frango,5,Dinheiro,2.9,154.43
+2025-05-19 22:27:04.412206,Garanhuns,Sanduíche,X-Sertão,2,Pix,4.2,28.82
+2025-05-20 02:49:17.078539,Olinda,Porção,Refrigerante,4,Cartão de débito,1.5,133.18
+2025-05-20 07:11:29.744872,Petrolina,Bebida,Coxinha,2,Cartão de débito,2.2,81.02
+2025-05-20 11:33:42.411205,Olinda,Pizza,Sanduíche Natural,4,Dinheiro,3.5,204.1
+2025-05-20 15:55:55.077538,Garanhuns,Sanduíche,Água,2,Cartão de débito,3.8,86.58
+2025-05-20 20:18:07.743871,Garanhuns,Hambúrguer,Sanduíche Natural,4,Dinheiro,2.6,45.56
+2025-05-21 00:40:20.410205,Recife,Sanduíche,Coxinha,3,Pix,4.5,71.96
+2025-05-21 05:02:33.076538,Garanhuns,Sanduíche,Sanduíche Natural,1,Cartão de débito,2.7,22.97
+2025-05-21 09:24:45.742871,Recife,Sanduíche,Refrigerante,3,Pix,2.6,166.75
+2025-05-21 13:46:58.409204,Petrolina,Sanduíche,Batata Frita,1,Cartão de crédito,1.1,53.12
+2025-05-21 18:09:11.075537,Olinda,Pizza,Sanduíche Natural,3,Cartão de débito,3.2,81.74
+2025-05-21 22:31:23.741870,Olinda,Porção,Suco,3,Cartão de crédito,3.8,35.1
+2025-05-22 02:53:36.408204,Recife,Bebida,X-Bacon,2,Cartão de débito,1.5,108.99
+2025-05-22 07:15:49.074537,Olinda,Sanduíche,X-Sertão,5,Pix,2.2,270.93
+2025-05-22 11:38:01.740870,Garanhuns,Sanduíche,Refrigerante,4,Dinheiro,4.1,209.79
+2025-05-22 16:00:14.407203,Caruaru,Sanduíche,Pizza de Calabresa,4,Pix,2.5,207.78
+2025-05-22 20:22:27.073536,Recife,Porção,Coxinha,4,Pix,2.0,131.89
+2025-05-23 00:44:39.739869,Olinda,Hambúrguer,Água,1,Pix,3.7,17.23
+2025-05-23 05:06:52.406203,Recife,Hambúrguer,Refrigerante,4,Cartão de débito,1.8,131.32
+2025-05-23 09:29:05.072536,Recife,Pizza,Batata Frita,4,Dinheiro,4.6,134.88
+2025-05-23 13:51:17.738869,Caruaru,Hambúrguer,Água,2,Cartão de crédito,1.4,66.95
+2025-05-23 18:13:30.405202,Garanhuns,Sanduíche,Suco,3,Pix,3.8,108.05
+2025-05-23 22:35:43.071535,Recife,Sanduíche,Coxinha,4,Cartão de débito,3.0,85.59
+2025-05-24 02:57:55.737868,Olinda,Sanduíche,Água,5,Cartão de crédito,4.5,135.22
+2025-05-24 07:20:08.404202,Petrolina,Pizza,Sanduíche Natural,4,Pix,1.5,122.31
+2025-05-24 11:42:21.070535,Recife,Sanduíche,Refrigerante,1,Cartão de crédito,3.7,14.82
+2025-05-24 16:04:33.736868,Recife,Hambúrguer,X-Bacon,1,Pix,3.3,31.68
+2025-05-24 20:26:46.403201,Caruaru,Porção,Coxinha,1,Cartão de crédito,2.9,50.14
+2025-05-25 00:48:59.069534,Garanhuns,Porção,Pizza de Frango,4,Cartão de crédito,3.0,204.24
+2025-05-25 05:11:11.735867,Petrolina,Bebida,Suco,2,Dinheiro,3.9,58.8
+2025-05-25 09:33:24.402201,Olinda,Hambúrguer,X-Sertão,5,Dinheiro,4.8,174.89
+2025-05-25 13:55:37.068534,Petrolina,Sanduíche,Coxinha,4,Pix,1.4,39.0
+2025-05-25 18:17:49.734867,Olinda,Porção,Batata Frita,2,Cartão de débito,1.1,86.14
+2025-05-25 22:40:02.401200,Garanhuns,Hambúrguer,Refrigerante,2,Dinheiro,4.2,58.08
+2025-05-26 03:02:15.067533,Olinda,Porção,Sanduíche Natural,4,Cartão de crédito,1.4,124.66
+2025-05-26 07:24:27.733866,Caruaru,Sanduíche,X-Sertão,4,Dinheiro,4.9,213.72
+2025-05-26 11:46:40.400200,Caruaru,Porção,X-Sertão,2,Dinheiro,3.5,64.03
+2025-05-26 16:08:53.066533,Caruaru,Bebida,Suco,2,Pix,3.6,18.2
+2025-05-26 20:31:05.732866,Caruaru,Bebida,Água,2,Dinheiro,1.8,39.66
+2025-05-27 00:53:18.399199,Petrolina,Porção,Batata Frita,4,Dinheiro,2.0,130.93
+2025-05-27 05:15:31.065532,Garanhuns,Hambúrguer,Água,2,Cartão de crédito,3.6,60.14
+2025-05-27 09:37:43.731865,Olinda,Hambúrguer,Sanduíche Natural,1,Dinheiro,4.6,52.74
+2025-05-27 13:59:56.398199,Olinda,Hambúrguer,X-Sertão,4,Cartão de crédito,4.9,144.76
+2025-05-27 18:22:09.064532,Caruaru,Porção,Batata Frita,1,Dinheiro,1.8,43.86
+2025-05-27 22:44:21.730865,Caruaru,Hambúrguer,Batata Frita,3,Dinheiro,1.5,97.21
+2025-05-28 03:06:34.397198,Recife,Sanduíche,Pizza de Calabresa,4,Cartão de débito,1.2,123.45
+2025-05-28 07:28:47.063531,Garanhuns,Bebida,Refrigerante,3,Dinheiro,4.5,93.62
+2025-05-28 11:50:59.729864,Petrolina,Sanduíche,X-Sertão,2,Cartão de crédito,,58.74
+2025-05-28 16:13:12.396198,Olinda,Hambúrguer,X-Sertão,2,Cartão de crédito,1.0,72.01
+2025-05-28 20:35:25.062531,Recife,Sanduíche,Batata Frita,5,Pix,1.9,105.12
+2025-05-29 00:57:37.728864,Recife,Hambúrguer,Água,2,Pix,2.4,108.67
+2025-05-29 05:19:50.395197,Olinda,Porção,X-Sertão,3,Cartão de débito,5.0,75.96
+2025-05-29 09:42:03.061530,Petrolina,Sanduíche,Batata Frita,2,Cartão de crédito,3.1,31.34
+2025-05-29 14:04:15.727863,Recife,Porção,X-Sertão,4,Cartão de crédito,1.8,52.08
+2025-05-29 18:26:28.394197,Recife,Porção,Batata Frita,2,Cartão de crédito,2.3,17.4
+2025-05-29 22:48:41.060530,Garanhuns,Pizza,Pizza de Calabresa,5,Cartão de débito,2.3,149.94
+2025-05-30 03:10:53.726863,Petrolina,Hambúrguer,Refrigerante,2,Cartão de crédito,1.1,35.51
+2025-05-30 07:33:06.393196,Recife,Bebida,Batata Frita,3,Pix,1.5,27.38
+2025-05-30 11:55:19.059529,Petrolina,Hambúrguer,X-Sertão,3,Cartão de débito,3.8,105.12
+2025-05-30 16:17:31.725862,Olinda,Bebida,Sanduíche Natural,2,Pix,1.5,86.72
+2025-05-30 20:39:44.392196,Caruaru,Hambúrguer,Refrigerante,3,Pix,1.9,37.38
+2025-05-31 01:01:57.058529,Recife,Porção,Pizza de Calabresa,3,Cartão de débito,2.4,95.9
+2025-05-31 05:24:09.724862,Garanhuns,Sanduíche,Batata Frita,5,Dinheiro,4.0,233.34
+2025-05-31 09:46:22.391195,Olinda,Sanduíche,Sanduíche Natural,4,Dinheiro,3.3,237.05
+2025-05-31 14:08:35.057528,Petrolina,Pizza,Batata Frita,5,Pix,3.8,213.47
+2025-05-31 18:30:47.723861,Olinda,Bebida,Água,1,Dinheiro,,20.73
+2025-05-31 22:53:00.390195,Recife,Bebida,X-Sertão,5,Cartão de crédito,3.7,226.3
+2025-06-01 03:15:13.056528,Petrolina,Bebida,Coxinha,2,Cartão de débito,1.0,78.18
+2025-06-01 07:37:25.722861,Caruaru,Porção,Suco,4,Pix,4.7,76.05
+2025-06-01 11:59:38.389194,Olinda,Bebida,X-Bacon,2,Cartão de crédito,1.4,104.52
+2025-06-01 16:21:51.055527,Recife,Sanduíche,Água,1,Dinheiro,2.6,30.23
+2025-06-01 20:44:03.721860,Garanhuns,Porção,Sanduíche Natural,4,Cartão de crédito,4.1,232.09
+2025-06-02 01:06:16.388194,Petrolina,Hambúrguer,Água,3,Dinheiro,2.7,136.77
+2025-06-02 05:28:29.054527,Olinda,Bebida,Pizza de Frango,5,Pix,4.8,207.59
+2025-06-02 09:50:41.720860,Olinda,Bebida,Batata Frita,2,Cartão de crédito,2.9,91.75
+2025-06-02 14:12:54.387193,Caruaru,Hambúrguer,Batata Frita,1,Cartão de débito,4.5,32.86
+2025-06-02 18:35:07.053526,Caruaru,Bebida,X-Bacon,3,Pix,,102.82
+2025-06-02 22:57:19.719859,Garanhuns,Hambúrguer,X-Bacon,5,Cartão de crédito,4.9,261.31
+2025-06-03 03:19:32.386193,Garanhuns,Porção,Pizza de Frango,3,Cartão de crédito,4.7,130.22
+2025-06-03 07:41:45.052526,Recife,Sanduíche,X-Sertão,5,Dinheiro,4.6,273.28
+2025-06-03 12:03:57.718859,Recife,Hambúrguer,Suco,4,Pix,3.9,217.29
+2025-06-03 16:26:10.385192,Garanhuns,Pizza,Coxinha,3,Pix,2.5,176.33
+2025-06-03 20:48:23.051525,Garanhuns,Hambúrguer,Coxinha,3,Pix,1.4,133.23
+2025-06-04 01:10:35.717858,Petrolina,Bebida,Pizza de Calabresa,3,Pix,3.8,102.36
+2025-06-04 05:32:48.384192,Caruaru,Porção,Pizza de Calabresa,4,Dinheiro,4.9,66.59
+2025-06-04 09:55:01.050525,Recife,Porção,X-Sertão,1,Cartão de débito,3.9,44.68
+2025-06-04 14:17:13.716858,Caruaru,Hambúrguer,Pizza de Calabresa,5,Pix,4.7,115.81
+2025-06-04 18:39:26.383191,Caruaru,Sanduíche,Pizza de Calabresa,3,Dinheiro,4.2,68.14
+2025-06-04 23:01:39.049524,Garanhuns,Pizza,Pizza de Frango,4,Cartão de débito,1.7,81.56
+2025-06-05 03:23:51.715857,Petrolina,Porção,Pizza de Frango,1,Cartão de débito,,53.51
+2025-06-05 07:46:04.382191,Olinda,Bebida,Pizza de Calabresa,5,Dinheiro,2.4,265.67
+2025-06-05 12:08:17.048524,Petrolina,Bebida,Água,4,Pix,1.7,163.24
+2025-06-05 16:30:29.714857,Petrolina,Sanduíche,Refrigerante,5,Cartão de débito,3.3,162.98
+2025-06-05 20:52:42.381190,Caruaru,Porção,Refrigerante,3,Pix,4.9,128.85
+2025-06-06 01:14:55.047523,Petrolina,Hambúrguer,X-Sertão,1,Pix,,39.58
+2025-06-06 05:37:07.713856,Recife,Bebida,Coxinha,4,Cartão de crédito,2.7,118.47
+2025-06-06 09:59:20.380190,Caruaru,Sanduíche,X-Bacon,1,Pix,,27.74
+2025-06-06 14:21:33.046523,Recife,Porção,X-Sertão,3,Cartão de crédito,2.3,83.72
+2025-06-06 18:43:45.712856,Olinda,Porção,Pizza de Calabresa,1,Cartão de débito,3.1,38.63
+2025-06-06 23:05:58.379189,Caruaru,Porção,Pizza de Frango,1,Dinheiro,2.3,41.68
+2025-06-07 03:28:11.045522,Olinda,Porção,Batata Frita,2,Cartão de crédito,1.4,62.98
+2025-06-07 07:50:23.711855,Caruaru,Porção,Água,1,Dinheiro,2.8,58.37
+2025-06-07 12:12:36.378189,Garanhuns,Bebida,Sanduíche Natural,5,Cartão de débito,2.0,61.8
+2025-06-07 16:34:49.044522,Petrolina,Sanduíche,Pizza de Frango,4,Pix,4.6,104.19
+2025-06-07 20:57:01.710855,Garanhuns,Porção,Refrigerante,2,Cartão de débito,1.4,59.58
+2025-06-08 01:19:14.377188,Olinda,Pizza,Pizza de Frango,4,Dinheiro,1.2,35.52
+2025-06-08 05:41:27.043521,Petrolina,Pizza,Água,4,Cartão de débito,1.0,107.91
+2025-06-08 10:03:39.709854,Caruaru,Sanduíche,X-Bacon,3,Pix,2.3,66.7
+2025-06-08 14:25:52.376188,Petrolina,Hambúrguer,Pizza de Calabresa,3,Cartão de débito,3.6,102.94
+2025-06-08 18:48:05.042521,Recife,Hambúrguer,Batata Frita,2,Pix,3.9,50.99
+2025-06-08 23:10:17.708854,Petrolina,Hambúrguer,Refrigerante,3,Cartão de crédito,2.8,137.28
+2025-06-09 03:32:30.375187,Recife,Pizza,Refrigerante,3,Dinheiro,3.7,103.55
+2025-06-09 07:54:43.041520,Petrolina,Hambúrguer,Suco,3,Pix,2.4,44.24
+2025-06-09 12:16:55.707853,Recife,Bebida,Coxinha,4,Pix,3.7,188.01
+2025-06-09 16:39:08.374187,Olinda,Porção,X-Bacon,2,Cartão de débito,1.2,26.32
+2025-06-09 21:01:21.040520,Garanhuns,Pizza,Refrigerante,4,Cartão de crédito,2.6,206.52
+2025-06-10 01:23:33.706853,Caruaru,Sanduíche,Coxinha,5,Pix,4.2,282.17
+2025-06-10 05:45:46.373186,Petrolina,Sanduíche,Refrigerante,4,Cartão de crédito,4.2,99.07
+2025-06-10 10:07:59.039519,Garanhuns,Porção,Pizza de Calabresa,5,Cartão de crédito,3.9,280.8
+2025-06-10 14:30:11.705852,Caruaru,Pizza,Coxinha,1,Cartão de débito,1.8,49.24
+2025-06-10 18:52:24.372186,Caruaru,Hambúrguer,Água,1,Pix,2.0,55.97
+2025-06-10 23:14:37.038519,Recife,Hambúrguer,Suco,5,Cartão de débito,5.0,213.23
+2025-06-11 03:36:49.704852,Olinda,Bebida,Pizza de Calabresa,5,Dinheiro,1.4,101.27
+2025-06-11 07:59:02.371185,Olinda,Bebida,Água,4,Dinheiro,1.7,218.06
+2025-06-11 12:21:15.037518,Garanhuns,Hambúrguer,Batata Frita,5,Pix,1.5,87.91
+2025-06-11 16:43:27.703851,Olinda,Sanduíche,X-Bacon,2,Cartão de crédito,2.3,38.16
+2025-06-11 21:05:40.370185,Petrolina,Sanduíche,X-Bacon,1,Pix,1.8,22.1
+2025-06-12 01:27:53.036518,Olinda,Bebida,Sanduíche Natural,1,Pix,3.0,23.82
+2025-06-12 05:50:05.702851,Garanhuns,Porção,Sanduíche Natural,5,Dinheiro,2.9,173.76
+2025-06-12 10:12:18.369184,Olinda,Hambúrguer,Coxinha,3,Dinheiro,4.6,135.3
+2025-06-12 14:34:31.035517,Petrolina,Bebida,X-Bacon,3,Cartão de crédito,1.1,168.49
+2025-06-12 18:56:43.701850,Recife,Bebida,Coxinha,5,Cartão de crédito,2.3,62.99
+2025-06-12 23:18:56.368184,Garanhuns,Hambúrguer,Sanduíche Natural,2,Pix,3.4,115.25
+2025-06-13 03:41:09.034517,Recife,Hambúrguer,Batata Frita,3,Cartão de débito,3.4,167.73
+2025-06-13 08:03:21.700850,Recife,Sanduíche,Refrigerante,5,Pix,2.9,54.04
+2025-06-13 12:25:34.367183,Recife,Porção,Água,2,Cartão de crédito,4.3,53.47
+2025-06-13 16:47:47.033516,Caruaru,Porção,Pizza de Frango,2,Cartão de débito,1.3,100.57
+2025-06-13 21:09:59.699849,Caruaru,Hambúrguer,Coxinha,4,Dinheiro,4.3,159.21
+2025-06-14 01:32:12.366183,Recife,Pizza,Batata Frita,2,Cartão de crédito,3.0,97.03
+2025-06-14 05:54:25.032516,Garanhuns,Bebida,Água,3,Cartão de crédito,1.5,136.17
+2025-06-14 10:16:37.698849,Petrolina,Bebida,X-Bacon,3,Cartão de débito,4.5,101.5
+2025-06-14 14:38:50.365182,Petrolina,Hambúrguer,Refrigerante,5,Cartão de crédito,3.6,50.72
+2025-06-14 19:01:03.031515,Olinda,Pizza,Água,5,Cartão de crédito,1.7,191.91
+2025-06-14 23:23:15.697848,Garanhuns,Sanduíche,Suco,2,Cartão de crédito,1.1,21.05
+2025-06-15 03:45:28.364182,Caruaru,Hambúrguer,Sanduíche Natural,1,Cartão de crédito,1.6,39.39
+2025-06-15 08:07:41.030515,Recife,Hambúrguer,Água,4,Cartão de crédito,3.4,198.49
+2025-06-15 12:29:53.696848,Olinda,Bebida,Pizza de Frango,1,Cartão de crédito,1.7,38.42
+2025-06-15 16:52:06.363181,Petrolina,Hambúrguer,Batata Frita,2,Cartão de crédito,1.9,119.69
+2025-06-15 21:14:19.029514,Caruaru,Hambúrguer,Refrigerante,2,Cartão de crédito,,63.41
+2025-06-16 01:36:31.695847,Caruaru,Hambúrguer,Pizza de Calabresa,1,Dinheiro,,46.94
+2025-06-16 05:58:44.362181,Recife,Bebida,Água,4,Cartão de crédito,4.2,170.78
+2025-06-16 10:20:57.028514,Petrolina,Sanduíche,X-Sertão,1,Dinheiro,4.2,59.55
+2025-06-16 14:43:09.694847,Garanhuns,Sanduíche,Pizza de Frango,5,Dinheiro,1.5,225.44
+2025-06-16 19:05:22.361180,Caruaru,Hambúrguer,Pizza de Frango,3,Pix,4.6,49.59
+2025-06-16 23:27:35.027513,Recife,Bebida,X-Sertão,5,Pix,3.7,288.43
+2025-06-17 03:49:47.693846,Garanhuns,Sanduíche,Suco,3,Dinheiro,4.6,128.17
+2025-06-17 08:12:00.360180,Petrolina,Sanduíche,Pizza de Calabresa,2,Dinheiro,2.8,22.17
+2025-06-17 12:34:13.026513,Caruaru,Sanduíche,Sanduíche Natural,4,Cartão de crédito,2.7,168.77
+2025-06-17 16:56:25.692846,Garanhuns,Bebida,Batata Frita,1,Pix,4.1,53.92
+2025-06-17 21:18:38.359179,Garanhuns,Bebida,Refrigerante,4,Cartão de débito,1.4,152.02
+2025-06-18 01:40:51.025512,Garanhuns,Hambúrguer,Batata Frita,1,Pix,3.1,26.41
+2025-06-18 06:03:03.691845,Caruaru,Porção,Pizza de Calabresa,5,Dinheiro,4.3,253.44
+2025-06-18 10:25:16.358179,Caruaru,Sanduíche,Batata Frita,5,Dinheiro,4.3,243.45
+2025-06-18 14:47:29.024512,Olinda,Porção,X-Sertão,1,Cartão de crédito,4.8,36.3
+2025-06-18 19:09:41.690845,Petrolina,Bebida,Pizza de Frango,4,Cartão de crédito,3.8,64.11
+2025-06-18 23:31:54.357178,Recife,Bebida,Batata Frita,1,Pix,1.8,21.05
+2025-06-19 03:54:07.023511,Garanhuns,Bebida,Coxinha,2,Cartão de crédito,1.1,92.8
+2025-06-19 08:16:19.689844,Olinda,Porção,Água,5,Cartão de débito,2.9,249.58
+2025-06-19 12:38:32.356178,Recife,Bebida,Pizza de Calabresa,2,Cartão de débito,3.1,45.04
+2025-06-19 17:00:45.022511,Olinda,Hambúrguer,Suco,5,Cartão de crédito,2.0,135.68
+2025-06-19 21:22:57.688844,Caruaru,Bebida,Coxinha,5,Cartão de débito,1.5,60.18
+2025-06-20 01:45:10.355177,Garanhuns,Pizza,X-Sertão,3,Cartão de débito,3.3,135.3
+2025-06-20 06:07:23.021510,Recife,Porção,X-Bacon,2,Pix,4.1,16.37
+2025-06-20 10:29:35.687843,Recife,Pizza,X-Sertão,2,Cartão de débito,,20.84
+2025-06-20 14:51:48.354177,Recife,Bebida,Suco,3,Dinheiro,4.0,24.68
+2025-06-20 19:14:01.020510,Recife,Hambúrguer,Suco,4,Dinheiro,4.2,166.23
+2025-06-20 23:36:13.686843,Recife,Sanduíche,Coxinha,2,Pix,3.5,59.41
+2025-06-21 03:58:26.353176,Olinda,Bebida,Água,1,Cartão de crédito,4.9,23.47
+2025-06-21 08:20:39.019509,Garanhuns,Hambúrguer,Pizza de Calabresa,3,Pix,3.6,166.38
+2025-06-21 12:42:51.685842,Caruaru,Porção,Sanduíche Natural,2,Cartão de crédito,4.4,36.05
+2025-06-21 17:05:04.352176,Caruaru,Pizza,Pizza de Frango,4,Cartão de crédito,4.8,112.99
+2025-06-21 21:27:17.018509,Caruaru,Pizza,Coxinha,2,Cartão de crédito,,113.79
+2025-06-22 01:49:29.684842,Caruaru,Pizza,Suco,5,Cartão de crédito,2.5,151.05
+2025-06-22 06:11:42.351175,Olinda,Porção,X-Bacon,1,Cartão de crédito,1.3,36.84
+2025-06-22 10:33:55.017508,Petrolina,Hambúrguer,Refrigerante,3,Pix,1.7,36.53
+2025-06-22 14:56:07.683841,Garanhuns,Porção,Suco,5,Cartão de crédito,1.2,245.44
+2025-06-22 19:18:20.350175,Recife,Pizza,Água,4,Cartão de débito,1.4,119.93
+2025-06-22 23:40:33.016508,Petrolina,Bebida,Água,5,Cartão de débito,1.7,248.13
+2025-06-23 04:02:45.682841,Caruaru,Sanduíche,Suco,5,Cartão de crédito,2.4,105.99
+2025-06-23 08:24:58.349174,Petrolina,Porção,Água,4,Cartão de débito,3.2,119.88
+2025-06-23 12:47:11.015507,Garanhuns,Porção,Coxinha,5,Dinheiro,3.8,244.5
+2025-06-23 17:09:23.681840,Recife,Hambúrguer,Suco,3,Pix,1.8,175.92
+2025-06-23 21:31:36.348174,Recife,Hambúrguer,Suco,2,Pix,3.7,22.2
+2025-06-24 01:53:49.014507,Garanhuns,Porção,Pizza de Calabresa,5,Cartão de crédito,3.8,251.24
+2025-06-24 06:16:01.680840,Garanhuns,Pizza,Pizza de Frango,3,Cartão de crédito,3.2,70.91
+2025-06-24 10:38:14.347173,Caruaru,Sanduíche,X-Bacon,2,Dinheiro,4.6,73.28
+2025-06-24 15:00:27.013506,Recife,Hambúrguer,Água,2,Cartão de crédito,1.4,46.17
+2025-06-24 19:22:39.679839,Petrolina,Pizza,Pizza de Calabresa,5,Cartão de débito,1.7,199.5
+2025-06-24 23:44:52.346173,Olinda,Bebida,Sanduíche Natural,3,Dinheiro,2.7,79.19
+2025-06-25 04:07:05.012506,Olinda,Hambúrguer,Sanduíche Natural,5,Cartão de débito,1.5,126.74
+2025-06-25 08:29:17.678839,Garanhuns,Pizza,Batata Frita,4,Pix,3.3,39.89
+2025-06-25 12:51:30.345172,Caruaru,Pizza,Coxinha,2,Cartão de débito,2.6,31.28
+2025-06-25 17:13:43.011505,Olinda,Sanduíche,Coxinha,5,Pix,2.1,278.44
+2025-06-25 21:35:55.677838,Recife,Sanduíche,X-Sertão,2,Cartão de débito,1.7,119.82
+2025-06-26 01:58:08.344172,Garanhuns,Bebida,X-Bacon,3,Pix,2.3,145.76
+2025-06-26 06:20:21.010505,Petrolina,Pizza,Suco,1,Cartão de crédito,3.4,22.91
+2025-06-26 10:42:33.676838,Garanhuns,Pizza,Água,5,Cartão de débito,3.3,144.64
+2025-06-26 15:04:46.343171,Petrolina,Sanduíche,X-Bacon,5,Pix,1.7,232.27
+2025-06-26 19:26:59.009504,Garanhuns,Hambúrguer,Batata Frita,2,Cartão de débito,1.5,116.73
+2025-06-26 23:49:11.675837,Garanhuns,Hambúrguer,X-Sertão,3,Dinheiro,1.1,95.05
+2025-06-27 04:11:24.342171,Garanhuns,Porção,Pizza de Calabresa,4,Cartão de crédito,1.0,204.54
+2025-06-27 08:33:37.008504,Petrolina,Sanduíche,X-Bacon,3,Pix,4.5,176.11
+2025-06-27 12:55:49.674837,Petrolina,Porção,Pizza de Calabresa,5,Dinheiro,,267.1
+2025-06-27 17:18:02.341170,Garanhuns,Sanduíche,Sanduíche Natural,4,Cartão de débito,3.9,79.25
+2025-06-27 21:40:15.007503,Olinda,Bebida,Água,3,Dinheiro,4.5,25.25
+2025-06-28 02:02:27.673836,Caruaru,Pizza,Batata Frita,1,Cartão de débito,1.4,33.59
+2025-06-28 06:24:40.340170,Caruaru,Bebida,Suco,2,Cartão de crédito,2.7,71.26
+2025-06-28 10:46:53.006503,Caruaru,Sanduíche,Água,3,Dinheiro,4.8,55.4
+2025-06-28 15:09:05.672836,Petrolina,Pizza,Pizza de Frango,3,Cartão de crédito,4.3,68.41
+2025-06-28 19:31:18.339169,Petrolina,Hambúrguer,Coxinha,1,Pix,3.0,47.79
+2025-06-28 23:53:31.005502,Olinda,Hambúrguer,Batata Frita,5,Cartão de débito,4.1,162.29
+2025-06-29 04:15:43.671835,Caruaru,Porção,X-Bacon,2,Cartão de débito,4.3,49.0
+2025-06-29 08:37:56.338169,Caruaru,Sanduíche,Água,3,Cartão de crédito,2.4,121.13
+2025-06-29 13:00:09.004502,Garanhuns,Sanduíche,Refrigerante,4,Cartão de crédito,4.6,167.77
+2025-06-29 17:22:21.670835,Petrolina,Hambúrguer,Coxinha,3,Pix,2.9,144.03
+2025-06-29 21:44:34.337168,Caruaru,Bebida,Coxinha,2,Dinheiro,3.1,32.3
+2025-06-30 02:06:47.003501,Olinda,Pizza,Refrigerante,3,Cartão de débito,5.0,139.68
+2025-06-30 06:28:59.669834,Olinda,Bebida,X-Sertão,1,Cartão de débito,4.4,39.17
+2025-06-30 10:51:12.336168,Caruaru,Bebida,X-Sertão,3,Pix,2.4,32.98
+2025-06-30 15:13:25.002501,Petrolina,Hambúrguer,Refrigerante,3,Pix,1.0,145.28
+2025-06-30 19:35:37.668834,Olinda,Hambúrguer,Pizza de Frango,4,Cartão de crédito,3.5,111.68
+2025-06-30 23:57:50.335167,Garanhuns,Hambúrguer,Sanduíche Natural,1,Cartão de crédito,3.8,25.18
+2025-07-01 04:20:03.001500,Olinda,Porção,Refrigerante,1,Dinheiro,3.6,31.3
+2025-07-01 08:42:15.667833,Recife,Bebida,Sanduíche Natural,3,Pix,4.9,78.0
+2025-07-01 13:04:28.334167,Recife,Sanduíche,Água,4,Dinheiro,4.5,102.36
+2025-07-01 17:26:41.000500,Petrolina,Pizza,Pizza de Frango,3,Pix,2.8,150.06
+2025-07-01 21:48:53.666833,Caruaru,Porção,Batata Frita,3,Cartão de débito,1.3,43.42
+2025-07-02 02:11:06.333166,Petrolina,Sanduíche,Sanduíche Natural,2,Pix,2.9,116.94
+2025-07-02 06:33:18.999499,Petrolina,Bebida,Coxinha,2,Pix,3.8,73.71
+2025-07-02 10:55:31.665832,Petrolina,Hambúrguer,Água,4,Cartão de débito,3.4,70.05
+2025-07-02 15:17:44.332166,Petrolina,Bebida,Coxinha,5,Pix,3.2,74.12
+2025-07-02 19:39:56.998499,Garanhuns,Pizza,Pizza de Frango,2,Dinheiro,2.9,77.52
+2025-07-03 00:02:09.664832,Garanhuns,Porção,Sanduíche Natural,5,Cartão de crédito,2.2,204.58
+2025-07-03 04:24:22.331165,Olinda,Porção,Pizza de Calabresa,1,Cartão de crédito,2.1,10.76
+2025-07-03 08:46:34.997498,Recife,Pizza,Pizza de Frango,2,Dinheiro,3.0,41.27
+2025-07-03 13:08:47.663831,Petrolina,Sanduíche,Pizza de Frango,2,Cartão de débito,1.6,98.73
+2025-07-03 17:31:00.330165,Olinda,Sanduíche,Pizza de Calabresa,4,Pix,2.4,42.32
+2025-07-03 21:53:12.996498,Recife,Porção,Água,5,Dinheiro,2.3,262.32
+2025-07-04 02:15:25.662831,Caruaru,Porção,Sanduíche Natural,2,Cartão de crédito,3.3,84.45
+2025-07-04 06:37:38.329164,Garanhuns,Hambúrguer,Sanduíche Natural,2,Cartão de crédito,1.3,61.18
+2025-07-04 10:59:50.995497,Recife,Sanduíche,Coxinha,4,Dinheiro,4.3,104.06
+2025-07-04 15:22:03.661830,Caruaru,Pizza,Pizza de Frango,4,Cartão de crédito,,36.0
+2025-07-04 19:44:16.328164,Recife,Sanduíche,Pizza de Frango,5,Dinheiro,3.7,254.56
+2025-07-05 00:06:28.994497,Garanhuns,Hambúrguer,Suco,1,Cartão de crédito,3.8,15.42
+2025-07-05 04:28:41.660830,Garanhuns,Porção,Batata Frita,1,Dinheiro,2.2,24.1
+2025-07-05 08:50:54.327163,Olinda,Porção,Pizza de Frango,3,Pix,2.9,112.78
+2025-07-05 13:13:06.993496,Petrolina,Hambúrguer,X-Bacon,2,Pix,4.8,41.58
+2025-07-05 17:35:19.659829,Recife,Pizza,Batata Frita,5,Pix,4.1,169.26
+2025-07-05 21:57:32.326163,Recife,Porção,X-Bacon,2,Pix,4.9,100.17
+2025-07-06 02:19:44.992496,Caruaru,Bebida,Sanduíche Natural,5,Cartão de crédito,4.0,162.34
+2025-07-06 06:41:57.658829,Garanhuns,Porção,Batata Frita,5,Cartão de débito,1.7,286.73
+2025-07-06 11:04:10.325162,Recife,Bebida,Pizza de Frango,5,Dinheiro,1.3,260.35
+2025-07-06 15:26:22.991495,Garanhuns,Hambúrguer,Pizza de Calabresa,2,Cartão de débito,3.3,50.64
+2025-07-06 19:48:35.657828,Recife,Hambúrguer,Coxinha,4,Cartão de crédito,2.4,115.19
+2025-07-07 00:10:48.324162,Olinda,Porção,X-Bacon,2,Cartão de crédito,2.1,60.03
+2025-07-07 04:33:00.990495,Petrolina,Sanduíche,Batata Frita,5,Cartão de débito,4.2,202.81
+2025-07-07 08:55:13.656828,Recife,Bebida,Pizza de Frango,3,Cartão de débito,2.5,68.74
+2025-07-07 13:17:26.323161,Garanhuns,Pizza,Batata Frita,1,Cartão de crédito,2.3,58.4
+2025-07-07 17:39:38.989494,Olinda,Porção,Pizza de Frango,5,Cartão de crédito,4.4,198.26
+2025-07-07 22:01:51.655827,Recife,Pizza,Pizza de Frango,3,Dinheiro,4.4,86.31
+2025-07-08 02:24:04.322161,Caruaru,Porção,Pizza de Frango,4,Pix,2.4,166.16
+2025-07-08 06:46:16.988494,Petrolina,Sanduíche,Suco,5,Pix,4.3,142.81
+2025-07-08 11:08:29.654827,Recife,Sanduíche,Coxinha,3,Dinheiro,4.4,151.58
+2025-07-08 15:30:42.321160,Olinda,Sanduíche,Pizza de Calabresa,5,Cartão de débito,2.7,187.64
+2025-07-08 19:52:54.987493,Caruaru,Sanduíche,Pizza de Calabresa,2,Cartão de crédito,1.3,20.36
+2025-07-09 00:15:07.653826,Olinda,Hambúrguer,Batata Frita,3,Cartão de débito,1.0,51.57
+2025-07-09 04:37:20.320160,Olinda,Hambúrguer,Batata Frita,2,Pix,3.1,105.96
+2025-07-09 08:59:32.986493,Caruaru,Bebida,Pizza de Frango,2,Pix,2.4,74.54
+2025-07-09 13:21:45.652826,Olinda,Pizza,Suco,3,Cartão de débito,5.0,172.25
+2025-07-09 17:43:58.319159,Caruaru,Porção,Pizza de Frango,1,Pix,4.1,11.77
+2025-07-09 22:06:10.985492,Recife,Porção,Suco,3,Cartão de crédito,4.0,70.06
+2025-07-10 02:28:23.651825,Caruaru,Hambúrguer,Pizza de Frango,1,Dinheiro,4.8,18.06
+2025-07-10 06:50:36.318159,Caruaru,Porção,X-Bacon,5,Cartão de débito,4.6,184.0
+2025-07-10 11:12:48.984492,Petrolina,Hambúrguer,X-Bacon,5,Cartão de crédito,2.3,139.53
+2025-07-10 15:35:01.650825,Caruaru,Bebida,Sanduíche Natural,3,Cartão de crédito,1.7,48.53
+2025-07-10 19:57:14.317158,Caruaru,Pizza,Pizza de Frango,5,Pix,4.0,207.12
+2025-07-11 00:19:26.983491,Recife,Bebida,Coxinha,4,Cartão de crédito,2.5,143.55
+2025-07-11 04:41:39.649824,Petrolina,Sanduíche,Sanduíche Natural,2,Cartão de débito,2.9,44.57
+2025-07-11 09:03:52.316158,Garanhuns,Sanduíche,Batata Frita,2,Cartão de crédito,3.5,65.9
+2025-07-11 13:26:04.982491,Recife,Sanduíche,Água,1,Dinheiro,4.6,46.78
+2025-07-11 17:48:17.648824,Recife,Bebida,Pizza de Frango,5,Cartão de crédito,2.7,93.37
+2025-07-11 22:10:30.315157,Garanhuns,Porção,X-Bacon,1,Cartão de crédito,4.1,23.23
+2025-07-12 02:32:42.981490,Caruaru,Pizza,Água,2,Dinheiro,2.1,52.0
+2025-07-12 06:54:55.647823,Olinda,Sanduíche,Suco,2,Cartão de crédito,3.8,93.66
+2025-07-12 11:17:08.314157,Petrolina,Sanduíche,Água,5,Cartão de crédito,1.0,260.2
+2025-07-12 15:39:20.980490,Olinda,Sanduíche,Coxinha,4,Pix,,110.29
+2025-07-12 20:01:33.646823,Garanhuns,Pizza,Pizza de Frango,4,Cartão de débito,1.1,93.7
+2025-07-13 00:23:46.313156,Recife,Sanduíche,Pizza de Calabresa,5,Pix,3.9,271.26
+2025-07-13 04:45:58.979489,Recife,Pizza,Água,5,Cartão de débito,1.2,299.83
+2025-07-13 09:08:11.645822,Petrolina,Sanduíche,Pizza de Calabresa,1,Dinheiro,2.1,42.86
+2025-07-13 13:30:24.312156,Recife,Bebida,Suco,5,Dinheiro,,297.39
+2025-07-13 17:52:36.978489,Recife,Bebida,Sanduíche Natural,4,Dinheiro,2.7,169.27
+2025-07-13 22:14:49.644822,Petrolina,Pizza,Pizza de Calabresa,5,Cartão de débito,1.8,230.7
+2025-07-14 02:37:02.311155,Petrolina,Bebida,Sanduíche Natural,1,Cartão de débito,2.3,28.21
+2025-07-14 06:59:14.977488,Garanhuns,Pizza,X-Bacon,1,Cartão de débito,3.9,30.51
+2025-07-14 11:21:27.643821,Recife,Bebida,Pizza de Frango,1,Dinheiro,,15.5
+2025-07-14 15:43:40.310155,Recife,Bebida,Água,1,Cartão de débito,1.3,50.78
+2025-07-14 20:05:52.976488,Garanhuns,Pizza,X-Bacon,3,Cartão de crédito,4.0,169.25
+2025-07-15 00:28:05.642821,Caruaru,Porção,X-Bacon,5,Pix,1.2,202.09
+2025-07-15 04:50:18.309154,Caruaru,Bebida,Refrigerante,2,Dinheiro,3.2,51.74
+2025-07-15 09:12:30.975487,Caruaru,Sanduíche,X-Sertão,5,Pix,2.0,80.04
+2025-07-15 13:34:43.641820,Garanhuns,Porção,Coxinha,3,Cartão de crédito,3.4,65.36
+2025-07-15 17:56:56.308154,Recife,Pizza,Sanduíche Natural,1,Cartão de débito,2.0,21.28
+2025-07-15 22:19:08.974487,Garanhuns,Porção,Refrigerante,3,Pix,4.9,119.71
+2025-07-16 02:41:21.640820,Garanhuns,Hambúrguer,X-Sertão,4,Cartão de crédito,2.2,228.57
+2025-07-16 07:03:34.307153,Caruaru,Hambúrguer,Coxinha,4,Cartão de crédito,,42.04
+2025-07-16 11:25:46.973486,Olinda,Bebida,Sanduíche Natural,5,Pix,2.1,40.27
+2025-07-16 15:47:59.639819,Recife,Bebida,Pizza de Frango,5,Dinheiro,4.6,196.05
+2025-07-16 20:10:12.306153,Caruaru,Sanduíche,Coxinha,2,Pix,3.5,45.54
+2025-07-17 00:32:24.972486,Olinda,Porção,Água,2,Dinheiro,,107.58
+2025-07-17 04:54:37.638819,Olinda,Hambúrguer,X-Bacon,4,Cartão de débito,4.7,100.07
+2025-07-17 09:16:50.305152,Petrolina,Bebida,X-Sertão,1,Dinheiro,4.6,23.07
+2025-07-17 13:39:02.971485,Recife,Porção,X-Sertão,3,Cartão de débito,4.0,66.04
+2025-07-17 18:01:15.637818,Olinda,Bebida,X-Sertão,2,Pix,1.8,31.06
+2025-07-17 22:23:28.304152,Caruaru,Bebida,Sanduíche Natural,2,Cartão de débito,4.4,76.48
+2025-07-18 02:45:40.970485,Petrolina,Hambúrguer,Água,1,Cartão de crédito,1.8,16.75
+2025-07-18 07:07:53.636818,Recife,Hambúrguer,Coxinha,1,Cartão de débito,4.0,30.08
+2025-07-18 11:30:06.303151,Garanhuns,Bebida,X-Bacon,5,Dinheiro,3.7,159.85
+2025-07-18 15:52:18.969484,Caruaru,Pizza,Água,3,Dinheiro,,27.2
+2025-07-18 20:14:31.635817,Olinda,Bebida,Refrigerante,1,Dinheiro,3.1,8.87
+2025-07-19 00:36:44.302151,Olinda,Bebida,Pizza de Frango,2,Cartão de débito,3.6,70.1
+2025-07-19 04:58:56.968484,Caruaru,Sanduíche,Pizza de Calabresa,2,Dinheiro,4.8,88.39
+2025-07-19 09:21:09.634817,Olinda,Sanduíche,Água,4,Dinheiro,1.4,227.97
+2025-07-19 13:43:22.301150,Petrolina,Sanduíche,Refrigerante,1,Cartão de crédito,2.2,17.31
+2025-07-19 18:05:34.967483,Recife,Pizza,X-Bacon,5,Cartão de débito,3.4,66.85
+2025-07-19 22:27:47.633816,Petrolina,Pizza,Pizza de Calabresa,3,Cartão de crédito,,32.13
+2025-07-20 02:50:00.300150,Olinda,Bebida,Pizza de Calabresa,5,Dinheiro,1.4,153.37
+2025-07-20 07:12:12.966483,Garanhuns,Sanduíche,Água,2,Dinheiro,1.1,80.81
+2025-07-20 11:34:25.632816,Recife,Pizza,X-Sertão,5,Dinheiro,1.2,258.54
+2025-07-20 15:56:38.299149,Recife,Hambúrguer,Batata Frita,2,Cartão de débito,1.2,87.0
+2025-07-20 20:18:50.965482,Caruaru,Bebida,X-Bacon,2,Pix,4.6,37.67
+2025-07-21 00:41:03.631815,Caruaru,Porção,X-Sertão,2,Dinheiro,3.9,64.02
+2025-07-21 05:03:16.298149,Garanhuns,Bebida,X-Bacon,2,Dinheiro,3.7,110.68
+2025-07-21 09:25:28.964482,Recife,Porção,Batata Frita,2,Dinheiro,3.1,49.98
+2025-07-21 13:47:41.630815,Garanhuns,Sanduíche,Pizza de Frango,4,Dinheiro,4.1,135.74
+2025-07-21 18:09:54.297148,Caruaru,Porção,Batata Frita,5,Cartão de débito,1.6,289.23
+2025-07-21 22:32:06.963481,Caruaru,Sanduíche,Suco,4,Pix,2.6,184.82
+2025-07-22 02:54:19.629814,Recife,Hambúrguer,Água,4,Pix,3.0,187.53
+2025-07-22 07:16:32.296148,Petrolina,Porção,Água,1,Pix,1.4,21.12
+2025-07-22 11:38:44.962481,Olinda,Bebida,Refrigerante,1,Dinheiro,2.7,29.56
+2025-07-22 16:00:57.628814,Caruaru,Sanduíche,X-Sertão,1,Dinheiro,2.3,12.28
+2025-07-22 20:23:10.295147,Caruaru,Bebida,Refrigerante,3,Pix,1.1,118.62
+2025-07-23 00:45:22.961480,Petrolina,Pizza,Suco,1,Pix,1.5,13.39
+2025-07-23 05:07:35.627813,Petrolina,Sanduíche,Batata Frita,5,Dinheiro,4.1,257.34
+2025-07-23 09:29:48.294147,Garanhuns,Porção,Água,4,Dinheiro,1.1,201.43
+2025-07-23 13:52:00.960480,Garanhuns,Sanduíche,Sanduíche Natural,5,Cartão de crédito,4.7,178.74
+2025-07-23 18:14:13.626813,Olinda,Bebida,Batata Frita,1,Cartão de crédito,1.3,15.34
+2025-07-23 22:36:26.293146,Olinda,Hambúrguer,Batata Frita,3,Cartão de crédito,4.2,27.99
+2025-07-24 02:58:38.959479,Recife,Sanduíche,Suco,3,Pix,4.6,148.29
+2025-07-24 07:20:51.625812,Garanhuns,Porção,Pizza de Frango,4,Cartão de débito,4.8,156.83
+2025-07-24 11:43:04.292146,Caruaru,Pizza,X-Bacon,5,Dinheiro,4.5,224.84
+2025-07-24 16:05:16.958479,Garanhuns,Hambúrguer,Suco,2,Cartão de crédito,2.2,47.6
+2025-07-24 20:27:29.624812,Caruaru,Pizza,X-Bacon,5,Cartão de débito,2.3,172.47
+2025-07-25 00:49:42.291145,Petrolina,Sanduíche,Água,1,Dinheiro,2.7,46.85
+2025-07-25 05:11:54.957478,Garanhuns,Bebida,Suco,2,Cartão de débito,1.6,64.11
+2025-07-25 09:34:07.623811,Petrolina,Bebida,X-Bacon,3,Pix,1.1,117.82
+2025-07-25 13:56:20.290145,Olinda,Porção,Refrigerante,4,Pix,4.5,196.26
+2025-07-25 18:18:32.956478,Olinda,Bebida,Suco,4,Pix,3.2,76.77
+2025-07-25 22:40:45.622811,Recife,Hambúrguer,Água,3,Cartão de crédito,3.4,34.28
+2025-07-26 03:02:58.289144,Garanhuns,Bebida,Suco,1,Dinheiro,4.7,35.65
+2025-07-26 07:25:10.955477,Petrolina,Porção,Água,3,Pix,3.7,33.69
+2025-07-26 11:47:23.621810,Caruaru,Sanduíche,Suco,1,Cartão de crédito,3.8,47.86
+2025-07-26 16:09:36.288144,Olinda,Sanduíche,X-Bacon,2,Cartão de crédito,4.1,90.8
+2025-07-26 20:31:48.954477,Olinda,Bebida,Pizza de Frango,3,Cartão de crédito,1.5,161.55
+2025-07-27 00:54:01.620810,Caruaru,Pizza,Coxinha,1,Cartão de crédito,2.4,41.26
+2025-07-27 05:16:14.287143,Petrolina,Sanduíche,X-Bacon,2,Pix,,22.99
+2025-07-27 09:38:26.953476,Petrolina,Bebida,X-Sertão,3,Cartão de crédito,4.7,63.49
+2025-07-27 14:00:39.619809,Garanhuns,Porção,Pizza de Calabresa,4,Pix,4.5,200.05
+2025-07-27 18:22:52.286143,Garanhuns,Bebida,Pizza de Frango,3,Pix,2.8,50.07
+2025-07-27 22:45:04.952476,Recife,Sanduíche,Refrigerante,5,Cartão de crédito,4.4,221.6
+2025-07-28 03:07:17.618809,Olinda,Porção,Batata Frita,3,Pix,1.2,145.72
+2025-07-28 07:29:30.285142,Garanhuns,Bebida,X-Bacon,5,Dinheiro,1.6,125.83
+2025-07-28 11:51:42.951475,Petrolina,Hambúrguer,Suco,2,Dinheiro,2.7,49.52
+2025-07-28 16:13:55.617808,Caruaru,Porção,X-Bacon,3,Cartão de débito,,111.02
+2025-07-28 20:36:08.284142,Petrolina,Hambúrguer,Sanduíche Natural,2,Dinheiro,,105.57
+2025-07-29 00:58:20.950475,Olinda,Pizza,Pizza de Frango,2,Pix,2.4,39.29
+2025-07-29 05:20:33.616808,Petrolina,Porção,Coxinha,1,Pix,1.7,56.95
+2025-07-29 09:42:46.283141,Recife,Hambúrguer,Refrigerante,2,Dinheiro,3.0,78.31
+2025-07-29 14:04:58.949474,Olinda,Sanduíche,Sanduíche Natural,2,Cartão de crédito,4.2,119.18
+2025-07-29 18:27:11.615807,Caruaru,Sanduíche,Água,3,Cartão de crédito,3.6,37.98
+2025-07-29 22:49:24.282141,Recife,Pizza,Sanduíche Natural,3,Pix,1.4,43.74
+2025-07-30 03:11:36.948474,Olinda,Porção,X-Bacon,4,Cartão de crédito,3.0,203.94
+2025-07-30 07:33:49.614807,Caruaru,Porção,Refrigerante,1,Cartão de débito,3.8,52.97
+2025-07-30 11:56:02.281140,Recife,Porção,X-Bacon,2,Cartão de débito,,62.33
+2025-07-30 16:18:14.947473,Recife,Pizza,Água,1,Dinheiro,2.6,45.13
+2025-07-30 20:40:27.613806,Olinda,Porção,Batata Frita,5,Dinheiro,3.5,265.56
+2025-07-31 01:02:40.280140,Garanhuns,Sanduíche,Refrigerante,2,Cartão de crédito,4.9,20.49
+2025-07-31 05:24:52.946473,Recife,Hambúrguer,Batata Frita,1,Pix,1.4,37.85
+2025-07-31 09:47:05.612806,Recife,Sanduíche,Pizza de Frango,4,Dinheiro,2.6,209.52
+2025-07-31 14:09:18.279139,Caruaru,Sanduíche,Pizza de Frango,4,Cartão de débito,2.6,114.82
+2025-07-31 18:31:30.945472,Petrolina,Hambúrguer,Batata Frita,2,Dinheiro,3.3,47.45
+2025-07-31 22:53:43.611805,Olinda,Sanduíche,Pizza de Frango,5,Dinheiro,1.6,246.88
+2025-08-01 03:15:56.278139,Olinda,Pizza,Refrigerante,4,Cartão de débito,1.7,101.84
+2025-08-01 07:38:08.944472,Garanhuns,Hambúrguer,Suco,4,Pix,2.1,32.66
+2025-08-01 12:00:21.610805,Garanhuns,Sanduíche,X-Sertão,5,Dinheiro,4.8,289.49
+2025-08-01 16:22:34.277138,Olinda,Bebida,Pizza de Frango,1,Dinheiro,3.9,38.79
+2025-08-01 20:44:46.943471,Garanhuns,Sanduíche,Pizza de Frango,4,Dinheiro,3.6,202.46
+2025-08-02 01:06:59.609804,Caruaru,Pizza,X-Bacon,3,Cartão de crédito,4.3,152.75
+2025-08-02 05:29:12.276138,Olinda,Porção,Batata Frita,4,Dinheiro,1.5,45.81
+2025-08-02 09:51:24.942471,Garanhuns,Sanduíche,Pizza de Calabresa,1,Cartão de débito,4.4,16.88
+2025-08-02 14:13:37.608804,Olinda,Porção,Coxinha,1,Pix,3.4,24.18
+2025-08-02 18:35:50.275137,Petrolina,Bebida,Sanduíche Natural,2,Pix,2.3,49.35
+2025-08-02 22:58:02.941470,Recife,Sanduíche,Pizza de Frango,3,Cartão de débito,4.3,126.77
+2025-08-03 03:20:15.607803,Olinda,Hambúrguer,Sanduíche Natural,1,Cartão de crédito,4.2,40.4
+2025-08-03 07:42:28.274137,Recife,Porção,Refrigerante,5,Cartão de débito,4.4,168.59
+2025-08-03 12:04:40.940470,Garanhuns,Bebida,Pizza de Calabresa,3,Pix,1.5,56.96
+2025-08-03 16:26:53.606803,Recife,Hambúrguer,Coxinha,3,Cartão de débito,4.9,83.59
+2025-08-03 20:49:06.273136,Olinda,Hambúrguer,Batata Frita,5,Cartão de crédito,4.8,181.33
+2025-08-04 01:11:18.939469,Petrolina,Hambúrguer,X-Sertão,4,Pix,2.4,129.34
+2025-08-04 05:33:31.605802,Garanhuns,Hambúrguer,Coxinha,5,Cartão de crédito,1.3,73.1
+2025-08-04 09:55:44.272136,Olinda,Sanduíche,Coxinha,5,Cartão de débito,,208.87
+2025-08-04 14:17:56.938469,Garanhuns,Sanduíche,X-Sertão,4,Dinheiro,5.0,47.19
+2025-08-04 18:40:09.604802,Caruaru,Sanduíche,Suco,4,Cartão de débito,,110.66
+2025-08-04 23:02:22.271135,Recife,Bebida,Batata Frita,4,Cartão de crédito,2.4,179.69
+2025-08-05 03:24:34.937468,Caruaru,Bebida,X-Bacon,4,Cartão de débito,2.2,36.16
+2025-08-05 07:46:47.603801,Olinda,Bebida,Sanduíche Natural,4,Dinheiro,2.0,150.56
+2025-08-05 12:09:00.270135,Petrolina,Pizza,Pizza de Frango,5,Cartão de crédito,3.7,126.98
+2025-08-05 16:31:12.936468,Garanhuns,Bebida,Coxinha,2,Cartão de débito,2.7,16.92
+2025-08-05 20:53:25.602801,Recife,Sanduíche,Refrigerante,2,Cartão de crédito,4.9,35.8
+2025-08-06 01:15:38.269134,Garanhuns,Sanduíche,X-Sertão,1,Cartão de crédito,3.7,56.93
+2025-08-06 05:37:50.935467,Olinda,Pizza,Sanduíche Natural,2,Pix,4.2,70.2
+2025-08-06 10:00:03.601800,Garanhuns,Pizza,Pizza de Calabresa,2,Pix,2.2,119.71
+2025-08-06 14:22:16.268134,Recife,Bebida,X-Sertão,5,Cartão de crédito,1.3,176.45
+2025-08-06 18:44:28.934467,Olinda,Porção,Pizza de Calabresa,4,Cartão de débito,3.0,145.14
+2025-08-06 23:06:41.600800,Garanhuns,Pizza,Batata Frita,4,Cartão de débito,2.3,113.5
+2025-08-07 03:28:54.267133,Petrolina,Hambúrguer,Coxinha,5,Cartão de débito,1.8,120.61
+2025-08-07 07:51:06.933466,Olinda,Sanduíche,Refrigerante,2,Dinheiro,4.8,42.16
+2025-08-07 12:13:19.599799,Olinda,Hambúrguer,Pizza de Frango,5,Cartão de crédito,2.8,129.29
+2025-08-07 16:35:32.266133,Petrolina,Sanduíche,Pizza de Calabresa,1,Cartão de crédito,1.7,31.91
+2025-08-07 20:57:44.932466,Caruaru,Sanduíche,Sanduíche Natural,4,Dinheiro,1.8,71.93
+2025-08-08 01:19:57.598799,Recife,Pizza,Suco,3,Cartão de crédito,2.1,59.08
+2025-08-08 05:42:10.265132,Caruaru,Pizza,Batata Frita,1,Cartão de crédito,5.0,22.12
+2025-08-08 10:04:22.931465,Garanhuns,Hambúrguer,Suco,1,Dinheiro,2.1,31.36
+2025-08-08 14:26:35.597798,Petrolina,Sanduíche,Batata Frita,5,Pix,2.3,209.73
+2025-08-08 18:48:48.264132,Caruaru,Hambúrguer,X-Bacon,2,Cartão de crédito,3.6,105.04
+2025-08-08 23:11:00.930465,Olinda,Porção,Sanduíche Natural,4,Dinheiro,2.2,91.72
+2025-08-09 03:33:13.596798,Garanhuns,Hambúrguer,Suco,3,Cartão de débito,,52.66
+2025-08-09 07:55:26.263131,Garanhuns,Bebida,Refrigerante,1,Pix,1.6,27.7
+2025-08-09 12:17:38.929464,Caruaru,Hambúrguer,Coxinha,3,Cartão de débito,2.3,163.52
+2025-08-09 16:39:51.595797,Caruaru,Bebida,X-Sertão,2,Cartão de crédito,1.4,17.03
+2025-08-09 21:02:04.262131,Petrolina,Bebida,Pizza de Frango,2,Pix,1.1,86.5
+2025-08-10 01:24:16.928464,Recife,Bebida,Coxinha,3,Dinheiro,,98.44
+2025-08-10 05:46:29.594797,Caruaru,Porção,Coxinha,4,Cartão de crédito,1.6,65.5
+2025-08-10 10:08:42.261130,Caruaru,Hambúrguer,Batata Frita,2,Dinheiro,4.1,49.39
+2025-08-10 14:30:54.927463,Olinda,Hambúrguer,Refrigerante,3,Pix,4.2,59.09
+2025-08-10 18:53:07.593796,Garanhuns,Porção,Batata Frita,1,Cartão de débito,3.2,53.65
+2025-08-10 23:15:20.260130,Recife,Sanduíche,Água,3,Cartão de crédito,2.2,99.17
+2025-08-11 03:37:32.926463,Olinda,Pizza,Pizza de Calabresa,3,Cartão de crédito,1.6,111.84
+2025-08-11 07:59:45.592796,Petrolina,Hambúrguer,Pizza de Frango,5,Dinheiro,3.9,194.36
+2025-08-11 12:21:58.259129,Petrolina,Pizza,Pizza de Calabresa,2,Pix,3.4,82.52
+2025-08-11 16:44:10.925462,Caruaru,Porção,X-Sertão,4,Dinheiro,3.6,135.08
+2025-08-11 21:06:23.591795,Caruaru,Sanduíche,Água,4,Pix,1.0,35.72
+2025-08-12 01:28:36.258129,Petrolina,Sanduíche,Sanduíche Natural,5,Cartão de crédito,4.7,127.03
+2025-08-12 05:50:48.924462,Caruaru,Sanduíche,X-Sertão,4,Pix,1.3,70.25
+2025-08-12 10:13:01.590795,Recife,Porção,X-Sertão,3,Cartão de crédito,2.5,130.1
+2025-08-12 14:35:14.257128,Caruaru,Bebida,X-Bacon,5,Pix,2.6,54.74
+2025-08-12 18:57:26.923461,Garanhuns,Bebida,Pizza de Frango,1,Cartão de débito,1.0,37.32
+2025-08-12 23:19:39.589794,Caruaru,Pizza,Batata Frita,2,Pix,3.0,37.91
+2025-08-13 03:41:52.256128,Olinda,Bebida,Refrigerante,2,Cartão de débito,4.0,114.68
+2025-08-13 08:04:04.922461,Recife,Bebida,Pizza de Calabresa,2,Pix,4.3,50.9
+2025-08-13 12:26:17.588794,Olinda,Sanduíche,X-Sertão,3,Pix,4.5,74.73
+2025-08-13 16:48:30.255127,Olinda,Sanduíche,Pizza de Calabresa,1,Dinheiro,3.0,56.02
+2025-08-13 21:10:42.921460,Garanhuns,Pizza,Pizza de Calabresa,5,Dinheiro,3.5,148.51
+2025-08-14 01:32:55.587793,Recife,Hambúrguer,Sanduíche Natural,5,Cartão de crédito,1.3,290.34
+2025-08-14 05:55:08.254127,Recife,Pizza,Pizza de Frango,2,Dinheiro,3.0,18.51
+2025-08-14 10:17:20.920460,Recife,Pizza,Pizza de Frango,1,Pix,1.6,23.93
+2025-08-14 14:39:33.586793,Recife,Porção,Suco,1,Dinheiro,2.5,42.64
+2025-08-14 19:01:46.253126,Recife,Porção,Coxinha,1,Pix,2.3,54.32
+2025-08-14 23:23:58.919459,Garanhuns,Pizza,Pizza de Frango,4,Cartão de débito,2.7,85.33
+2025-08-15 03:46:11.585792,Caruaru,Pizza,Pizza de Calabresa,4,Pix,3.3,225.54
+2025-08-15 08:08:24.252126,Olinda,Pizza,Batata Frita,2,Cartão de crédito,4.6,77.79
+2025-08-15 12:30:36.918459,Recife,Bebida,Pizza de Calabresa,1,Cartão de débito,2.6,49.65
+2025-08-15 16:52:49.584792,Caruaru,Porção,Batata Frita,1,Cartão de crédito,4.9,28.65
+2025-08-15 21:15:02.251125,Caruaru,Pizza,Suco,5,Cartão de crédito,4.0,95.17
+2025-08-16 01:37:14.917458,Olinda,Sanduíche,Batata Frita,5,Cartão de crédito,3.0,276.92
+2025-08-16 05:59:27.583791,Garanhuns,Sanduíche,Pizza de Frango,2,Dinheiro,3.6,113.05
+2025-08-16 10:21:40.250125,Petrolina,Bebida,Sanduíche Natural,1,Cartão de crédito,1.4,33.87
+2025-08-16 14:43:52.916458,Petrolina,Bebida,Batata Frita,2,Cartão de débito,,16.68
+2025-08-16 19:06:05.582791,Caruaru,Hambúrguer,Pizza de Calabresa,5,Pix,3.3,68.54
+2025-08-16 23:28:18.249124,Olinda,Hambúrguer,Refrigerante,5,Cartão de crédito,4.9,188.99
+2025-08-17 03:50:30.915457,Petrolina,Hambúrguer,Pizza de Frango,4,Cartão de débito,3.5,36.95
+2025-08-17 08:12:43.581790,Caruaru,Bebida,Refrigerante,2,Cartão de crédito,4.3,57.28
+2025-08-17 12:34:56.248124,Garanhuns,Bebida,Água,2,Pix,4.2,47.55
+2025-08-17 16:57:08.914457,Petrolina,Bebida,Água,1,Cartão de débito,2.4,45.15
+2025-08-17 21:19:21.580790,Caruaru,Sanduíche,Pizza de Calabresa,1,Cartão de débito,,10.89
+2025-08-18 01:41:34.247123,Caruaru,Bebida,Água,4,Pix,2.7,133.66
+2025-08-18 06:03:46.913456,Recife,Sanduíche,Coxinha,3,Cartão de débito,2.9,114.34
+2025-08-18 10:25:59.579789,Garanhuns,Hambúrguer,Suco,3,Pix,2.0,120.3
+2025-08-18 14:48:12.246123,Recife,Hambúrguer,Pizza de Frango,3,Cartão de débito,4.6,87.2
+2025-08-18 19:10:24.912456,Olinda,Hambúrguer,Refrigerante,2,Cartão de débito,3.2,47.65
+2025-08-18 23:32:37.578789,Recife,Pizza,Pizza de Calabresa,2,Pix,4.9,86.98
+2025-08-19 03:54:50.245122,Recife,Pizza,Coxinha,5,Pix,4.2,260.37
+2025-08-19 08:17:02.911455,Petrolina,Porção,Pizza de Calabresa,2,Cartão de débito,3.2,88.14
+2025-08-19 12:39:15.577788,Caruaru,Porção,Coxinha,2,Cartão de débito,4.8,112.94
+2025-08-19 17:01:28.244122,Garanhuns,Porção,Água,2,Pix,3.0,90.6
+2025-08-19 21:23:40.910455,Recife,Pizza,Água,4,Dinheiro,4.5,191.04
+2025-08-20 01:45:53.576788,Garanhuns,Pizza,Batata Frita,2,Pix,2.4,33.46
+2025-08-20 06:08:06.243121,Recife,Porção,X-Bacon,1,Cartão de débito,2.5,29.82
+2025-08-20 10:30:18.909454,Olinda,Porção,Pizza de Calabresa,1,Cartão de débito,2.7,33.22
+2025-08-20 14:52:31.575787,Recife,Bebida,Batata Frita,5,Cartão de débito,3.2,106.64
+2025-08-20 19:14:44.242121,Petrolina,Porção,Pizza de Frango,4,Pix,3.2,141.94
+2025-08-20 23:36:56.908454,Caruaru,Bebida,Batata Frita,1,Cartão de débito,3.0,23.12
+2025-08-21 03:59:09.574787,Olinda,Sanduíche,X-Sertão,4,Dinheiro,2.2,175.0
+2025-08-21 08:21:22.241120,Recife,Pizza,Água,4,Cartão de crédito,4.7,129.82
+2025-08-21 12:43:34.907453,Garanhuns,Porção,X-Sertão,5,Dinheiro,3.4,159.29
+2025-08-21 17:05:47.573786,Olinda,Pizza,Pizza de Calabresa,4,Pix,2.6,236.6
+2025-08-21 21:28:00.240120,Olinda,Pizza,Refrigerante,2,Cartão de débito,3.6,56.81
+2025-08-22 01:50:12.906453,Recife,Pizza,Refrigerante,4,Pix,4.1,107.36
+2025-08-22 06:12:25.572786,Olinda,Sanduíche,Pizza de Frango,5,Cartão de crédito,4.8,122.84
+2025-08-22 10:34:38.239119,Garanhuns,Hambúrguer,Batata Frita,5,Pix,3.0,272.63
+2025-08-22 14:56:50.905452,Olinda,Porção,Refrigerante,5,Cartão de débito,1.4,169.15
+2025-08-22 19:19:03.571785,Garanhuns,Hambúrguer,Coxinha,1,Cartão de crédito,2.8,39.2
+2025-08-22 23:41:16.238119,Recife,Hambúrguer,Coxinha,2,Cartão de crédito,2.9,34.81
+2025-08-23 04:03:28.904452,Caruaru,Hambúrguer,Pizza de Frango,1,Cartão de débito,4.6,36.13
+2025-08-23 08:25:41.570785,Olinda,Pizza,Suco,3,Cartão de débito,2.6,66.85
+2025-08-23 12:47:54.237118,Caruaru,Bebida,Água,2,Cartão de débito,4.8,91.99
+2025-08-23 17:10:06.903451,Garanhuns,Pizza,Batata Frita,4,Pix,2.9,205.17
+2025-08-23 21:32:19.569784,Olinda,Pizza,Pizza de Calabresa,5,Dinheiro,4.9,225.85
+2025-08-24 01:54:32.236118,Petrolina,Hambúrguer,Sanduíche Natural,3,Pix,1.0,137.92
+2025-08-24 06:16:44.902451,Caruaru,Pizza,Sanduíche Natural,2,Pix,4.6,69.3
+2025-08-24 10:38:57.568784,Olinda,Hambúrguer,Sanduíche Natural,1,Dinheiro,4.7,45.03
+2025-08-24 15:01:10.235117,Caruaru,Bebida,Refrigerante,5,Cartão de débito,4.8,149.9
+2025-08-24 19:23:22.901450,Olinda,Porção,Suco,1,Cartão de débito,1.1,41.88
+2025-08-24 23:45:35.567783,Recife,Hambúrguer,Suco,2,Dinheiro,1.7,42.94
+2025-08-25 04:07:48.234117,Caruaru,Bebida,Batata Frita,2,Dinheiro,3.6,23.25
+2025-08-25 08:30:00.900450,Petrolina,Porção,Batata Frita,3,Pix,1.1,88.5
+2025-08-25 12:52:13.566783,Petrolina,Sanduíche,Suco,4,Cartão de crédito,1.3,128.05
+2025-08-25 17:14:26.233116,Garanhuns,Hambúrguer,Pizza de Frango,1,Dinheiro,1.9,21.33
+2025-08-25 21:36:38.899449,Olinda,Hambúrguer,Batata Frita,3,Pix,,137.52
+2025-08-26 01:58:51.565782,Caruaru,Sanduíche,Pizza de Frango,5,Cartão de crédito,3.2,59.12
+2025-08-26 06:21:04.232116,Garanhuns,Sanduíche,X-Sertão,4,Cartão de débito,1.1,78.33
+2025-08-26 10:43:16.898449,Caruaru,Hambúrguer,Coxinha,3,Cartão de débito,1.7,140.78
+2025-08-26 15:05:29.564782,Olinda,Sanduíche,Água,1,Pix,3.0,30.73
+2025-08-26 19:27:42.231115,Petrolina,Pizza,Batata Frita,2,Pix,3.4,89.35
+2025-08-26 23:49:54.897448,Recife,Porção,Suco,5,Dinheiro,1.6,187.55
+2025-08-27 04:12:07.563781,Petrolina,Porção,Coxinha,1,Cartão de débito,2.6,57.44
+2025-08-27 08:34:20.230115,Garanhuns,Porção,Coxinha,4,Pix,4.6,156.34
+2025-08-27 12:56:32.896448,Recife,Pizza,X-Bacon,4,Cartão de débito,5.0,35.09
+2025-08-27 17:18:45.562781,Garanhuns,Sanduíche,Suco,2,Cartão de débito,4.9,52.7
+2025-08-27 21:40:58.229114,Olinda,Bebida,Água,2,Dinheiro,4.5,30.88
+2025-08-28 02:03:10.895447,Recife,Sanduíche,Suco,5,Cartão de crédito,2.6,280.4
+2025-08-28 06:25:23.561780,Garanhuns,Hambúrguer,Batata Frita,5,Dinheiro,3.7,67.04
+2025-08-28 10:47:36.228114,Olinda,Porção,Pizza de Calabresa,2,Pix,2.7,56.32
+2025-08-28 15:09:48.894447,Petrolina,Sanduíche,X-Sertão,2,Dinheiro,3.6,39.51
+2025-08-28 19:32:01.560780,Olinda,Bebida,Pizza de Frango,4,Dinheiro,2.2,208.12
+2025-08-28 23:54:14.227113,Caruaru,Hambúrguer,Pizza de Calabresa,2,Cartão de débito,3.4,48.09
+2025-08-29 04:16:26.893446,Olinda,Pizza,X-Sertão,3,Dinheiro,3.1,178.74
+2025-08-29 08:38:39.559779,Olinda,Pizza,Pizza de Calabresa,1,Pix,1.1,10.01
+2025-08-29 13:00:52.226113,Caruaru,Bebida,Pizza de Frango,2,Cartão de crédito,4.2,29.34
+2025-08-29 17:23:04.892446,Garanhuns,Hambúrguer,Refrigerante,5,Dinheiro,1.0,98.41
+2025-08-29 21:45:17.558779,Garanhuns,Porção,Suco,3,Dinheiro,2.2,150.53
+2025-08-30 02:07:30.225112,Olinda,Sanduíche,Pizza de Calabresa,5,Cartão de crédito,1.0,268.41
+2025-08-30 06:29:42.891445,Caruaru,Hambúrguer,Batata Frita,3,Pix,2.5,35.15
+2025-08-30 10:51:55.557778,Caruaru,Pizza,Água,2,Pix,1.3,19.38
+2025-08-30 15:14:08.224112,Petrolina,Bebida,Sanduíche Natural,1,Dinheiro,4.7,46.72
+2025-08-30 19:36:20.890445,Garanhuns,Bebida,Batata Frita,5,Cartão de débito,2.7,74.67
+2025-08-30 23:58:33.556778,Recife,Sanduíche,Pizza de Frango,3,Dinheiro,2.8,44.75
+2025-08-31 04:20:46.223111,Garanhuns,Bebida,Água,4,Cartão de crédito,2.4,36.65
+2025-08-31 08:42:58.889444,Garanhuns,Bebida,Batata Frita,2,Cartão de crédito,3.5,21.18
+2025-08-31 13:05:11.555777,Petrolina,Hambúrguer,Coxinha,1,Cartão de crédito,4.1,21.71
+2025-08-31 17:27:24.222111,Recife,Porção,Suco,2,Dinheiro,3.6,22.76
+2025-08-31 21:49:36.888444,Petrolina,Sanduíche,Água,4,Dinheiro,4.0,108.73
+2025-09-01 02:11:49.554777,Recife,Hambúrguer,Coxinha,1,Pix,4.6,51.3
+2025-09-01 06:34:02.221110,Olinda,Porção,Batata Frita,4,Cartão de débito,4.5,99.87
+2025-09-01 10:56:14.887443,Recife,Hambúrguer,X-Sertão,2,Dinheiro,3.7,91.69
+2025-09-01 15:18:27.553776,Petrolina,Hambúrguer,X-Bacon,3,Pix,1.9,38.65
+2025-09-01 19:40:40.220110,Garanhuns,Bebida,X-Sertão,2,Dinheiro,3.6,84.58
+2025-09-02 00:02:52.886443,Recife,Porção,Suco,2,Pix,3.0,48.94
+2025-09-02 04:25:05.552776,Recife,Sanduíche,Água,2,Pix,3.9,93.97
+2025-09-02 08:47:18.219109,Caruaru,Sanduíche,Água,5,Cartão de débito,4.3,75.43
+2025-09-02 13:09:30.885442,Garanhuns,Porção,Suco,4,Dinheiro,4.0,218.76
+2025-09-02 17:31:43.551775,Olinda,Bebida,Coxinha,4,Pix,4.4,82.46
+2025-09-02 21:53:56.218109,Petrolina,Pizza,X-Bacon,4,Cartão de crédito,1.3,105.45
+2025-09-03 02:16:08.884442,Olinda,Hambúrguer,Batata Frita,5,Cartão de crédito,1.1,287.05
+2025-09-03 06:38:21.550775,Garanhuns,Bebida,Pizza de Frango,3,Cartão de crédito,,114.24
+2025-09-03 11:00:34.217108,Recife,Porção,X-Sertão,2,Cartão de débito,4.6,54.04
+2025-09-03 15:22:46.883441,Recife,Hambúrguer,X-Sertão,3,Pix,4.3,172.14
+2025-09-03 19:44:59.549774,Garanhuns,Sanduíche,Sanduíche Natural,5,Cartão de débito,3.7,125.56
+2025-09-04 00:07:12.216108,Recife,Pizza,X-Bacon,4,Dinheiro,3.8,51.73
+2025-09-04 04:29:24.882441,Recife,Sanduíche,Pizza de Frango,2,Dinheiro,3.9,119.67
+2025-09-04 08:51:37.548774,Recife,Porção,X-Sertão,1,Pix,4.8,21.93
+2025-09-04 13:13:50.215107,Petrolina,Hambúrguer,Pizza de Frango,1,Cartão de crédito,4.3,52.27
+2025-09-04 17:36:02.881440,Petrolina,Porção,Batata Frita,3,Pix,3.5,49.82
+2025-09-04 21:58:15.547773,Caruaru,Hambúrguer,Água,4,Pix,3.7,184.12
+2025-09-05 02:20:28.214107,Olinda,Bebida,Pizza de Frango,1,Pix,1.9,35.27
+2025-09-05 06:42:40.880440,Garanhuns,Pizza,X-Sertão,3,Cartão de débito,3.6,177.02
+2025-09-05 11:04:53.546773,Garanhuns,Bebida,Coxinha,5,Dinheiro,2.7,183.74
+2025-09-05 15:27:06.213106,Garanhuns,Bebida,X-Bacon,3,Pix,1.6,27.9
+2025-09-05 19:49:18.879439,Caruaru,Porção,Suco,3,Pix,4.2,118.2
+2025-09-06 00:11:31.545772,Petrolina,Pizza,Pizza de Calabresa,3,Pix,3.0,46.67
+2025-09-06 04:33:44.212106,Caruaru,Hambúrguer,Refrigerante,2,Cartão de débito,4.9,99.05
+2025-09-06 08:55:56.878439,Garanhuns,Hambúrguer,Refrigerante,3,Cartão de débito,2.1,157.62
+2025-09-06 13:18:09.544772,Olinda,Sanduíche,Pizza de Calabresa,3,Cartão de débito,2.9,99.21
+2025-09-06 17:40:22.211105,Recife,Hambúrguer,Pizza de Frango,2,Pix,2.8,97.46
+2025-09-06 22:02:34.877438,Petrolina,Porção,X-Bacon,2,Cartão de crédito,,31.09
+2025-09-07 02:24:47.543771,Petrolina,Bebida,Pizza de Frango,5,Cartão de crédito,2.7,167.94
+2025-09-07 06:47:00.210105,Caruaru,Bebida,Suco,4,Cartão de crédito,2.2,113.94
+2025-09-07 11:09:12.876438,Petrolina,Bebida,X-Bacon,1,Dinheiro,1.6,39.79
+2025-09-07 15:31:25.542771,Garanhuns,Pizza,Pizza de Calabresa,1,Pix,2.1,10.31
+2025-09-07 19:53:38.209104,Garanhuns,Hambúrguer,Pizza de Frango,3,Cartão de crédito,1.9,141.33
+2025-09-08 00:15:50.875437,Caruaru,Porção,Sanduíche Natural,5,Cartão de crédito,3.9,60.57
+2025-09-08 04:38:03.541770,Garanhuns,Pizza,X-Sertão,3,Cartão de crédito,1.1,126.41
+2025-09-08 09:00:16.208104,Olinda,Sanduíche,Coxinha,1,Pix,3.5,8.96
+2025-09-08 13:22:28.874437,Caruaru,Porção,Água,2,Cartão de crédito,4.0,102.52
+2025-09-08 17:44:41.540770,Olinda,Porção,Coxinha,4,Cartão de crédito,2.9,68.34
+2025-09-08 22:06:54.207103,Recife,Porção,Suco,5,Pix,4.7,174.03
+2025-09-09 02:29:06.873436,Olinda,Bebida,Pizza de Frango,2,Dinheiro,3.8,43.2
+2025-09-09 06:51:19.539769,Recife,Porção,Batata Frita,4,Cartão de débito,4.0,182.31
+2025-09-09 11:13:32.206103,Recife,Hambúrguer,X-Bacon,5,Cartão de crédito,1.8,123.55
+2025-09-09 15:35:44.872436,Olinda,Porção,Pizza de Frango,5,Cartão de débito,4.1,228.4
+2025-09-09 19:57:57.538769,Caruaru,Bebida,X-Bacon,1,Dinheiro,4.3,22.81
+2025-09-10 00:20:10.205102,Garanhuns,Porção,Água,2,Dinheiro,2.4,94.26
+2025-09-10 04:42:22.871435,Garanhuns,Sanduíche,Sanduíche Natural,5,Cartão de crédito,1.9,47.96
+2025-09-10 09:04:35.537768,Recife,Sanduíche,Coxinha,5,Pix,2.5,113.66
+2025-09-10 13:26:48.204102,Recife,Bebida,X-Sertão,4,Dinheiro,4.0,135.72
+2025-09-10 17:49:00.870435,Caruaru,Hambúrguer,Água,1,Cartão de débito,2.7,10.34
+2025-09-10 22:11:13.536768,Petrolina,Hambúrguer,Água,3,Cartão de débito,3.9,53.02
+2025-09-11 02:33:26.203101,Olinda,Pizza,Coxinha,1,Cartão de débito,,56.6
+2025-09-11 06:55:38.869434,Recife,Bebida,Água,3,Cartão de débito,4.2,176.39
+2025-09-11 11:17:51.535767,Garanhuns,Porção,Batata Frita,2,Dinheiro,2.0,92.93
+2025-09-11 15:40:04.202101,Caruaru,Bebida,Batata Frita,2,Cartão de crédito,2.0,42.23
+2025-09-11 20:02:16.868434,Olinda,Pizza,Refrigerante,5,Cartão de crédito,3.4,107.73
+2025-09-12 00:24:29.534767,Caruaru,Bebida,Refrigerante,2,Cartão de débito,1.3,83.16
+2025-09-12 04:46:42.201100,Olinda,Bebida,Batata Frita,5,Cartão de crédito,1.1,70.58
+2025-09-12 09:08:54.867433,Olinda,Pizza,Pizza de Calabresa,1,Cartão de débito,2.0,57.31
+2025-09-12 13:31:07.533766,Recife,Hambúrguer,Sanduíche Natural,2,Cartão de débito,3.2,39.38
+2025-09-12 17:53:20.200100,Caruaru,Porção,X-Bacon,1,Pix,4.6,59.98
+2025-09-12 22:15:32.866433,Caruaru,Pizza,Sanduíche Natural,1,Dinheiro,4.4,33.78
+2025-09-13 02:37:45.532766,Garanhuns,Sanduíche,Suco,2,Dinheiro,3.0,96.23
+2025-09-13 06:59:58.199099,Garanhuns,Hambúrguer,Água,1,Cartão de débito,1.1,8.11
+2025-09-13 11:22:10.865432,Recife,Sanduíche,X-Sertão,2,Dinheiro,,108.43
+2025-09-13 15:44:23.531765,Recife,Hambúrguer,Água,2,Cartão de crédito,3.8,44.08
+2025-09-13 20:06:36.198099,Petrolina,Porção,Sanduíche Natural,2,Cartão de débito,2.4,85.47
+2025-09-14 00:28:48.864432,Garanhuns,Porção,Batata Frita,3,Pix,1.4,149.79
+2025-09-14 04:51:01.530765,Olinda,Bebida,Coxinha,1,Cartão de crédito,2.1,16.54
+2025-09-14 09:13:14.197098,Caruaru,Sanduíche,Suco,4,Pix,4.1,124.04
+2025-09-14 13:35:26.863431,Recife,Hambúrguer,Batata Frita,2,Pix,2.4,67.36
+2025-09-14 17:57:39.529764,Caruaru,Porção,Sanduíche Natural,1,Dinheiro,4.2,24.23
+2025-09-14 22:19:52.196098,Caruaru,Pizza,Coxinha,5,Dinheiro,2.3,165.26
+2025-09-15 02:42:04.862431,Petrolina,Porção,X-Sertão,2,Cartão de débito,1.7,49.02
+2025-09-15 07:04:17.528764,Garanhuns,Pizza,Sanduíche Natural,2,Dinheiro,2.7,53.52
+2025-09-15 11:26:30.195097,Recife,Hambúrguer,X-Bacon,4,Pix,2.8,171.22
+2025-09-15 15:48:42.861430,Caruaru,Porção,Pizza de Frango,3,Pix,1.1,122.68
+2025-09-15 20:10:55.527763,Recife,Porção,Coxinha,3,Cartão de crédito,1.5,60.23
+2025-09-16 00:33:08.194097,Olinda,Hambúrguer,Sanduíche Natural,2,Pix,1.7,109.34
+2025-09-16 04:55:20.860430,Petrolina,Porção,Batata Frita,1,Cartão de débito,1.5,52.87
+2025-09-16 09:17:33.526763,Olinda,Pizza,X-Bacon,5,Cartão de débito,2.4,172.36
+2025-09-16 13:39:46.193096,Recife,Porção,Pizza de Calabresa,5,Dinheiro,4.9,152.65
+2025-09-16 18:01:58.859429,Recife,Sanduíche,Coxinha,1,Dinheiro,3.0,27.6
+2025-09-16 22:24:11.525762,Garanhuns,Bebida,X-Bacon,2,Dinheiro,3.5,89.56
+2025-09-17 02:46:24.192096,Caruaru,Pizza,Batata Frita,5,Cartão de débito,2.4,214.63
+2025-09-17 07:08:36.858429,Caruaru,Sanduíche,Sanduíche Natural,3,Pix,2.3,54.6
+2025-09-17 11:30:49.524762,Olinda,Hambúrguer,Água,1,Dinheiro,1.1,42.92
+2025-09-17 15:53:02.191095,Petrolina,Pizza,X-Sertão,4,Cartão de crédito,3.0,84.51
+2025-09-17 20:15:14.857428,Caruaru,Bebida,Água,2,Dinheiro,2.9,17.93
+2025-09-18 00:37:27.523761,Garanhuns,Bebida,Pizza de Frango,1,Cartão de débito,1.6,44.36
+2025-09-18 04:59:40.190095,Olinda,Hambúrguer,X-Bacon,5,Dinheiro,4.1,207.65
+2025-09-18 09:21:52.856428,Olinda,Hambúrguer,Pizza de Frango,2,Pix,3.0,58.72
+2025-09-18 13:44:05.522761,Garanhuns,Pizza,X-Sertão,3,Dinheiro,2.4,106.01
+2025-09-18 18:06:18.189094,Petrolina,Porção,X-Bacon,2,Cartão de débito,1.6,114.51
+2025-09-18 22:28:30.855427,Garanhuns,Hambúrguer,Refrigerante,2,Cartão de débito,3.2,77.9
+2025-09-19 02:50:43.521760,Petrolina,Porção,Batata Frita,3,Cartão de crédito,4.0,126.63
+2025-09-19 07:12:56.188094,Garanhuns,Sanduíche,X-Bacon,3,Cartão de débito,2.1,33.97
+2025-09-19 11:35:08.854427,Garanhuns,Bebida,Batata Frita,2,Cartão de crédito,1.9,33.26
+2025-09-19 15:57:21.520760,Recife,Porção,Água,3,Pix,3.1,70.95
+2025-09-19 20:19:34.187093,Olinda,Bebida,Suco,1,Cartão de débito,1.6,36.05
+2025-09-20 00:41:46.853426,Garanhuns,Porção,Coxinha,3,Dinheiro,3.7,145.15
+2025-09-20 05:03:59.519759,Garanhuns,Sanduíche,Suco,3,Pix,3.4,74.11
+2025-09-20 09:26:12.186093,Caruaru,Hambúrguer,Sanduíche Natural,2,Dinheiro,1.3,53.06
+2025-09-20 13:48:24.852426,Olinda,Sanduíche,Coxinha,1,Dinheiro,1.1,21.32
+2025-09-20 18:10:37.518759,Caruaru,Hambúrguer,Coxinha,4,Dinheiro,3.5,84.96
+2025-09-20 22:32:50.185092,Olinda,Hambúrguer,Pizza de Calabresa,4,Pix,,229.36
+2025-09-21 02:55:02.851425,Caruaru,Bebida,Coxinha,5,Pix,1.3,205.22
+2025-09-21 07:17:15.517758,Garanhuns,Sanduíche,X-Sertão,3,Cartão de débito,4.0,48.32
+2025-09-21 11:39:28.184092,Garanhuns,Porção,Suco,3,Dinheiro,2.3,136.67
+2025-09-21 16:01:40.850425,Recife,Sanduíche,Água,1,Cartão de crédito,2.8,45.55
+2025-09-21 20:23:53.516758,Caruaru,Bebida,Batata Frita,4,Cartão de débito,1.9,170.63
+2025-09-22 00:46:06.183091,Petrolina,Hambúrguer,Sanduíche Natural,5,Pix,,75.03
+2025-09-22 05:08:18.849424,Recife,Bebida,Coxinha,1,Cartão de crédito,2.2,29.22
+2025-09-22 09:30:31.515757,Caruaru,Pizza,Sanduíche Natural,3,Pix,4.9,40.65
+2025-09-22 13:52:44.182091,Caruaru,Pizza,Água,4,Cartão de crédito,3.8,201.86
+2025-09-22 18:14:56.848424,Recife,Porção,Sanduíche Natural,5,Cartão de débito,1.5,210.34
+2025-09-22 22:37:09.514757,Garanhuns,Bebida,Água,2,Cartão de crédito,2.7,68.75
+2025-09-23 02:59:22.181090,Caruaru,Porção,Coxinha,4,Cartão de débito,2.5,103.35
+2025-09-23 07:21:34.847423,Garanhuns,Porção,Água,5,Pix,3.1,87.9
+2025-09-23 11:43:47.513756,Recife,Pizza,Coxinha,1,Cartão de crédito,4.4,13.54
+2025-09-23 16:06:00.180090,Garanhuns,Porção,Pizza de Calabresa,2,Dinheiro,3.3,116.8
+2025-09-23 20:28:12.846423,Olinda,Pizza,Pizza de Calabresa,5,Dinheiro,1.2,91.91
+2025-09-24 00:50:25.512756,Petrolina,Hambúrguer,Água,5,Pix,3.6,55.57
+2025-09-24 05:12:38.179089,Caruaru,Bebida,Pizza de Calabresa,3,Cartão de crédito,1.0,174.02
+2025-09-24 09:34:50.845422,Petrolina,Porção,Batata Frita,4,Dinheiro,4.1,146.18
+2025-09-24 13:57:03.511755,Garanhuns,Pizza,Batata Frita,3,Cartão de débito,3.7,148.28
+2025-09-24 18:19:16.178089,Caruaru,Sanduíche,Pizza de Calabresa,2,Cartão de crédito,2.2,20.55
+2025-09-24 22:41:28.844422,Garanhuns,Porção,Pizza de Calabresa,5,Cartão de crédito,2.2,187.41
+2025-09-25 03:03:41.510755,Olinda,Hambúrguer,Refrigerante,3,Dinheiro,4.2,86.12
+2025-09-25 07:25:54.177088,Recife,Hambúrguer,Refrigerante,4,Cartão de débito,4.1,192.57
+2025-09-25 11:48:06.843421,Caruaru,Sanduíche,Coxinha,2,Cartão de débito,2.4,20.0
+2025-09-25 16:10:19.509754,Olinda,Pizza,Água,1,Cartão de débito,2.2,28.89
+2025-09-25 20:32:32.176088,Olinda,Porção,Pizza de Frango,3,Cartão de crédito,3.2,148.66
+2025-09-26 00:54:44.842421,Caruaru,Pizza,Pizza de Frango,2,Pix,1.0,70.36
+2025-09-26 05:16:57.508754,Garanhuns,Hambúrguer,Pizza de Calabresa,1,Cartão de crédito,1.3,36.6
+2025-09-26 09:39:10.175087,Olinda,Pizza,Sanduíche Natural,3,Cartão de crédito,1.5,39.16
+2025-09-26 14:01:22.841420,Petrolina,Hambúrguer,Pizza de Calabresa,2,Dinheiro,1.7,29.76
+2025-09-26 18:23:35.507753,Olinda,Pizza,Refrigerante,2,Pix,3.0,86.41
+2025-09-26 22:45:48.174087,Garanhuns,Sanduíche,Coxinha,3,Cartão de débito,5.0,129.31
+2025-09-27 03:08:00.840420,Garanhuns,Bebida,Pizza de Calabresa,2,Dinheiro,3.6,117.83
+2025-09-27 07:30:13.506753,Petrolina,Sanduíche,Suco,5,Cartão de crédito,1.2,225.11
+2025-09-27 11:52:26.173086,Olinda,Sanduíche,Sanduíche Natural,3,Pix,3.1,100.95
+2025-09-27 16:14:38.839419,Garanhuns,Bebida,Suco,2,Cartão de débito,3.0,105.16
+2025-09-27 20:36:51.505752,Caruaru,Bebida,Coxinha,1,Cartão de débito,1.6,13.43
+2025-09-28 00:59:04.172086,Recife,Porção,Coxinha,1,Cartão de crédito,4.7,31.36
+2025-09-28 05:21:16.838419,Recife,Porção,Batata Frita,5,Cartão de débito,2.8,114.65
+2025-09-28 09:43:29.504752,Recife,Sanduíche,X-Bacon,3,Cartão de débito,5.0,40.32
+2025-09-28 14:05:42.171085,Olinda,Sanduíche,Suco,2,Pix,,95.4
+2025-09-28 18:27:54.837418,Petrolina,Hambúrguer,Batata Frita,2,Dinheiro,3.4,69.12
+2025-09-28 22:50:07.503751,Garanhuns,Hambúrguer,Refrigerante,1,Pix,,36.95
+2025-09-29 03:12:20.170085,Caruaru,Porção,X-Sertão,5,Dinheiro,2.8,146.93
+2025-09-29 07:34:32.836418,Caruaru,Porção,Sanduíche Natural,1,Dinheiro,2.0,31.94
+2025-09-29 11:56:45.502751,Olinda,Hambúrguer,X-Sertão,1,Dinheiro,4.3,14.03
+2025-09-29 16:18:58.169084,Recife,Hambúrguer,Água,5,Cartão de débito,4.1,214.96
+2025-09-29 20:41:10.835417,Olinda,Pizza,Refrigerante,3,Pix,,91.46
+2025-09-30 01:03:23.501750,Petrolina,Pizza,Refrigerante,2,Cartão de débito,3.9,100.94
+2025-09-30 05:25:36.168084,Petrolina,Hambúrguer,X-Sertão,3,Cartão de crédito,4.3,54.62
+2025-09-30 09:47:48.834417,Garanhuns,Pizza,Suco,4,Pix,1.8,74.65
+2025-09-30 14:10:01.500750,Garanhuns,Bebida,X-Bacon,4,Dinheiro,2.8,166.32
+2025-09-30 18:32:14.167083,Petrolina,Porção,Suco,4,Cartão de débito,3.8,207.97
+2025-09-30 22:54:26.833416,Petrolina,Porção,X-Sertão,5,Cartão de débito,3.5,162.77
+2025-10-01 03:16:39.499749,Petrolina,Hambúrguer,Água,1,Pix,3.9,45.8
+2025-10-01 07:38:52.166083,Olinda,Sanduíche,Suco,3,Pix,1.9,179.9
+2025-10-01 12:01:04.832416,Petrolina,Hambúrguer,Pizza de Frango,2,Dinheiro,1.4,118.99
+2025-10-01 16:23:17.498749,Caruaru,Pizza,Suco,4,Dinheiro,4.7,186.82
+2025-10-01 20:45:30.165082,Recife,Sanduíche,Coxinha,3,Cartão de crédito,3.2,139.38
+2025-10-02 01:07:42.831415,Petrolina,Pizza,Batata Frita,4,Dinheiro,1.6,83.5
+2025-10-02 05:29:55.497748,Recife,Bebida,Sanduíche Natural,4,Cartão de débito,4.2,205.38
+2025-10-02 09:52:08.164082,Olinda,Pizza,Suco,2,Cartão de crédito,4.7,58.13
+2025-10-02 14:14:20.830415,Recife,Bebida,X-Bacon,5,Cartão de crédito,1.7,290.12
+2025-10-02 18:36:33.496748,Olinda,Bebida,X-Bacon,1,Cartão de crédito,4.3,12.23
+2025-10-02 22:58:46.163081,Caruaru,Pizza,Suco,5,Pix,4.7,153.32
+2025-10-03 03:20:58.829414,Olinda,Pizza,Pizza de Calabresa,3,Dinheiro,4.8,110.71
+2025-10-03 07:43:11.495747,Olinda,Bebida,Refrigerante,5,Cartão de crédito,4.7,145.34
+2025-10-03 12:05:24.162081,Garanhuns,Sanduíche,Suco,3,Pix,3.2,56.85
+2025-10-03 16:27:36.828414,Petrolina,Bebida,Refrigerante,3,Pix,2.4,116.51
+2025-10-03 20:49:49.494747,Petrolina,Porção,Pizza de Frango,1,Cartão de crédito,1.0,47.31
+2025-10-04 01:12:02.161080,Caruaru,Bebida,X-Sertão,2,Cartão de crédito,1.2,83.06
+2025-10-04 05:34:14.827413,Caruaru,Sanduíche,Pizza de Frango,1,Cartão de débito,2.7,20.19
+2025-10-04 09:56:27.493746,Petrolina,Porção,Suco,5,Cartão de crédito,2.6,230.22
+2025-10-04 14:18:40.160080,Garanhuns,Hambúrguer,X-Bacon,3,Cartão de débito,1.7,64.08
+2025-10-04 18:40:52.826413,Petrolina,Hambúrguer,Pizza de Calabresa,4,Cartão de crédito,2.6,68.44
+2025-10-04 23:03:05.492746,Garanhuns,Sanduíche,Água,4,Cartão de crédito,1.7,175.66
+2025-10-05 03:25:18.159079,Caruaru,Bebida,Refrigerante,3,Dinheiro,4.4,155.47
+2025-10-05 07:47:30.825412,Recife,Pizza,Batata Frita,1,Cartão de crédito,2.2,33.04
+2025-10-05 12:09:43.491745,Caruaru,Sanduíche,Refrigerante,2,Cartão de crédito,3.4,71.26
+2025-10-05 16:31:56.158079,Caruaru,Porção,Coxinha,1,Cartão de débito,,23.74
+2025-10-05 20:54:08.824412,Olinda,Porção,Sanduíche Natural,3,Cartão de débito,1.2,101.16
+2025-10-06 01:16:21.490745,Olinda,Hambúrguer,Suco,3,Dinheiro,4.8,44.59
+2025-10-06 05:38:34.157078,Olinda,Porção,Pizza de Frango,2,Cartão de crédito,3.1,115.41
+2025-10-06 10:00:46.823411,Olinda,Sanduíche,Batata Frita,5,Cartão de crédito,2.3,248.09
+2025-10-06 14:22:59.489744,Garanhuns,Porção,X-Bacon,5,Cartão de débito,1.6,213.67
+2025-10-06 18:45:12.156078,Petrolina,Sanduíche,X-Bacon,2,Pix,2.4,71.97
+2025-10-06 23:07:24.822411,Recife,Pizza,X-Bacon,5,Pix,1.1,245.96
+2025-10-07 03:29:37.488744,Caruaru,Hambúrguer,Água,4,Pix,2.5,134.91
+2025-10-07 07:51:50.155077,Garanhuns,Porção,Coxinha,5,Cartão de débito,3.1,117.99
+2025-10-07 12:14:02.821410,Recife,Sanduíche,X-Bacon,5,Cartão de débito,4.5,81.7
+2025-10-07 16:36:15.487743,Garanhuns,Bebida,X-Bacon,5,Pix,3.7,208.37
+2025-10-07 20:58:28.154077,Garanhuns,Hambúrguer,Suco,4,Pix,1.4,225.32
+2025-10-08 01:20:40.820410,Caruaru,Pizza,Coxinha,5,Cartão de crédito,1.6,79.94
+2025-10-08 05:42:53.486743,Petrolina,Sanduíche,Pizza de Calabresa,4,Cartão de débito,2.7,69.44
+2025-10-08 10:05:06.153076,Olinda,Pizza,Pizza de Calabresa,2,Cartão de débito,1.8,61.1
+2025-10-08 14:27:18.819409,Petrolina,Pizza,Coxinha,1,Pix,1.1,49.96
+2025-10-08 18:49:31.485742,Caruaru,Porção,Sanduíche Natural,2,Pix,4.2,46.57
+2025-10-08 23:11:44.152076,Caruaru,Porção,Água,1,Dinheiro,1.1,21.2
+2025-10-09 03:33:56.818409,Caruaru,Sanduíche,Batata Frita,2,Cartão de débito,4.3,80.48
+2025-10-09 07:56:09.484742,Recife,Bebida,Refrigerante,1,Dinheiro,1.6,35.85
+2025-10-09 12:18:22.151075,Petrolina,Sanduíche,Suco,1,Cartão de crédito,4.9,11.13
+2025-10-09 16:40:34.817408,Petrolina,Bebida,X-Sertão,3,Dinheiro,3.4,36.71
+2025-10-09 21:02:47.483741,Garanhuns,Pizza,Pizza de Calabresa,1,Pix,3.9,41.44
+2025-10-10 01:25:00.150075,Garanhuns,Hambúrguer,Coxinha,1,Cartão de débito,1.4,32.19
+2025-10-10 05:47:12.816408,Garanhuns,Sanduíche,Batata Frita,3,Cartão de débito,4.4,175.47
+2025-10-10 10:09:25.482741,Caruaru,Sanduíche,Coxinha,5,Dinheiro,4.4,216.42
+2025-10-10 14:31:38.149074,Petrolina,Bebida,Refrigerante,5,Dinheiro,3.6,42.62
+2025-10-10 18:53:50.815407,Caruaru,Pizza,Batata Frita,3,Cartão de crédito,3.0,99.04
+2025-10-10 23:16:03.481740,Recife,Pizza,Pizza de Calabresa,4,Cartão de crédito,3.9,118.21
+2025-10-11 03:38:16.148074,Garanhuns,Bebida,X-Bacon,1,Pix,1.0,13.55
+2025-10-11 08:00:28.814407,Caruaru,Pizza,Coxinha,1,Pix,3.4,56.01
+2025-10-11 12:22:41.480740,Caruaru,Porção,X-Sertão,3,Pix,4.4,149.58
+2025-10-11 16:44:54.147073,Recife,Hambúrguer,Pizza de Calabresa,3,Dinheiro,,59.89
+2025-10-11 21:07:06.813406,Olinda,Sanduíche,Pizza de Frango,4,Dinheiro,1.4,85.24
+2025-10-12 01:29:19.479739,Petrolina,Hambúrguer,X-Sertão,5,Cartão de débito,2.7,48.32
+2025-10-12 05:51:32.146073,Olinda,Sanduíche,Sanduíche Natural,2,Pix,3.9,46.86
+2025-10-12 10:13:44.812406,Garanhuns,Porção,Água,5,Dinheiro,1.4,192.0
+2025-10-12 14:35:57.478739,Caruaru,Pizza,Pizza de Calabresa,1,Cartão de débito,1.8,29.88
+2025-10-12 18:58:10.145072,Recife,Bebida,X-Bacon,3,Pix,1.6,175.2
+2025-10-12 23:20:22.811405,Recife,Porção,Pizza de Calabresa,4,Cartão de crédito,4.2,43.66
+2025-10-13 03:42:35.477738,Petrolina,Hambúrguer,Refrigerante,5,Cartão de crédito,,193.77
+2025-10-13 08:04:48.144072,Olinda,Bebida,Batata Frita,4,Dinheiro,3.7,210.53
+2025-10-13 12:27:00.810405,Petrolina,Pizza,Coxinha,5,Cartão de débito,2.5,164.99
+2025-10-13 16:49:13.476738,Caruaru,Porção,Batata Frita,1,Cartão de crédito,4.0,8.15
+2025-10-13 21:11:26.143071,Petrolina,Bebida,Batata Frita,2,Cartão de débito,4.9,41.25
+2025-10-14 01:33:38.809404,Recife,Porção,Pizza de Calabresa,4,Cartão de débito,1.5,99.34
+2025-10-14 05:55:51.475737,Recife,Porção,Refrigerante,4,Cartão de crédito,2.3,232.93
+2025-10-14 10:18:04.142071,Garanhuns,Pizza,Coxinha,2,Cartão de débito,4.2,110.82
+2025-10-14 14:40:16.808404,Garanhuns,Sanduíche,Coxinha,4,Cartão de crédito,2.1,229.43
+2025-10-14 19:02:29.474737,Caruaru,Bebida,Batata Frita,4,Dinheiro,1.9,203.76
+2025-10-14 23:24:42.141070,Olinda,Pizza,Sanduíche Natural,5,Pix,4.3,131.43
+2025-10-15 03:46:54.807403,Petrolina,Porção,Água,5,Pix,4.9,275.53
+2025-10-15 08:09:07.473736,Caruaru,Pizza,Refrigerante,2,Dinheiro,3.2,118.1
+2025-10-15 12:31:20.140070,Garanhuns,Sanduíche,Sanduíche Natural,1,Cartão de crédito,2.1,26.2
+2025-10-15 16:53:32.806403,Petrolina,Bebida,Suco,4,Cartão de crédito,2.6,86.2
+2025-10-15 21:15:45.472736,Garanhuns,Sanduíche,Suco,1,Cartão de crédito,1.7,36.44
+2025-10-16 01:37:58.139069,Petrolina,Hambúrguer,X-Sertão,2,Cartão de crédito,4.0,35.46
+2025-10-16 06:00:10.805402,Olinda,Bebida,Batata Frita,2,Dinheiro,4.1,19.39
+2025-10-16 10:22:23.471735,Caruaru,Sanduíche,Coxinha,5,Pix,4.5,285.92
+2025-10-16 14:44:36.138069,Petrolina,Porção,Pizza de Calabresa,4,Cartão de débito,1.1,224.55
+2025-10-16 19:06:48.804402,Recife,Bebida,Coxinha,3,Cartão de débito,3.2,49.37
+2025-10-16 23:29:01.470735,Recife,Bebida,Coxinha,2,Pix,1.9,58.4
+2025-10-17 03:51:14.137068,Petrolina,Pizza,X-Bacon,4,Dinheiro,2.4,204.86
+2025-10-17 08:13:26.803401,Petrolina,Porção,Coxinha,1,Cartão de débito,4.1,42.37
+2025-10-17 12:35:39.469734,Petrolina,Hambúrguer,X-Sertão,5,Pix,1.8,142.64
+2025-10-17 16:57:52.136068,Recife,Sanduíche,Sanduíche Natural,1,Dinheiro,3.6,46.7
+2025-10-17 21:20:04.802401,Recife,Pizza,Suco,2,Cartão de débito,3.6,109.29
+2025-10-18 01:42:17.468734,Petrolina,Sanduíche,Coxinha,2,Cartão de crédito,4.8,112.32
+2025-10-18 06:04:30.135067,Garanhuns,Hambúrguer,Coxinha,1,Cartão de crédito,4.1,27.7
+2025-10-18 10:26:42.801400,Garanhuns,Hambúrguer,X-Bacon,2,Dinheiro,4.2,34.05
+2025-10-18 14:48:55.467733,Olinda,Bebida,Refrigerante,4,Cartão de crédito,3.1,221.87
+2025-10-18 19:11:08.134067,Caruaru,Hambúrguer,Pizza de Calabresa,2,Dinheiro,1.7,25.63
+2025-10-18 23:33:20.800400,Garanhuns,Sanduíche,Refrigerante,5,Pix,2.7,227.64
+2025-10-19 03:55:33.466733,Recife,Porção,Pizza de Calabresa,4,Pix,3.2,61.22
+2025-10-19 08:17:46.133066,Garanhuns,Porção,Água,3,Cartão de débito,,84.74
+2025-10-19 12:39:58.799399,Olinda,Bebida,Coxinha,2,Dinheiro,3.4,58.8
+2025-10-19 17:02:11.465732,Olinda,Sanduíche,X-Bacon,2,Cartão de débito,2.6,32.51
+2025-10-19 21:24:24.132066,Caruaru,Sanduíche,Pizza de Frango,5,Cartão de débito,2.1,279.9
+2025-10-20 01:46:36.798399,Garanhuns,Hambúrguer,Batata Frita,5,Pix,1.7,40.69
+2025-10-20 06:08:49.464732,Recife,Sanduíche,Suco,1,Cartão de débito,3.8,54.48
+2025-10-20 10:31:02.131065,Recife,Pizza,Sanduíche Natural,1,Cartão de crédito,3.6,53.96
+2025-10-20 14:53:14.797398,Petrolina,Hambúrguer,Suco,1,Cartão de débito,3.7,24.48
+2025-10-20 19:15:27.463731,Recife,Pizza,Sanduíche Natural,5,Dinheiro,2.5,223.11
+2025-10-20 23:37:40.130065,Caruaru,Bebida,Água,1,Cartão de crédito,2.0,21.15
+2025-10-21 03:59:52.796398,Caruaru,Porção,Refrigerante,1,Pix,4.0,47.46
+2025-10-21 08:22:05.462731,Recife,Bebida,X-Sertão,3,Dinheiro,4.1,111.53
+2025-10-21 12:44:18.129064,Recife,Porção,Coxinha,1,Cartão de crédito,,23.61
+2025-10-21 17:06:30.795397,Petrolina,Bebida,Pizza de Frango,2,Dinheiro,3.4,57.62
+2025-10-21 21:28:43.461730,Recife,Sanduíche,Sanduíche Natural,5,Cartão de crédito,2.5,219.37
+2025-10-22 01:50:56.128064,Petrolina,Pizza,Batata Frita,4,Dinheiro,3.8,220.47
+2025-10-22 06:13:08.794397,Petrolina,Porção,Sanduíche Natural,3,Dinheiro,4.3,44.39
+2025-10-22 10:35:21.460730,Recife,Hambúrguer,X-Sertão,5,Cartão de crédito,3.8,188.55
+2025-10-22 14:57:34.127063,Olinda,Pizza,Suco,5,Pix,3.1,105.97
+2025-10-22 19:19:46.793396,Olinda,Hambúrguer,X-Bacon,2,Pix,2.8,99.34
+2025-10-22 23:41:59.459729,Petrolina,Pizza,Suco,1,Dinheiro,3.6,11.65
+2025-10-23 04:04:12.126063,Recife,Pizza,Água,2,Dinheiro,3.7,87.65
+2025-10-23 08:26:24.792396,Olinda,Bebida,X-Bacon,1,Pix,3.2,17.1
+2025-10-23 12:48:37.458729,Recife,Porção,Suco,1,Pix,3.5,39.01
+2025-10-23 17:10:50.125062,Recife,Porção,Batata Frita,5,Cartão de débito,1.4,257.28
+2025-10-23 21:33:02.791395,Recife,Pizza,Suco,1,Pix,4.8,47.26
+2025-10-24 01:55:15.457728,Garanhuns,Sanduíche,Batata Frita,3,Dinheiro,4.2,141.46
+2025-10-24 06:17:28.124062,Recife,Sanduíche,Batata Frita,3,Cartão de crédito,2.5,104.78
+2025-10-24 10:39:40.790395,Garanhuns,Hambúrguer,X-Bacon,3,Pix,3.3,162.96
+2025-10-24 15:01:53.456728,Petrolina,Hambúrguer,Refrigerante,5,Cartão de débito,1.2,192.91
+2025-10-24 19:24:06.123061,Olinda,Bebida,Pizza de Calabresa,2,Cartão de débito,1.2,111.42
+2025-10-24 23:46:18.789394,Olinda,Pizza,Coxinha,4,Cartão de débito,2.0,145.68
+2025-10-25 04:08:31.455727,Olinda,Hambúrguer,Sanduíche Natural,1,Cartão de crédito,3.8,34.31
+2025-10-25 08:30:44.122061,Olinda,Hambúrguer,Pizza de Calabresa,4,Pix,4.4,78.25
+2025-10-25 12:52:56.788394,Olinda,Pizza,X-Sertão,2,Pix,3.2,72.66
+2025-10-25 17:15:09.454727,Olinda,Bebida,Refrigerante,2,Pix,3.1,30.62
+2025-10-25 21:37:22.121060,Olinda,Hambúrguer,Pizza de Calabresa,5,Cartão de crédito,2.6,266.12
+2025-10-26 01:59:34.787393,Petrolina,Bebida,X-Bacon,3,Cartão de crédito,1.6,129.44
+2025-10-26 06:21:47.453726,Recife,Porção,X-Sertão,3,Dinheiro,1.5,179.01
+2025-10-26 10:44:00.120060,Caruaru,Bebida,Pizza de Frango,2,Cartão de débito,4.0,25.58
+2025-10-26 15:06:12.786393,Garanhuns,Sanduíche,Refrigerante,5,Cartão de débito,4.7,102.57
+2025-10-26 19:28:25.452726,Caruaru,Sanduíche,Pizza de Calabresa,5,Pix,2.8,268.06
+2025-10-26 23:50:38.119059,Caruaru,Bebida,X-Sertão,1,Cartão de crédito,3.6,28.55
+2025-10-27 04:12:50.785392,Recife,Sanduíche,Pizza de Frango,3,Cartão de crédito,4.7,96.74
+2025-10-27 08:35:03.451725,Recife,Porção,Suco,2,Pix,1.4,105.51
+2025-10-27 12:57:16.118059,Recife,Pizza,X-Sertão,4,Pix,4.1,140.54
+2025-10-27 17:19:28.784392,Olinda,Sanduíche,X-Bacon,3,Dinheiro,3.5,54.18
+2025-10-27 21:41:41.450725,Petrolina,Sanduíche,Suco,1,Cartão de débito,3.4,54.39
+2025-10-28 02:03:54.117058,Olinda,Bebida,X-Bacon,5,Cartão de débito,2.2,48.08
+2025-10-28 06:26:06.783391,Petrolina,Porção,Pizza de Calabresa,2,Cartão de débito,3.7,109.12
+2025-10-28 10:48:19.449724,Petrolina,Pizza,Coxinha,3,Dinheiro,4.2,31.88
+2025-10-28 15:10:32.116058,Caruaru,Bebida,Pizza de Calabresa,4,Pix,1.5,170.5
+2025-10-28 19:32:44.782391,Caruaru,Bebida,Suco,1,Pix,3.1,11.73
+2025-10-28 23:54:57.448724,Petrolina,Porção,Batata Frita,1,Cartão de débito,1.4,44.72
+2025-10-29 04:17:10.115057,Petrolina,Pizza,Pizza de Calabresa,3,Cartão de débito,4.5,29.3
+2025-10-29 08:39:22.781390,Olinda,Porção,Suco,4,Dinheiro,3.0,207.23
+2025-10-29 13:01:35.447723,Olinda,Pizza,X-Sertão,1,Cartão de crédito,4.2,32.23
+2025-10-29 17:23:48.114057,Caruaru,Porção,Água,2,Cartão de crédito,2.5,25.72
+2025-10-29 21:46:00.780390,Recife,Bebida,Pizza de Calabresa,1,Cartão de débito,1.5,44.75
+2025-10-30 02:08:13.446723,Petrolina,Bebida,X-Sertão,4,Dinheiro,1.2,133.77
+2025-10-30 06:30:26.113056,Olinda,Hambúrguer,X-Bacon,5,Cartão de débito,2.1,89.65
+2025-10-30 10:52:38.779389,Caruaru,Sanduíche,Refrigerante,5,Cartão de crédito,2.0,44.07
+2025-10-30 15:14:51.445722,Olinda,Porção,Coxinha,3,Cartão de débito,3.2,89.21
+2025-10-30 19:37:04.112056,Petrolina,Hambúrguer,X-Bacon,4,Cartão de crédito,1.1,49.81
+2025-10-30 23:59:16.778389,Petrolina,Sanduíche,X-Bacon,1,Cartão de crédito,3.1,12.9
+2025-10-31 04:21:29.444722,Garanhuns,Porção,Suco,1,Cartão de crédito,2.6,21.9
+2025-10-31 08:43:42.111055,Recife,Pizza,Batata Frita,5,Pix,3.3,203.92
+2025-10-31 13:05:54.777388,Garanhuns,Sanduíche,Sanduíche Natural,5,Pix,3.8,177.78
+2025-10-31 17:28:07.443721,Caruaru,Bebida,Água,2,Cartão de débito,3.5,23.17
+2025-10-31 21:50:20.110055,Olinda,Hambúrguer,Batata Frita,5,Cartão de crédito,4.9,291.79
+2025-11-01 02:12:32.776388,Caruaru,Sanduíche,Suco,2,Pix,1.6,108.27
+2025-11-01 06:34:45.442721,Petrolina,Sanduíche,Coxinha,1,Cartão de débito,2.7,21.48
+2025-11-01 10:56:58.109054,Garanhuns,Bebida,Água,2,Cartão de débito,2.7,28.72
+2025-11-01 15:19:10.775387,Garanhuns,Porção,Água,2,Cartão de débito,2.7,114.01
+2025-11-01 19:41:23.441720,Garanhuns,Pizza,Suco,3,Cartão de débito,3.7,95.94
+2025-11-02 00:03:36.108054,Caruaru,Bebida,Pizza de Frango,5,Cartão de débito,3.0,120.9
+2025-11-02 04:25:48.774387,Petrolina,Pizza,X-Bacon,2,Dinheiro,3.1,67.0
+2025-11-02 08:48:01.440720,Olinda,Porção,Refrigerante,1,Cartão de crédito,2.7,48.18
+2025-11-02 13:10:14.107053,Olinda,Sanduíche,Pizza de Frango,4,Cartão de débito,5.0,67.02
+2025-11-02 17:32:26.773386,Caruaru,Pizza,Suco,2,Dinheiro,4.7,95.82
+2025-11-02 21:54:39.439719,Garanhuns,Hambúrguer,Pizza de Frango,5,Cartão de crédito,2.2,234.86
+2025-11-03 02:16:52.106053,Recife,Hambúrguer,Refrigerante,3,Pix,1.4,108.14
+2025-11-03 06:39:04.772386,Caruaru,Bebida,Suco,1,Cartão de débito,4.4,53.02
+2025-11-03 11:01:17.438719,Caruaru,Porção,Suco,3,Dinheiro,5.0,44.61
+2025-11-03 15:23:30.105052,Petrolina,Bebida,Água,4,Pix,2.2,155.86
+2025-11-03 19:45:42.771385,Olinda,Bebida,Pizza de Frango,2,Dinheiro,2.4,62.73
+2025-11-04 00:07:55.437718,Caruaru,Bebida,X-Sertão,2,Cartão de crédito,4.8,59.92
+2025-11-04 04:30:08.104052,Caruaru,Hambúrguer,Pizza de Calabresa,5,Cartão de crédito,3.8,105.67
+2025-11-04 08:52:20.770385,Garanhuns,Hambúrguer,Suco,2,Pix,2.2,54.72
+2025-11-04 13:14:33.436718,Garanhuns,Bebida,Pizza de Frango,1,Dinheiro,3.3,13.62
+2025-11-04 17:36:46.103051,Recife,Hambúrguer,Sanduíche Natural,4,Cartão de débito,4.8,84.33
+2025-11-04 21:58:58.769384,Petrolina,Porção,Coxinha,3,Cartão de débito,4.2,66.43
+2025-11-05 02:21:11.435717,Recife,Bebida,Sanduíche Natural,4,Pix,4.0,181.9
+2025-11-05 06:43:24.102051,Garanhuns,Hambúrguer,Pizza de Frango,2,Pix,3.9,21.05
+2025-11-05 11:05:36.768384,Olinda,Pizza,X-Bacon,3,Pix,,125.59
+2025-11-05 15:27:49.434717,Garanhuns,Bebida,X-Bacon,5,Dinheiro,4.3,97.57
+2025-11-05 19:50:02.101050,Petrolina,Bebida,Pizza de Frango,4,Cartão de débito,2.1,49.03
+2025-11-06 00:12:14.767383,Garanhuns,Porção,Água,3,Cartão de débito,4.7,70.93
+2025-11-06 04:34:27.433716,Petrolina,Sanduíche,Água,3,Cartão de débito,2.5,59.02
+2025-11-06 08:56:40.100050,Petrolina,Sanduíche,Suco,3,Pix,4.4,110.12
+2025-11-06 13:18:52.766383,Petrolina,Porção,Refrigerante,1,Cartão de débito,2.1,26.58
+2025-11-06 17:41:05.432716,Petrolina,Porção,Pizza de Calabresa,4,Cartão de crédito,,232.93
+2025-11-06 22:03:18.099049,Petrolina,Porção,Suco,3,Pix,1.4,174.31
+2025-11-07 02:25:30.765382,Olinda,Sanduíche,Sanduíche Natural,4,Cartão de débito,3.6,124.29
+2025-11-07 06:47:43.431715,Recife,Porção,Pizza de Calabresa,3,Dinheiro,4.3,148.03
+2025-11-07 11:09:56.098049,Caruaru,Hambúrguer,Sanduíche Natural,5,Pix,3.9,43.45
+2025-11-07 15:32:08.764382,Recife,Bebida,Água,5,Cartão de crédito,3.1,182.43
+2025-11-07 19:54:21.430715,Petrolina,Bebida,Pizza de Frango,5,Cartão de crédito,1.2,233.26
+2025-11-08 00:16:34.097048,Olinda,Pizza,Refrigerante,2,Dinheiro,4.7,38.56
+2025-11-08 04:38:46.763381,Garanhuns,Pizza,Sanduíche Natural,3,Dinheiro,3.8,33.54
+2025-11-08 09:00:59.429714,Olinda,Bebida,Água,2,Pix,4.0,32.22
+2025-11-08 13:23:12.096048,Petrolina,Hambúrguer,Refrigerante,4,Pix,4.2,123.9
+2025-11-08 17:45:24.762381,Olinda,Sanduíche,Suco,2,Cartão de crédito,4.0,68.66
+2025-11-08 22:07:37.428714,Olinda,Sanduíche,Pizza de Frango,4,Dinheiro,2.8,111.22
+2025-11-09 02:29:50.095047,Petrolina,Hambúrguer,Coxinha,4,Pix,3.9,123.51
+2025-11-09 06:52:02.761380,Olinda,Sanduíche,X-Bacon,4,Cartão de crédito,3.5,129.81
+2025-11-09 11:14:15.427713,Caruaru,Porção,Batata Frita,2,Dinheiro,4.4,96.02
+2025-11-09 15:36:28.094047,Caruaru,Bebida,Refrigerante,3,Cartão de crédito,4.2,40.42
+2025-11-09 19:58:40.760380,Olinda,Bebida,Coxinha,2,Cartão de débito,1.2,95.97
+2025-11-10 00:20:53.426713,Garanhuns,Hambúrguer,Coxinha,3,Dinheiro,2.5,131.43
+2025-11-10 04:43:06.093046,Petrolina,Sanduíche,Refrigerante,3,Pix,1.1,139.7
+2025-11-10 09:05:18.759379,Caruaru,Pizza,Coxinha,4,Pix,1.4,184.77
+2025-11-10 13:27:31.425712,Garanhuns,Pizza,Sanduíche Natural,2,Cartão de débito,3.4,64.94
+2025-11-10 17:49:44.092046,Olinda,Sanduíche,Coxinha,3,Dinheiro,4.5,56.98
+2025-11-10 22:11:56.758379,Garanhuns,Pizza,Água,5,Cartão de crédito,1.5,179.52
+2025-11-11 02:34:09.424712,Recife,Hambúrguer,Pizza de Calabresa,3,Pix,2.8,173.45
+2025-11-11 06:56:22.091045,Caruaru,Hambúrguer,Sanduíche Natural,5,Cartão de débito,4.6,193.02
+2025-11-11 11:18:34.757378,Olinda,Sanduíche,Coxinha,2,Cartão de débito,4.3,17.15
+2025-11-11 15:40:47.423711,Petrolina,Pizza,Suco,2,Dinheiro,3.1,22.21
+2025-11-11 20:03:00.090045,Olinda,Hambúrguer,X-Bacon,2,Dinheiro,4.1,119.26
+2025-11-12 00:25:12.756378,Petrolina,Hambúrguer,Pizza de Frango,3,Pix,3.1,35.22
+2025-11-12 04:47:25.422711,Olinda,Porção,Coxinha,1,Cartão de débito,1.6,10.39
+2025-11-12 09:09:38.089044,Garanhuns,Porção,X-Sertão,3,Cartão de crédito,1.5,79.07
+2025-11-12 13:31:50.755377,Garanhuns,Hambúrguer,X-Bacon,3,Cartão de débito,1.8,175.21
+2025-11-12 17:54:03.421710,Garanhuns,Sanduíche,Suco,4,Cartão de crédito,2.4,98.28
+2025-11-12 22:16:16.088044,Recife,Bebida,Água,4,Cartão de crédito,4.7,117.26
+2025-11-13 02:38:28.754377,Petrolina,Bebida,Coxinha,3,Pix,4.2,122.92
+2025-11-13 07:00:41.420710,Garanhuns,Hambúrguer,Água,5,Cartão de débito,2.7,46.27
+2025-11-13 11:22:54.087043,Recife,Hambúrguer,Coxinha,4,Cartão de crédito,3.0,218.73
+2025-11-13 15:45:06.753376,Petrolina,Hambúrguer,Batata Frita,3,Dinheiro,2.1,105.03
+2025-11-13 20:07:19.419709,Olinda,Sanduíche,Pizza de Calabresa,1,Cartão de crédito,3.8,32.27
+2025-11-14 00:29:32.086043,Recife,Porção,Água,5,Dinheiro,4.2,263.79
+2025-11-14 04:51:44.752376,Caruaru,Hambúrguer,Pizza de Calabresa,2,Dinheiro,2.0,115.12
+2025-11-14 09:13:57.418709,Recife,Hambúrguer,X-Bacon,3,Cartão de débito,1.2,90.05
+2025-11-14 13:36:10.085042,Recife,Pizza,Batata Frita,3,Dinheiro,3.5,50.9
+2025-11-14 17:58:22.751375,Petrolina,Sanduíche,Pizza de Frango,5,Cartão de crédito,3.3,252.08
+2025-11-14 22:20:35.417708,Olinda,Hambúrguer,Sanduíche Natural,4,Dinheiro,2.6,115.88
+2025-11-15 02:42:48.084042,Caruaru,Pizza,Pizza de Calabresa,4,Cartão de débito,3.6,226.59
+2025-11-15 07:05:00.750375,Garanhuns,Bebida,Batata Frita,4,Pix,3.2,229.58
+2025-11-15 11:27:13.416708,Garanhuns,Hambúrguer,Pizza de Calabresa,2,Cartão de crédito,2.0,27.94
+2025-11-15 15:49:26.083041,Recife,Hambúrguer,Refrigerante,5,Cartão de crédito,2.6,288.7
+2025-11-15 20:11:38.749374,Petrolina,Pizza,Suco,5,Cartão de débito,2.7,135.75
+2025-11-16 00:33:51.415707,Petrolina,Sanduíche,Pizza de Frango,4,Cartão de débito,4.5,166.42
+2025-11-16 04:56:04.082041,Garanhuns,Hambúrguer,Suco,4,Cartão de débito,4.8,39.23
+2025-11-16 09:18:16.748374,Caruaru,Bebida,Coxinha,1,Cartão de débito,4.6,54.22
+2025-11-16 13:40:29.414707,Olinda,Hambúrguer,Pizza de Calabresa,1,Cartão de crédito,3.9,41.36
+2025-11-16 18:02:42.081040,Caruaru,Bebida,Coxinha,3,Pix,3.3,124.39
+2025-11-16 22:24:54.747373,Olinda,Porção,X-Sertão,3,Dinheiro,3.8,164.74
+2025-11-17 02:47:07.413706,Garanhuns,Porção,Pizza de Calabresa,5,Dinheiro,4.8,172.17
+2025-11-17 07:09:20.080040,Olinda,Bebida,Batata Frita,5,Pix,,146.73
+2025-11-17 11:31:32.746373,Petrolina,Sanduíche,Pizza de Frango,2,Pix,3.1,106.08
+2025-11-17 15:53:45.412706,Recife,Hambúrguer,Coxinha,2,Pix,3.8,93.21
+2025-11-17 20:15:58.079039,Recife,Hambúrguer,Pizza de Calabresa,1,Cartão de débito,3.7,57.35
+2025-11-18 00:38:10.745372,Garanhuns,Porção,X-Sertão,3,Cartão de crédito,2.0,170.66
+2025-11-18 05:00:23.411705,Petrolina,Bebida,Suco,1,Cartão de crédito,3.3,27.88
+2025-11-18 09:22:36.078039,Caruaru,Hambúrguer,Batata Frita,1,Cartão de crédito,4.2,31.24
+2025-11-18 13:44:48.744372,Petrolina,Hambúrguer,Refrigerante,3,Cartão de débito,2.9,63.93
+2025-11-18 18:07:01.410705,Recife,Sanduíche,Pizza de Calabresa,2,Cartão de crédito,4.2,84.71
+2025-11-18 22:29:14.077038,Recife,Pizza,Refrigerante,3,Cartão de débito,2.4,80.87
+2025-11-19 02:51:26.743371,Petrolina,Porção,X-Bacon,4,Cartão de crédito,4.8,195.51
+2025-11-19 07:13:39.409704,Petrolina,Porção,Pizza de Frango,4,Pix,3.1,57.28
+2025-11-19 11:35:52.076038,Recife,Pizza,Pizza de Calabresa,4,Dinheiro,3.4,56.21
+2025-11-19 15:58:04.742371,Caruaru,Hambúrguer,Água,5,Dinheiro,1.1,93.16
+2025-11-19 20:20:17.408704,Garanhuns,Sanduíche,X-Sertão,2,Cartão de débito,1.7,24.77
+2025-11-20 00:42:30.075037,Garanhuns,Sanduíche,Coxinha,2,Cartão de crédito,3.5,80.48
+2025-11-20 05:04:42.741370,Petrolina,Porção,Água,5,Dinheiro,2.7,78.31
+2025-11-20 09:26:55.407703,Garanhuns,Sanduíche,X-Bacon,1,Pix,3.0,16.32
+2025-11-20 13:49:08.074037,Recife,Pizza,Pizza de Frango,4,Pix,1.3,34.96
+2025-11-20 18:11:20.740370,Recife,Hambúrguer,Suco,4,Pix,4.3,194.67
+2025-11-20 22:33:33.406703,Petrolina,Pizza,Batata Frita,1,Cartão de débito,4.1,50.24
+2025-11-21 02:55:46.073036,Petrolina,Bebida,Refrigerante,3,Cartão de débito,1.7,49.28
+2025-11-21 07:17:58.739369,Petrolina,Porção,X-Bacon,3,Cartão de crédito,3.5,139.37
+2025-11-21 11:40:11.405702,Caruaru,Sanduíche,Coxinha,2,Pix,4.3,61.09
+2025-11-21 16:02:24.072036,Garanhuns,Bebida,Batata Frita,5,Cartão de crédito,,102.29
+2025-11-21 20:24:36.738369,Petrolina,Sanduíche,Suco,2,Cartão de crédito,2.2,80.62
+2025-11-22 00:46:49.404702,Olinda,Hambúrguer,Coxinha,3,Pix,3.6,51.84
+2025-11-22 05:09:02.071035,Olinda,Hambúrguer,X-Sertão,1,Cartão de crédito,1.8,47.36
+2025-11-22 09:31:14.737368,Recife,Hambúrguer,Refrigerante,2,Dinheiro,2.3,20.95
+2025-11-22 13:53:27.403701,Garanhuns,Sanduíche,Água,4,Cartão de débito,,231.5
+2025-11-22 18:15:40.070035,Petrolina,Bebida,Pizza de Calabresa,4,Cartão de crédito,3.2,46.95
+2025-11-22 22:37:52.736368,Olinda,Hambúrguer,X-Bacon,1,Pix,1.4,38.13
+2025-11-23 03:00:05.402701,Garanhuns,Bebida,Pizza de Calabresa,3,Cartão de débito,4.7,164.74
+2025-11-23 07:22:18.069034,Recife,Sanduíche,Batata Frita,4,Cartão de débito,2.3,34.48
+2025-11-23 11:44:30.735367,Caruaru,Bebida,Pizza de Calabresa,4,Cartão de crédito,1.9,135.69
+2025-11-23 16:06:43.401700,Garanhuns,Sanduíche,Água,5,Dinheiro,3.0,131.0
+2025-11-23 20:28:56.068034,Garanhuns,Sanduíche,Sanduíche Natural,2,Cartão de crédito,2.1,76.35
+2025-11-24 00:51:08.734367,Caruaru,Porção,Batata Frita,3,Dinheiro,3.1,59.17
+2025-11-24 05:13:21.400700,Garanhuns,Sanduíche,Refrigerante,2,Cartão de débito,2.4,22.75
+2025-11-24 09:35:34.067033,Recife,Sanduíche,Coxinha,3,Cartão de crédito,1.5,121.65
+2025-11-24 13:57:46.733366,Recife,Pizza,Refrigerante,4,Pix,,118.7
+2025-11-24 18:19:59.399699,Caruaru,Hambúrguer,Pizza de Calabresa,5,Cartão de crédito,2.8,201.85
+2025-11-24 22:42:12.066033,Petrolina,Porção,Pizza de Frango,2,Dinheiro,1.1,37.9
+2025-11-25 03:04:24.732366,Olinda,Porção,Batata Frita,4,Dinheiro,4.1,102.46
+2025-11-25 07:26:37.398699,Petrolina,Porção,Coxinha,3,Cartão de crédito,3.5,111.62
+2025-11-25 11:48:50.065032,Garanhuns,Pizza,Suco,2,Dinheiro,3.4,77.68
+2025-11-25 16:11:02.731365,Olinda,Sanduíche,X-Sertão,2,Cartão de débito,3.2,54.72
+2025-11-25 20:33:15.397698,Caruaru,Hambúrguer,Refrigerante,4,Cartão de crédito,3.4,90.25
+2025-11-26 00:55:28.064032,Caruaru,Bebida,Refrigerante,2,Dinheiro,4.7,44.46
+2025-11-26 05:17:40.730365,Olinda,Sanduíche,Batata Frita,5,Cartão de crédito,1.0,85.42
+2025-11-26 09:39:53.396698,Recife,Pizza,Pizza de Frango,5,Cartão de crédito,1.2,124.61
+2025-11-26 14:02:06.063031,Olinda,Sanduíche,Pizza de Calabresa,4,Pix,1.8,73.48
+2025-11-26 18:24:18.729364,Garanhuns,Sanduíche,Pizza de Calabresa,3,Cartão de crédito,1.7,122.88
+2025-11-26 22:46:31.395697,Recife,Pizza,Batata Frita,4,Pix,1.7,150.37
+2025-11-27 03:08:44.062031,Caruaru,Porção,Refrigerante,5,Dinheiro,3.7,139.47
+2025-11-27 07:30:56.728364,Olinda,Porção,Coxinha,1,Pix,2.8,24.94
+2025-11-27 11:53:09.394697,Petrolina,Hambúrguer,X-Sertão,1,Pix,5.0,20.36
+2025-11-27 16:15:22.061030,Petrolina,Hambúrguer,Batata Frita,2,Pix,1.9,71.69
+2025-11-27 20:37:34.727363,Garanhuns,Porção,Coxinha,2,Cartão de débito,,111.57
+2025-11-28 00:59:47.393696,Petrolina,Bebida,Coxinha,1,Pix,4.9,43.66
+2025-11-28 05:22:00.060030,Olinda,Sanduíche,Suco,5,Cartão de crédito,4.3,233.55
+2025-11-28 09:44:12.726363,Olinda,Bebida,Água,2,Pix,2.9,102.78
+2025-11-28 14:06:25.392696,Petrolina,Sanduíche,Sanduíche Natural,4,Cartão de crédito,3.2,105.14
+2025-11-28 18:28:38.059029,Olinda,Porção,X-Sertão,4,Pix,4.4,45.08
+2025-11-28 22:50:50.725362,Garanhuns,Hambúrguer,X-Bacon,5,Cartão de débito,2.9,201.87
+2025-11-29 03:13:03.391695,Recife,Hambúrguer,Pizza de Frango,2,Dinheiro,1.8,35.62
+2025-11-29 07:35:16.058029,Garanhuns,Bebida,Sanduíche Natural,4,Pix,,150.36
+2025-11-29 11:57:28.724362,Garanhuns,Hambúrguer,Suco,2,Pix,3.2,92.91
+2025-11-29 16:19:41.390695,Olinda,Porção,X-Sertão,2,Cartão de débito,1.6,97.5
+2025-11-29 20:41:54.057028,Recife,Bebida,Pizza de Calabresa,4,Pix,3.0,94.78
+2025-11-30 01:04:06.723361,Olinda,Sanduíche,Sanduíche Natural,1,Cartão de crédito,2.7,34.65
+2025-11-30 05:26:19.389694,Caruaru,Hambúrguer,Pizza de Calabresa,4,Pix,4.5,161.16
+2025-11-30 09:48:32.056028,Olinda,Pizza,Pizza de Frango,5,Pix,1.5,253.06
+2025-11-30 14:10:44.722361,Olinda,Hambúrguer,Pizza de Calabresa,3,Dinheiro,4.5,142.78
+2025-11-30 18:32:57.388694,Olinda,Sanduíche,Pizza de Frango,4,Dinheiro,3.0,237.5
+2025-11-30 22:55:10.055027,Recife,Bebida,X-Sertão,2,Pix,2.6,16.84
+2025-12-01 03:17:22.721360,Olinda,Sanduíche,Refrigerante,2,Cartão de débito,1.6,61.5
+2025-12-01 07:39:35.387693,Recife,Pizza,Pizza de Frango,4,Dinheiro,3.8,85.26
+2025-12-01 12:01:48.054027,Petrolina,Porção,Coxinha,3,Pix,4.7,42.7
+2025-12-01 16:24:00.720360,Caruaru,Hambúrguer,X-Bacon,4,Dinheiro,2.5,221.6
+2025-12-01 20:46:13.386693,Recife,Bebida,X-Bacon,3,Pix,,179.68
+2025-12-02 01:08:26.053026,Petrolina,Porção,Batata Frita,3,Dinheiro,,52.17
+2025-12-02 05:30:38.719359,Recife,Sanduíche,X-Bacon,5,Dinheiro,4.2,49.99
+2025-12-02 09:52:51.385692,Recife,Bebida,Batata Frita,2,Cartão de crédito,1.0,44.61
+2025-12-02 14:15:04.052026,Caruaru,Porção,X-Bacon,2,Pix,3.5,102.83
+2025-12-02 18:37:16.718359,Garanhuns,Bebida,Pizza de Frango,3,Pix,3.4,69.85
+2025-12-02 22:59:29.384692,Garanhuns,Pizza,Coxinha,2,Pix,2.3,21.92
+2025-12-03 03:21:42.051025,Recife,Pizza,Refrigerante,1,Pix,2.8,10.73
+2025-12-03 07:43:54.717358,Olinda,Hambúrguer,Pizza de Calabresa,3,Dinheiro,2.0,90.68
+2025-12-03 12:06:07.383691,Petrolina,Hambúrguer,Suco,2,Cartão de crédito,4.2,112.91
+2025-12-03 16:28:20.050025,Olinda,Pizza,X-Bacon,1,Cartão de crédito,3.5,22.87
+2025-12-03 20:50:32.716358,Olinda,Bebida,Refrigerante,5,Cartão de débito,3.1,151.06
+2025-12-04 01:12:45.382691,Recife,Pizza,Refrigerante,2,Pix,2.6,26.6
+2025-12-04 05:34:58.049024,Recife,Hambúrguer,Pizza de Frango,1,Cartão de débito,2.2,33.67
+2025-12-04 09:57:10.715357,Recife,Pizza,X-Sertão,4,Dinheiro,4.3,176.88
+2025-12-04 14:19:23.381690,Recife,Pizza,X-Sertão,4,Cartão de débito,2.8,88.4
+2025-12-04 18:41:36.048024,Garanhuns,Bebida,X-Bacon,1,Pix,3.0,23.43
+2025-12-04 23:03:48.714357,Recife,Porção,Suco,3,Cartão de crédito,3.1,155.35
+2025-12-05 03:26:01.380690,Garanhuns,Hambúrguer,X-Bacon,3,Cartão de crédito,2.8,25.62
+2025-12-05 07:48:14.047023,Garanhuns,Bebida,X-Bacon,2,Pix,2.0,82.19
+2025-12-05 12:10:26.713356,Recife,Pizza,Batata Frita,4,Dinheiro,1.5,113.93
+2025-12-05 16:32:39.379689,Caruaru,Pizza,Coxinha,3,Pix,1.4,70.55
+2025-12-05 20:54:52.046023,Petrolina,Porção,Coxinha,3,Dinheiro,4.0,126.58
+2025-12-06 01:17:04.712356,Olinda,Hambúrguer,Suco,4,Cartão de crédito,1.9,205.61
+2025-12-06 05:39:17.378689,Garanhuns,Hambúrguer,Batata Frita,5,Dinheiro,1.2,185.18
+2025-12-06 10:01:30.045022,Petrolina,Sanduíche,Refrigerante,3,Pix,4.2,28.85
+2025-12-06 14:23:42.711355,Caruaru,Hambúrguer,Batata Frita,1,Pix,1.6,31.99
+2025-12-06 18:45:55.377688,Olinda,Porção,X-Bacon,2,Pix,3.5,64.13
+2025-12-06 23:08:08.044022,Olinda,Sanduíche,X-Sertão,3,Dinheiro,2.4,108.83
+2025-12-07 03:30:20.710355,Garanhuns,Sanduíche,Sanduíche Natural,3,Dinheiro,1.5,128.67
+2025-12-07 07:52:33.376688,Recife,Pizza,Suco,5,Dinheiro,2.7,45.02
+2025-12-07 12:14:46.043021,Caruaru,Pizza,Refrigerante,1,Cartão de crédito,1.1,34.1
+2025-12-07 16:36:58.709354,Garanhuns,Hambúrguer,Pizza de Frango,2,Cartão de débito,4.4,77.18
+2025-12-07 20:59:11.375687,Caruaru,Sanduíche,Sanduíche Natural,3,Cartão de débito,3.1,77.56
+2025-12-08 01:21:24.042021,Recife,Pizza,Sanduíche Natural,2,Pix,1.6,85.51
+2025-12-08 05:43:36.708354,Recife,Porção,Batata Frita,4,Cartão de crédito,1.9,79.46
+2025-12-08 10:05:49.374687,Garanhuns,Pizza,Pizza de Calabresa,3,Dinheiro,2.8,73.51
+2025-12-08 14:28:02.041020,Recife,Pizza,Sanduíche Natural,3,Pix,1.8,174.19
+2025-12-08 18:50:14.707353,Petrolina,Sanduíche,X-Bacon,4,Cartão de crédito,2.1,104.4
+2025-12-08 23:12:27.373686,Olinda,Sanduíche,Água,5,Pix,3.1,130.09
+2025-12-09 03:34:40.040020,Garanhuns,Bebida,X-Sertão,3,Cartão de crédito,4.3,116.93
+2025-12-09 07:56:52.706353,Caruaru,Porção,X-Sertão,2,Cartão de crédito,2.6,116.98
+2025-12-09 12:19:05.372686,Petrolina,Sanduíche,Água,1,Cartão de débito,3.9,59.12
+2025-12-09 16:41:18.039019,Garanhuns,Hambúrguer,Coxinha,2,Pix,4.5,76.28
+2025-12-09 21:03:30.705352,Recife,Porção,X-Bacon,5,Dinheiro,1.9,40.28
+2025-12-10 01:25:43.371685,Recife,Porção,Pizza de Frango,1,Cartão de débito,4.2,54.83
+2025-12-10 05:47:56.038019,Recife,Sanduíche,Sanduíche Natural,2,Cartão de débito,4.0,75.3
+2025-12-10 10:10:08.704352,Recife,Porção,Coxinha,2,Dinheiro,2.4,54.06
+2025-12-10 14:32:21.370685,Caruaru,Sanduíche,X-Bacon,4,Cartão de crédito,5.0,204.47
+2025-12-10 18:54:34.037018,Petrolina,Pizza,Batata Frita,5,Dinheiro,2.1,143.96
+2025-12-10 23:16:46.703351,Olinda,Bebida,X-Sertão,4,Pix,2.0,39.08
+2025-12-11 03:38:59.369684,Caruaru,Pizza,Coxinha,1,Dinheiro,4.1,50.7
+2025-12-11 08:01:12.036018,Caruaru,Sanduíche,Suco,4,Cartão de crédito,2.7,145.54
+2025-12-11 12:23:24.702351,Olinda,Sanduíche,Sanduíche Natural,5,Dinheiro,,127.92
+2025-12-11 16:45:37.368684,Olinda,Pizza,Sanduíche Natural,3,Cartão de crédito,1.7,63.14
+2025-12-11 21:07:50.035017,Recife,Hambúrguer,Pizza de Frango,3,Cartão de crédito,4.1,116.63
+2025-12-12 01:30:02.701350,Caruaru,Hambúrguer,Pizza de Calabresa,1,Pix,4.1,18.82
+2025-12-12 05:52:15.367683,Garanhuns,Hambúrguer,Suco,3,Dinheiro,3.3,74.52
+2025-12-12 10:14:28.034017,Olinda,Sanduíche,Sanduíche Natural,4,Dinheiro,4.8,164.4
+2025-12-12 14:36:40.700350,Olinda,Porção,Refrigerante,1,Pix,2.3,53.84
+2025-12-12 18:58:53.366683,Petrolina,Sanduíche,Suco,5,Cartão de crédito,1.9,178.55
+2025-12-12 23:21:06.033016,Garanhuns,Porção,Sanduíche Natural,1,Dinheiro,3.7,47.47
+2025-12-13 03:43:18.699349,Garanhuns,Pizza,Água,1,Pix,4.0,47.68
+2025-12-13 08:05:31.365682,Olinda,Bebida,Suco,2,Cartão de crédito,1.9,85.09
+2025-12-13 12:27:44.032016,Recife,Porção,X-Bacon,2,Pix,1.3,41.57
+2025-12-13 16:49:56.698349,Petrolina,Hambúrguer,Suco,1,Dinheiro,4.2,53.07
+2025-12-13 21:12:09.364682,Garanhuns,Sanduíche,Pizza de Frango,3,Pix,4.9,92.06
+2025-12-14 01:34:22.031015,Olinda,Pizza,Batata Frita,2,Cartão de débito,3.6,20.6
+2025-12-14 05:56:34.697348,Garanhuns,Hambúrguer,Batata Frita,5,Cartão de crédito,2.1,103.6
+2025-12-14 10:18:47.363681,Petrolina,Pizza,Batata Frita,4,Cartão de débito,5.0,191.23
+2025-12-14 14:41:00.030015,Petrolina,Bebida,X-Bacon,2,Cartão de débito,4.6,23.19
+2025-12-14 19:03:12.696348,Caruaru,Sanduíche,Coxinha,1,Cartão de crédito,3.1,15.66
+2025-12-14 23:25:25.362681,Olinda,Sanduíche,Batata Frita,3,Cartão de crédito,4.3,132.3
+2025-12-15 03:47:38.029014,Petrolina,Bebida,X-Sertão,4,Pix,4.3,217.66
+2025-12-15 08:09:50.695347,Caruaru,Sanduíche,X-Bacon,2,Cartão de crédito,4.7,81.91
+2025-12-15 12:32:03.361680,Caruaru,Porção,Coxinha,3,Cartão de débito,4.4,58.68
+2025-12-15 16:54:16.028014,Garanhuns,Pizza,X-Sertão,3,Cartão de débito,3.6,32.33
+2025-12-15 21:16:28.694347,Garanhuns,Hambúrguer,X-Sertão,3,Dinheiro,3.4,119.96
+2025-12-16 01:38:41.360680,Caruaru,Bebida,X-Sertão,1,Cartão de crédito,,10.46
+2025-12-16 06:00:54.027013,Garanhuns,Porção,Refrigerante,5,Cartão de débito,3.5,199.31
+2025-12-16 10:23:06.693346,Petrolina,Hambúrguer,Pizza de Frango,3,Dinheiro,,59.19
+2025-12-16 14:45:19.359679,Recife,Hambúrguer,Pizza de Frango,4,Dinheiro,4.9,220.17
+2025-12-16 19:07:32.026013,Petrolina,Bebida,X-Bacon,2,Pix,2.9,65.41
+2025-12-16 23:29:44.692346,Caruaru,Porção,X-Sertão,4,Cartão de débito,3.3,78.58
+2025-12-17 03:51:57.358679,Caruaru,Hambúrguer,Água,1,Pix,2.8,52.36
+2025-12-17 08:14:10.025012,Petrolina,Hambúrguer,Suco,1,Cartão de débito,3.7,21.21
+2025-12-17 12:36:22.691345,Garanhuns,Porção,Coxinha,4,Pix,3.5,95.77
+2025-12-17 16:58:35.357678,Garanhuns,Sanduíche,Pizza de Frango,5,Pix,1.1,256.91
+2025-12-17 21:20:48.024012,Caruaru,Hambúrguer,Batata Frita,1,Cartão de crédito,3.2,24.06
+2025-12-18 01:43:00.690345,Olinda,Pizza,X-Bacon,1,Pix,1.4,29.33
+2025-12-18 06:05:13.356678,Garanhuns,Porção,Coxinha,4,Cartão de crédito,1.1,104.31
+2025-12-18 10:27:26.023011,Petrolina,Hambúrguer,X-Bacon,1,Dinheiro,4.2,14.05
+2025-12-18 14:49:38.689344,Garanhuns,Bebida,Água,5,Cartão de débito,,50.11
+2025-12-18 19:11:51.355677,Petrolina,Pizza,Refrigerante,5,Dinheiro,2.4,228.38
+2025-12-18 23:34:04.022011,Caruaru,Hambúrguer,Refrigerante,5,Cartão de débito,1.3,207.74
+2025-12-19 03:56:16.688344,Garanhuns,Pizza,X-Sertão,2,Dinheiro,1.7,45.37
+2025-12-19 08:18:29.354677,Petrolina,Pizza,Refrigerante,5,Cartão de débito,4.1,116.86
+2025-12-19 12:40:42.021010,Caruaru,Sanduíche,X-Bacon,5,Pix,3.0,285.7
+2025-12-19 17:02:54.687343,Olinda,Pizza,Batata Frita,2,Cartão de débito,4.5,118.72
+2025-12-19 21:25:07.353676,Petrolina,Sanduíche,X-Sertão,3,Cartão de débito,2.6,97.86
+2025-12-20 01:47:20.020010,Olinda,Porção,Sanduíche Natural,1,Dinheiro,2.1,49.73
+2025-12-20 06:09:32.686343,Olinda,Sanduíche,Coxinha,5,Dinheiro,2.4,231.54
+2025-12-20 10:31:45.352676,Recife,Bebida,Água,1,Dinheiro,3.9,23.46
+2025-12-20 14:53:58.019009,Garanhuns,Hambúrguer,X-Sertão,4,Cartão de crédito,3.2,44.18
+2025-12-20 19:16:10.685342,Petrolina,Porção,X-Bacon,1,Cartão de crédito,4.6,15.41
+2025-12-20 23:38:23.351675,Olinda,Porção,Coxinha,2,Cartão de débito,3.4,103.18
+2025-12-21 04:00:36.018009,Recife,Bebida,Batata Frita,1,Cartão de débito,3.0,46.02
+2025-12-21 08:22:48.684342,Caruaru,Sanduíche,Pizza de Calabresa,1,Pix,4.1,42.55
+2025-12-21 12:45:01.350675,Petrolina,Hambúrguer,Água,1,Pix,4.8,14.79
+2025-12-21 17:07:14.017008,Olinda,Sanduíche,X-Bacon,3,Cartão de débito,2.4,123.83
+2025-12-21 21:29:26.683341,Garanhuns,Pizza,Água,3,Cartão de crédito,2.0,144.46
+2025-12-22 01:51:39.349674,Recife,Sanduíche,Pizza de Frango,4,Cartão de débito,3.5,211.01
+2025-12-22 06:13:52.016008,Olinda,Porção,Pizza de Calabresa,2,Pix,3.0,17.38
+2025-12-22 10:36:04.682341,Garanhuns,Hambúrguer,Coxinha,1,Cartão de crédito,5.0,43.59
+2025-12-22 14:58:17.348674,Olinda,Sanduíche,Refrigerante,1,Cartão de crédito,2.8,8.99
+2025-12-22 19:20:30.015007,Petrolina,Hambúrguer,X-Bacon,1,Pix,1.3,44.76
+2025-12-22 23:42:42.681340,Petrolina,Hambúrguer,Água,1,Cartão de débito,4.9,41.05
+2025-12-23 04:04:55.347673,Petrolina,Pizza,Coxinha,3,Dinheiro,4.4,47.14
+2025-12-23 08:27:08.014007,Recife,Pizza,Refrigerante,4,Cartão de débito,1.7,191.35
+2025-12-23 12:49:20.680340,Petrolina,Porção,Batata Frita,5,Cartão de débito,,57.77
+2025-12-23 17:11:33.346673,Garanhuns,Bebida,Batata Frita,2,Pix,2.4,101.95
+2025-12-23 21:33:46.013006,Olinda,Hambúrguer,Água,1,Cartão de crédito,2.5,21.62
+2025-12-24 01:55:58.679339,Caruaru,Bebida,X-Sertão,4,Pix,4.6,175.28
+2025-12-24 06:18:11.345672,Garanhuns,Porção,Pizza de Frango,5,Cartão de débito,3.1,280.16
+2025-12-24 10:40:24.012006,Garanhuns,Hambúrguer,X-Sertão,4,Dinheiro,1.6,102.68
+2025-12-24 15:02:36.678339,Petrolina,Hambúrguer,Pizza de Frango,3,Dinheiro,2.5,102.45
+2025-12-24 19:24:49.344672,Recife,Bebida,X-Bacon,5,Dinheiro,3.9,160.41
+2025-12-24 23:47:02.011005,Olinda,Sanduíche,Sanduíche Natural,4,Pix,1.7,64.78
+2025-12-25 04:09:14.677338,Recife,Pizza,Água,3,Cartão de crédito,3.4,116.09
+2025-12-25 08:31:27.343671,Olinda,Sanduíche,Suco,4,Pix,3.8,186.54
+2025-12-25 12:53:40.010005,Olinda,Bebida,Água,4,Dinheiro,2.4,222.71
+2025-12-25 17:15:52.676338,Recife,Pizza,Pizza de Calabresa,5,Cartão de débito,3.8,261.21
+2025-12-25 21:38:05.342671,Garanhuns,Sanduíche,Refrigerante,3,Cartão de crédito,4.5,103.56
+2025-12-26 02:00:18.009004,Olinda,Pizza,Pizza de Calabresa,1,Pix,2.9,45.39
+2025-12-26 06:22:30.675337,Recife,Hambúrguer,Batata Frita,2,Pix,2.5,99.28
+2025-12-26 10:44:43.341670,Olinda,Sanduíche,Pizza de Frango,5,Cartão de crédito,2.0,168.31
+2025-12-26 15:06:56.008004,Caruaru,Pizza,Refrigerante,3,Cartão de crédito,3.4,42.01
+2025-12-26 19:29:08.674337,Garanhuns,Pizza,Batata Frita,4,Cartão de débito,4.5,123.09
+2025-12-26 23:51:21.340670,Petrolina,Pizza,Refrigerante,3,Cartão de crédito,2.3,155.43
+2025-12-27 04:13:34.007003,Olinda,Sanduíche,X-Sertão,2,Cartão de débito,2.6,78.05
+2025-12-27 08:35:46.673336,Caruaru,Porção,Batata Frita,2,Dinheiro,2.6,91.34
+2025-12-27 12:57:59.339669,Petrolina,Sanduíche,X-Sertão,1,Dinheiro,,17.63
+2025-12-27 17:20:12.006003,Petrolina,Bebida,X-Sertão,1,Pix,1.9,58.15
+2025-12-27 21:42:24.672336,Olinda,Sanduíche,Refrigerante,2,Dinheiro,4.3,58.02
+2025-12-28 02:04:37.338669,Recife,Pizza,Coxinha,5,Dinheiro,2.2,209.95
+2025-12-28 06:26:50.005002,Olinda,Hambúrguer,Pizza de Calabresa,5,Cartão de débito,3.8,44.91
+2025-12-28 10:49:02.671335,Caruaru,Sanduíche,Batata Frita,4,Pix,3.1,58.48
+2025-12-28 15:11:15.337668,Petrolina,Sanduíche,Suco,1,Cartão de crédito,3.3,48.67
+2025-12-28 19:33:28.004002,Olinda,Pizza,Coxinha,4,Pix,1.7,233.34
+2025-12-28 23:55:40.670335,Recife,Hambúrguer,Pizza de Calabresa,1,Dinheiro,3.9,24.64
+2025-12-29 04:17:53.336668,Olinda,Hambúrguer,Batata Frita,2,Cartão de crédito,1.8,19.87
+2025-12-29 08:40:06.003001,Garanhuns,Bebida,Pizza de Frango,5,Pix,1.5,133.83
+2025-12-29 13:02:18.669334,Recife,Sanduíche,Pizza de Calabresa,5,Pix,3.2,44.54
+2025-12-29 17:24:31.335667,Caruaru,Hambúrguer,Suco,2,Pix,3.8,36.01
+2025-12-29 21:46:44.002001,Petrolina,Hambúrguer,Água,4,Pix,1.2,188.51
+2025-12-30 02:08:56.668334,Olinda,Porção,X-Bacon,4,Cartão de débito,1.3,226.91
+2025-12-30 06:31:09.334667,Recife,Porção,X-Sertão,3,Pix,4.2,37.64
+2025-12-30 10:53:22.001000,Garanhuns,Hambúrguer,X-Bacon,1,Dinheiro,4.2,37.01
+2025-12-30 15:15:34.667333,Recife,Bebida,Coxinha,4,Dinheiro,2.0,84.81
+2025-12-30 19:37:47.333666,Garanhuns,Hambúrguer,Água,2,Cartão de débito,3.5,30.46
+2025-12-31 00:00:00.000000,Caruaru,Pizza,X-Sertão,4,Cartão de crédito,2.8,77.55
