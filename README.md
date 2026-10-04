@@ -4,6 +4,9 @@ Projeto desenvolvido como atividade prática de análise de dados utilizando Pyt
 
 O projeto apresenta um painel interativo para análise das vendas da rede fictícia de lanchonetes **Sabor do Sertão**, permitindo visualizar indicadores, gráficos e insights gerenciais.
 
+## 📸 Screenshot
+
+![Dashboard Sabor do Sertão](dashboard.png)
 ---
 
 ## 📊 Funcionalidades
