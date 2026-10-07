@@ -1,4 +1,4 @@
-# 🌵 Painel de Análise de Dados — Sabor do Sertão
+# 🌵 Painel de Análise de Dados — Sabor do Sertão - Caio Sabino e Marcos Vinícius
 
 Projeto desenvolvido como atividade prática de análise de dados utilizando Python, Pandas, Streamlit e Plotly.
 
